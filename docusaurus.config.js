@@ -5,7 +5,7 @@ module.exports = {
   tagline: 'Agropecuaria Oeste',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
   organizationName: 'IFMS - campus Dourados / Embrapa', // Usually your GitHub org/user name.
   projectName: 'Tecnologias para a Agricultura Familiar Digital', // Usually your repo name.
   plugins: [path.resolve(__dirname, './node_modules/docusaurus-lunr-search/')],
