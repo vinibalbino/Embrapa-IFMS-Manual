@@ -1,33 +1,38 @@
-# Website
+# Embrapa - IFMS - Campus Dourados
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+
+Para rodar o projeto e necessário ter npm ou yarn como gerenciador de dependencias 
+
+obs: O search da página funciona somente em modo de produção com o build da aplicação
 
 ### Installation
 
 ```
-$ yarn
+$ npm install
 ```
 
 ### Local Development
 
 ```
-$ yarn start
+$ npm start
 ```
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+Esse comando inicial o desenvolvimento em modo local
 
 ### Build
 
 ```
-$ yarn build
+$ npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Esse comando gera a build do website.
 
-### Deployment
+### Run Build
+
+Na raiz da pasta depois de gerar o build execute o comando abaixo para fazer com que o search funcione
 
 ```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+$ npx http-server ./build
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
