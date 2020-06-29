@@ -5,7 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 import styles from './styles.module.css';
 import { users } from '../../static/js/autores';
-//
+
 function Autores() {
   const showcase = users.map((user) => (
     <div className="card">
