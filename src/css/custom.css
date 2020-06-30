@@ -25,12 +25,31 @@ body {
 
 .hero {
   align-items: center;
-  background: url(/img/fundo-hero.jpg) no-repeat no-repeat center center;
-  background-attachment: fixed;
   display: flex;
   flex-direction: column;
   height: 600px;
   justify-content: center;
+  background-image:url('/img/fundo-1-100.jpg'); 
+  background-position:center; 
+  -o-background-size:cover; 
+  -moz-background-size:cover; 
+  -webkit-background-size:cover; 
+  background-size:cover; 
+  background-repeat:no-repeat;
+}
+
+@supports not (-webkit-touch-callout: none) {
+  /* CSS for other than iOS devices */ 
+  .hero {
+    background-attachment:fixed; 
+  }
+}
+
+@supports (-webkit-touch-callout: none) {
+  /* CSS specific to iOS devices */ 
+  .hero {
+    background-attachment:scroll; 
+  }
 }
 
 .hero .mensagem {
@@ -41,7 +60,7 @@ body {
 
 .hero h1 {
   color: rgba(255, 255, 255, 1);
-  font-size: 3rem;
+  font-size: 2.25rem;
   text-align: center;
 }
 
@@ -198,9 +217,11 @@ footer .container {
 
 @media screen and (min-width: 960px) {
   .hero h1 {
+    font-size: 3rem;
     width: 60%;
     margin: 0 auto;
   }
+  
   .apresentacao .titulo {
     margin: 0 auto;
     text-align: center;
