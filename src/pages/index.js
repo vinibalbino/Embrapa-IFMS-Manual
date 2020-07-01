@@ -21,11 +21,11 @@ function Home() {
         <title>Embrapa</title>
 
         <meta name="mobile-web-app-capable" content="yes" />
-        <meta name="application-name" content="Guaruak" />
+        <meta name="application-name" content="Embrapa" />
         <link rel="icon" sizes="192x192" href="/img/1x/logo-192x192.png" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#218c74" />
-        <meta name="apple-mobile-web-app-title" content="Guaruak" />
+        <meta name="apple-mobile-web-app-title" content="Embrapa" />
         <link rel="apple-touch-icon" href="/img/1x/logo-256x256.png" />
         <meta name="msapplication-TileColor" content="#218c74" />
         <meta name="msapplication-TileImage" content="%PUBLIC_URL%/img/1x/logo-192x192.png" />
