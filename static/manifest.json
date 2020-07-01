@@ -43,8 +43,10 @@
         "type": "image/png"
       }
     ],
-    "start_url": "/",
+    "start_url": "/?utm_source=homescreen",
+    "scope": "/",
     "display": "standalone",
+    "lang": "pt-BR",
     "theme_color": "#218c74",
     "background_color": "#fefefe"
   }
