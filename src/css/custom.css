@@ -209,13 +209,20 @@ footer .container {
   padding-top: 1rem;
 }
 
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 850px) {
   .container-cards .card {
-    width: 40vw;
+    width: 35vw;
   }
 }
 
-@media screen and (min-width: 960px) {
+@media screen and (min-width: 550px) {
+  .container-cards .card {
+    width: 100vw;
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
   .hero h1 {
     font-size: 3rem;
     width: 60%;
@@ -251,6 +258,6 @@ footer .container {
   }
 
   .container-cards .card {
-    width: 20vw;
+    width: 28vw;
   }
 }

@@ -7,8 +7,10 @@ import styles from './styles.module.css';
 import { users } from '../../static/js/autores';
 
 function Autores() {
+  var i = 0;
   const showcase = users.map((user) => (
-    <div className="card">
+    i++,
+    <div key={i} className="card">
       <div className={styles.container}>
         <img src={user.image} alt="" />
         <p className="bold nome-autor">{user.name}</p>
@@ -28,8 +30,7 @@ function Autores() {
   const { siteConfig = {} } = context;
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`Autores`}
     >
       <div className="mainContainer">
         <div className="showcaseSection">

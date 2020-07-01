@@ -25,7 +25,7 @@ module.exports = {
           label: 'Revista Completa',
           position: 'right',
         },
-        { to: 'Autores', label: 'Autores', position: 'right' },
+        { to: '/autores', label: 'Autores', position: 'right' },
       ],
     },
     footer: {
