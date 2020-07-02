@@ -14,7 +14,7 @@ module.exports = {
       // You will need to prepend the image path with your baseUrl
       // if it is not '/', like: '/test-site/img/image.jpg'.
       image: '../img/undraw_docusaurus_tree.svg',
-      lattes: '',
+      lattes: 'http://lattes.cnpq.br/6400187701202426',
       description:
         'Engenheiro-agrônomo, doutor em Agronomia, analista de apoio à pesquisa da Embrapa Agropecuária Oeste, Dourados, MS.',
     },
@@ -23,7 +23,7 @@ module.exports = {
       // You will need to prepend the image path with your baseUrl
       // if it is not '/', like: '/test-site/img/image.jpg'.
       image: '../img/undraw_docusaurus_tree.svg',
-      lattes: '',
+      lattes: 'http://lattes.cnpq.br/4678728361888916',
       description:
         'Engenheira-agrônoma, doutora em Patologia Molecular, pesquisadora da Embrapa Cerrados, Planaltina, DF.',
     },
@@ -32,7 +32,7 @@ module.exports = {
       // You will need to prepend the image path with your baseUrl
       // if it is not '/', like: '/test-site/img/image.jpg'.
       image: '../img/undraw_docusaurus_tree.svg',
-      lattes: '',
+      lattes: 'http://lattes.cnpq.br/7852800997082676',
       description:
         'Engenheira-agrônoma, doutora em Produção Vegetal, pesquisadora da Embrapa Cerrados, Planaltina, DF.',
     },
@@ -60,14 +60,14 @@ module.exports = {
     {
       name: 'Cássia Regina Yurico Ide Vieira',
       image: '../img/undraw_docusaurus_tree.svg',
-      lattes: 'none',
+      lattes: '',
       description:
         'Engenheira-agrônoma, doutora em Agronomia, pesquisadora da Agência de Desenvolvimento Agrário e Extensão Rural (Agraer),Dourados, MS.',
     },
     {
       name: 'Christiane Abreu de Oliveira Paiva',
       image: '../img/undraw_docusaurus_tree.svg',
-      lattes: 'none',
+      lattes: 'http://lattes.cnpq.br/0147534817277558',
       description:
         'Engenheira-agrônoma, doutora em Biologia Vegetal, pesquisadora da Embrapa Milho e Sorgo, Sete Lagoas, MG.',
     },
@@ -88,7 +88,7 @@ module.exports = {
     {
       name: 'Eliane Aparecida Gomes',
       image: '../img/undraw_docusaurus_tree.svg',
-      lattes: '',
+      lattes: 'http://lattes.cnpq.br/7124735512033113',
       description:
         'Bióloga, doutora em Genética, pesquisadora da Embrapa Milho e Sorgo, Sete Lagoas, MG.',
     },
@@ -200,7 +200,7 @@ module.exports = {
     {
       name: 'Ítalo Lüdke',
       image: '../img/undraw_docusaurus_tree.svg',
-      lattes: 'http://lattes.cnpq.br/1587528239422123',
+      lattes: 'http://lattes.cnpq.br/4392308376446375',
       description:
         'Engenheiro-agrônomo, mestre em Agronomia, supervisor do Setor de Implementação da Programação de Transferência de Tecnologia (SIPT), Embrapa Hortaliças, Brasília, DF.',
     },
@@ -417,7 +417,7 @@ module.exports = {
     {
       name: 'Vitória Palhares Ribeiro',
       image: '../img/undraw_docusaurus_tree.svg',
-      lattes: 'http://lattes.cnpq.br/8156753554481767',
+      lattes: 'http://lattes.cnpq.br/4509938348449806',
       description:
         'Bióloga, doutoranda em Bioengenharia, Universidade Federal de São João del-Rei (UFSJ), Sete Lagoas, MG.',
     },
