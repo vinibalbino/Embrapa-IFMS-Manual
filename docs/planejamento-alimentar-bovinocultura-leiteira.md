@@ -174,11 +174,11 @@ comida o ano todo.
 
 ## **4. Onde obter mais informações**
 
-**Vídeo:**
+### Vídeo
 
 [Cana-de-açúcar na alimentação de vacas leiteiras – Dia de Campo na TV:](https://bit.ly/35G60Ei)
 
-**Publicações:**
+### Publicações
 
 [Cana com ureia na alimentação de bovinos](https://bit.ly/2XWE6Dj)
 
@@ -188,7 +188,7 @@ comida o ano todo.
 
 [10 passos para produção da silagem de capim-elefante](https://bit.ly/2L7nPnT)
 
-**Instituição:**
+### Instituição
 
 **Embrapa Agropecuária Oeste**
 

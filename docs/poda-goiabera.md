@@ -111,7 +111,7 @@ temperaturas, para evitar a perda de plantas.
 
 ## **4. Onde obter mais informações**
 
-**Publicação:**
+### Publicação
 
 [Cultura da goiabeira](https://bit.ly/2U3XSe1)
 
@@ -119,7 +119,7 @@ VIEIRA, C. R. Y. I.; OLIVEIRA, I.; REIS, H. F.; MACEDO, G. S.
 Cultura da goiabeira. Dourados: AGRAER, 2015. (AGRAER.
 Cartilha técnica). 43 p.
 
-**Instituição:**
+### Instituição
 
 **Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
 

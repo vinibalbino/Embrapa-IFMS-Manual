@@ -192,7 +192,7 @@ guatambu-do-cerrado e sumaúma-preta).
 
 ## 4. **Onde obter mais informações**
 
-**Vídeos:**
+### Vídeos
 
 [Integração lavoura-pecuária-floresta ( **ILPF** )](https://bit.ly/2LPc99G)
 
@@ -214,11 +214,11 @@ guatambu-do-cerrado e sumaúma-preta).
 
 [Produtores enfrentam o desafio de dobrar a produção sem desmatar](https://bit.ly/36veqis)
 
-**Publicação:**
+### Publicação
 
 [Sistemas silvipastoris](https://bit.ly/36xQN8X)
 
-**Instituição:**
+### Instituição
 
 **Embrapa Agropecuária Oeste**
 

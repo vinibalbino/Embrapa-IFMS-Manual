@@ -93,7 +93,7 @@ para ter oferta de alimento o ano todo.
 
 ## **4. Onde obter mais informações**
 
-**Vídeo:**
+### Vídeo
 
 [Capins para gado leiteiro, BRS Kurumi e BRS Capiaçu – Pastagem](https://bit.ly/2YOFLcz)
 
@@ -102,7 +102,7 @@ para ter oferta de alimento o ano todo.
 [BRS Capiaçu: cultivar de capim-elefante voltada para a silagem – Programa Terra Sul](https://bit.ly/38zg9Vv)
 
 
-**Publicação:**
+### Publicação
 
 [Informações sobre a cultivar de capim-elefante BRS Kurumi](https://bit.ly/3clkJIU)
 
@@ -110,14 +110,14 @@ para ter oferta de alimento o ano todo.
 
 [BRS Capiaçu: cultivar de capim-elefante de alto rendimento para produção de silagem](https://bit.ly/2XVTwrv)
 
-**Viveiristas credenciados para aquisição de mudas:**
+### Viveiristas credenciados para aquisição de mudas
 
 [Capim-elefante – BRS Capiaçu](https://bit.ly/38ypKMp)
 
 [Capim-elefante – BRS Kurumi](https://bit.ly/2EgJ4Qh)
 
 
-**Instituição:**
+### Instituição
 
 **Embrapa Gado de Leite**
 

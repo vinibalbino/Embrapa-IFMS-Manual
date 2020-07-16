@@ -38,17 +38,17 @@ e cobertura do solo para plantio direto das culturas.
 
 ## **3. Como utilizar**
 
-**Semeadura do milho**
+### Semeadura do milho
 
 O milho é cultivado como se não tivesse a forrageira, com a
 tecnologia normalmente utilizada pelo agricultor.
 
-**Adubação**
+### Adubação
 
 A adubação deve ser realizada preferencialmente para o milho,
 reduzindo assim a competição da braquiária com o milho.
 
-**Semeadura da forrageira**
+### Semeadura da forrageira
 
 A semeadura da forrageira pode ser realizada na mesma
 operação de semeadura do milho, visando diminuir os custos
@@ -62,7 +62,7 @@ facilita a regulagem da quantidade de sementes para estabelecer
 a população de plantas desejada e realizar a semeadura do milho
 e da forrageira na mesma operação de semeadura.
 
-**Momento de implantação da forrageira**
+### Momento de implantação da forrageira
 
 A semeadura da forrageira realizada na mesma operação de
 semeadura do milho é indicada porque diminui os custos de
@@ -76,7 +76,7 @@ demasiadamente com o milho e isso torna necessária a
 aplicação de herbicida para supressão da braquiária,
 aumentando os custos de produção.
 
-**População de plantas da forrageira**
+### População de plantas da forrageira
 
 Quando o objetivo do consórcio é produção exclusiva de palha
 para cobertura do solo, deve-se utilizar pequenas populações de
@@ -94,7 +94,7 @@ germinação possível, a fim de obter plantas de maior vigor inicial.
 A boa germinação das sementes em campo é importante para
 uma pastagem bem estabelecida.
 
-**Profundidade das sementes da forrageira**
+### Profundidade das sementes da forrageira
 
 As sementes da forrageira devem ser distribuídas numa
 profundidade de 3 cm a 5 cm. Profundidades menores podem ser
@@ -103,7 +103,7 @@ semeaduras da safrinha, quando há probabilidade de boas
 quantidades de chuva após a semeadura. Sementes de Panicum
 devem ter menor incorporação.
 
-**Braquiária a ser utilizada**
+### Braquiária a ser utilizada
 
 A escolha da braquiária está relacionada com o objetivo do
 consórcio, tipo e fertilidade do solo, entre outros fatores. A
@@ -118,15 +118,15 @@ alguma cultivar de Panicum, tais como Mombaça, Zuri e Tamani.
 
 ## **4. Onde obter mais informações**
 
-**Vídeo:**
+### Vídeo
 
 [Embrapa – Consórcio Milho-Braquiária:](https://youtu.be/BNOQ3FzLS30)
 
-**Publicação:**
+### Publicação
 
 [Implantação e manejo de forrageiras em consórcio com milho safrinha](https://bit.ly/34UX9iS)
 
-**Instituição:**
+### Instituição
 
 **Embrapa Agropecuária Oeste**
 
