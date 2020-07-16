@@ -89,11 +89,11 @@ Ambos apresentam bom rendimento e cortes com qualidade.
 
 ## **4. Onde obter mais informações**
 
-**Vídeo:**
+### Vídeo
 
 [Embrapa desenvolve técnicas com variedades mais resistentes às pragas](https://bit.ly/2wsmjIL)
 
-**Publicação:**
+### Publicação
 
 [Mandioca: Coleção 500 perguntas, 500 respostas](https://bit.ly/2xdjdZs)
 
@@ -101,7 +101,7 @@ Ambos apresentam bom rendimento e cortes com qualidade.
 
 [Cultivo da mandioca na região Centro-Sul do Brasil](https://bit.ly/39qz5Wt)
 
-**Instituição:**
+### Instituição
 
 **Embrapa Agropecuária Oeste**
 

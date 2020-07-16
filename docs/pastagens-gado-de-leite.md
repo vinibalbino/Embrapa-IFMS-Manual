@@ -216,11 +216,11 @@ menor.
 
 ## **4. Onde obter mais informações**
 
-**Vídeo:**
+### Vídeo
 
 [Manejo alimentar de gado leiteiro – Agricultura familiar](https://youtu.be/NjD2I34zYj8)
 
-**Publicações:**
+### Publicações
 
 [Características do pasto e desempenho de novilhas leiteiras em pastagem de capim-elefante cv. BRS Kurumi](https://bit.ly/39UkEdz)
 
@@ -230,7 +230,7 @@ menor.
 
 [Gado de Leite – Coleção 500 perguntas, 500 respostas](https://bit.ly/3aZiuJR)
 
-**Instituição:**
+### Instituição
 
 **Embrapa Agropecuária Oeste**
 
