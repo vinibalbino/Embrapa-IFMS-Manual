@@ -8,24 +8,23 @@ sidebar_label: Cultivares de Maracujazeiros Doce e Silvestres da Embrapa
 
 ## **1. O que é**
 
-O maracujazeiro-doce (*Passiflora alata Curtis*) e os
-maracujazeiros-silvestres (*Passiflora setacea* DC. e *Passiflora
-cincinnata* Mast.) são importantes alternativas para os
-produtores de maracujazeiro-azedo (*Passiflora edulis* Sims) e
+O maracujazeiro-doce (_Passiflora alata Curtis_) e os
+maracujazeiros-silvestres (_Passiflora setacea_ DC. e _Passiflora
+cincinnata_ Mast.) são importantes alternativas para os
+produtores de maracujazeiro-azedo (_Passiflora edulis_ Sims) e
 também para outros fruticultores. O maracujazeiro-doce é
 cultivado comercialmente no Brasil desde a década de 1970,
 mas a primeira cultivar (BRS Mel do Cerrado – BRS MC) foi
 registrada e protegida no Ministério da Agricultura, Pecuária e
 Abastecimento (Mapa) somente em 2017. A primeira cultivar de
-maracujazeiro-silvestre da espécie *P. setacea* (BRS Pérola do
+maracujazeiro-silvestre da espécie _P. setacea_ (BRS Pérola do
 Cerrado – BRS PC) foi lançada pela Embrapa em 2013 e a da
-espécie *P. cincinnata* (BRS Sertão Forte – BRS SF) lançada em
-2016. A seguir são apresentadas as características de cada
+espécie _P. cincinnata_ (BRS Sertão Forte – BRS SF) lançada em 2016. A seguir são apresentadas as características de cada
 cultivar.
 
 ### BRS Mel do Cerrado (BRS MC)
 
-Cultivar da espécie *P. alata*
+Cultivar da espécie _P. alata_
 destinada ao mercado de frutas especiais de alto valor agregado.
 É uma boa opção para fruticultores altamente tecnificados e para
 cultivo em estufa, onde se pode obter frutos de alta qualidade
@@ -52,7 +51,7 @@ ano de produção.
 ### BRS Pérola do Cerrado (BRS PC)
 
 Esta cultivar, da espécie
-*P. setacea*, possui quatro aptidões: consumo in natura,
+_P. setacea_, possui quatro aptidões: consumo in natura,
 processamento industrial, ornamental e funcional-medicinal.
 Trata-se de uma alternativa para o mercado de frutas especiais e
 de alto valor agregado destinadas a indústrias de sucos,
@@ -71,7 +70,7 @@ regiões do Brasil.
 
 ### BRS Sertão Forte (BRS SF)
 
-Cultivar da espécie *P. cincinnata*
+Cultivar da espécie _P. cincinnata_
 como alternativa para o mercado de frutas especiais e de alto
 valor agregado destinadas a indústrias de sucos, sorvetes e
 doces. Apresenta flores roxas, com diâmetro em torno de 10,6 cm
@@ -86,20 +85,20 @@ cultivar apresenta como característica de destaque a maior
 tolerância a estresse hídrico. Sua flor exuberante, arroxeada e
 com longos filamentos evidenciam também o seu potencial
 ornamental. As flores abrem no período da manhã e são muito
-visitadas por mamangavas (*Xylocopa* sp.), que são os insetos
+visitadas por mamangavas (_Xylocopa_ sp.), que são os insetos
 polinizadores do maracujazeiro-azedo comercial.
 
 ## **2. Benefícios e/ou vantagens**
 
 - O produtor de maracujá-doce e silvestre deve dedicar parte
-do seu tempo para a abertura de mercado. As cadeias
-produtivas destes maracujás estão em consolidação e, por
-isso, muitos consumidores ainda não conhecem estas frutas.
-O produtor deve estabelecer uma estratégia de marketing
-para apresentar estes maracujás aos potenciais
-consumidores. Como são novidades no mercado, estes
-maracujás têm grande potencial de venda a preços altos no
-mercado varejista.
+  do seu tempo para a abertura de mercado. As cadeias
+  produtivas destes maracujás estão em consolidação e, por
+  isso, muitos consumidores ainda não conhecem estas frutas.
+  O produtor deve estabelecer uma estratégia de marketing
+  para apresentar estes maracujás aos potenciais
+  consumidores. Como são novidades no mercado, estes
+  maracujás têm grande potencial de venda a preços altos no
+  mercado varejista.
 
 ## **3. Como utilizar**
 
@@ -142,8 +141,26 @@ EMBRAPA. Embrapa Cerrados. Lançamento Oficial da Cultivar
 de Maracujazeiro Silvestre BRS Sertão Forte (BRS SF):
 https://bit.ly/3ajoD3U
 
-![BRS Mel do Cerrado (BRS MC)]()
+![BRS Mel do Cerrado (BRS MC)](/img/docs/34_maracujazeiro_doce/FOTO_01.jpg)
 
-![BRS Pérola do Cerrado (BRS PC)]()
+Foto: Fabiano Basto
 
-![BRS Sertão Forte (BRS SF)]()
+<div class="center-textImage">
+BRS Mel do Cerrado (BRS MC)
+</div>
+
+![BRS Pérola do Cerrado (BRS PC)](/img/docs/34_maracujazeiro_doce/FOTO_02.jpg)
+
+Foto: Fabiano Basto
+
+<div class="center-textImage">
+BRS Pérola do Cerrado (BRS PC)
+</div>
+
+![BRS Sertão Forte (BRS SF)](/img/docs/34_maracujazeiro_doce/FOTO_03.jpg)
+
+Foto: Fabiano Basto
+
+<div class="center-textImage">
+BRS Sertão Forte (BRS SF)
+</div>

@@ -33,21 +33,21 @@ bem aos sistemas menos intensivos.
 ## **2. Benefícios e/ou vantagens**
 
 - A principal vantagem de utilizar as galinhas poedeiras
-coloniais Embrapa 051, na produção de ovos em sistemas
-alternativos, é a fácil adaptação dessa linhagem, aliada à boa
-produtividade, alcançando viabilidade, no final da cria e recria,
-de 99% e, ao final do período de produção, acima de 92%, com 90 semanas de idade. O esperado, durante o período de
-postura, é até 345 ovos por ave, com início na 20ª semana, e
-pico de produção entre a 27ª e a 29ª semana de idade. A ave
-produz ovos com peso médio de 57 gramas na 40ª semana.
+  coloniais Embrapa 051, na produção de ovos em sistemas
+  alternativos, é a fácil adaptação dessa linhagem, aliada à boa
+  produtividade, alcançando viabilidade, no final da cria e recria,
+  de 99% e, ao final do período de produção, acima de 92%, com 90 semanas de idade. O esperado, durante o período de
+  postura, é até 345 ovos por ave, com início na 20ª semana, e
+  pico de produção entre a 27ª e a 29ª semana de idade. A ave
+  produz ovos com peso médio de 57 gramas na 40ª semana.
 
 - Os principais beneficiados pela criação da galinha são
-agricultores familiares de todo o Brasil. A Poedeira Colonial
-Embrapa 051 está disponível em praticamente todo o País,
-por meio da empresa multiplicadora e seus distribuidores,
-com a proposta de criação em sistemas semiconfinados para
-produção de ovos com valor agregado e a possibilidade de
-redução no custo inicial de investimento com instalações.
+  agricultores familiares de todo o Brasil. A Poedeira Colonial
+  Embrapa 051 está disponível em praticamente todo o País,
+  por meio da empresa multiplicadora e seus distribuidores,
+  com a proposta de criação em sistemas semiconfinados para
+  produção de ovos com valor agregado e a possibilidade de
+  redução no custo inicial de investimento com instalações.
 
 ## **3. Como utilizar**
 
@@ -99,7 +99,7 @@ dia e armazenados imediatamente em salas frescas, arejadas
 e adequadamente higienizadas.
 
 **i)** Adotar um bom programa de vacinação, controle de
-parasitos, roedores e outras pragas, como moscas e ácaros. 
+parasitos, roedores e outras pragas, como moscas e ácaros.
 
 Devem ser levadas em consideração as realidades climáticas de
 cada região. A construção deve ter por finalidade amenizar as
@@ -110,7 +110,7 @@ importante instalar cortinas duplas nas laterais dos aviários para
 proteger as aves das baixas temperaturas. O local para a
 construção também deve ser escolhido de forma a evitar solo
 muito úmido (partes baixas), e ser mais elevado para propiciar
-melhor ventilação. 
+melhor ventilação.
 
 A instalação de ninhos é indispensável para que as aves não
 produzam ovos diretamente sobre o piso (cama), diminuindo a
@@ -179,6 +179,18 @@ Fone: (49) 3441-0400
 
 Concórdia, SC
 
-![Poedeira Colonial Embrapa 051]()
+![Poedeira Colonial Embrapa 051](/img/docs/23_poedeira/FOTO_01.jpg)
 
-![Sistema de produção de ovos com rodízio de piquetes]()
+Foto: Levino J. Bassi
+
+<div className="center-textImage">
+Poedeira Colonial Embrapa 051
+</div>
+
+![Sistema de produção de ovos com rodízio de piquetes](/img/docs/23_poedeira/FOTO_02H.jpg)
+
+Ilustração: Amadeu G. Mascelani
+
+<div className="center-textImage">
+Poedeira Colonial Embrapa 051
+</div>

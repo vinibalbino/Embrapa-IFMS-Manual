@@ -1,6 +1,6 @@
 ---
 id: feijao-comum
-title:  Feijão-Comum
+title: Feijão-Comum
 sidebar_label: Feijão-Comum
 ---
 
@@ -22,29 +22,30 @@ cultivares estão divididas basicamente em três grupos: carioca,
 preto e especial.
 
 O ciclo varia de 65 a 110 dias, com dois hábitos de crescimento:
-1) determinado – a planta tem um número determinado de nós e o
-caule principal e os ramos terminam com uma inflorescência;
-2) indeterminado – crescimento contínuo da planta, com uma
-sequência de nós e entrenós, com as inflorescências (parte da
-planta onde se localizam as flores) ocorrendo nas axilas (junção
-da folha com o ramo) das folhas. 
+
+1. determinado – a planta tem um número determinado de nós e o
+   caule principal e os ramos terminam com uma inflorescência;
+2. indeterminado – crescimento contínuo da planta, com uma
+   sequência de nós e entrenós, com as inflorescências (parte da
+   planta onde se localizam as flores) ocorrendo nas axilas (junção
+   da folha com o ramo) das folhas.
 
 ## **2. Benefícios e/ou vantagens**
 
 - Alimento rico em proteínas, carboidratos, fibras alimentares,
-minerais e vitaminas (principalmente do complexo B).
+  minerais e vitaminas (principalmente do complexo B).
 
 - Pode ser cultivado em três períodos ao longo do ano,
-proporcionando oferta constante no mercado.
+  proporcionando oferta constante no mercado.
 
 - Por ter um ciclo vegetativo curto e tolerância razoável à
-competição com outra cultura, é uma planta indicada para
-consórcios, principalmente com milho ou mesmo com
-mandioca e milho.
+  competição com outra cultura, é uma planta indicada para
+  consórcios, principalmente com milho ou mesmo com
+  mandioca e milho.
 
 ## **3. Como utilizar**
 
-### Preparo do solo 
+### Preparo do solo
 
 A área escolhida deve ser em solo solto, com facilidade para o
 destorroamento. Basicamente, há três tipos de preparo do solo
@@ -113,7 +114,7 @@ cigarrinhas, lagartas, larva-minadora, mosca-branca,
 percevejos, pulgões, tripes, vaquinhas e, esporadicamente,
 lesmas. A tecnologia de manejo integrado de pragas do feijoeiro
 da Embrapa (MIP-feijão) é uma forma racional e econômica de
-controlar as pragas. 
+controlar as pragas.
 
 Doenças fúngicas, bacterianas, viróticas e nematoides podem
 causar danos expressivos no feijoeiro, devendo-se consultar a
@@ -173,7 +174,6 @@ reduzindo assim perdas na colheita.
 
 [Ministério da Agricultura, Pecuária e Abastecimento – Agrofit](https://tinyurl.com/7zvtv4o)
 
-
 ### Instituição
 
 **Embrapa Agropecuária Oeste**
@@ -184,15 +184,56 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
+![Feijão-comum em plantio direto na fase vegetativa](/img/docs/08_feijao_comum/FOTO_01.jpg)
+Foto: Sebastião José de Araújo
 
-![Feijão-comum em plantio direto na fase vegetativa]()
+<div className="center-textImage">
+Feijão-comum em plantio direto na fase vegetativa
+</div>
 
-![Feijão-comum na fase de enchimento dos grãos]()
+<div className="image-Box">
 
-![Feijão-comum na fase de maturação]()
+![Feijão-comum na fase de maturação](/img/docs/08_feijao_comum/FOTO_03.jpg)
 
-![Feijão Pérola (grupo comercial carioca)]()
+Foto: Sebastião José de Araújo
 
-![Feijão Preto (grupo comercial preto)]()
+</div>
 
-![Feijão Jalo (grupo comercial especial)]()
+<div className="center-textImage">
+Feijão-comum na fase de
+enchimento dos grãos.
+</div>
+
+<div className="image-Box">
+
+![Feijão-comum na fase de enchimento dos grãos](/img/docs/08_feijao_comum/FOTO_02.jpg)
+
+Foto: Sebastião José de Araújo
+
+</div>
+
+<div className="center-textImage">
+Feijão-comum na fase de
+maturação.
+</div>
+
+![Feijão Pérola (grupo comercial carioca)](/img/docs/08_feijao_comum/FOTO_04.jpg)
+Foto: Sebastião José de Araújo
+
+<div className="center-textImage">
+Feijão Pérola (grupo comercial carioca)
+</div>
+
+![Feijão Preto (grupo comercial preto)](/img/docs/08_feijao_comum/FOTO_05.jpg)
+Foto: Sebastião José de Araújo
+
+<div className="center-textImage">
+Feijão Preto (grupo comercial preto)
+</div>
+
+![Feijão Jalo (grupo comercial especial)](/img/docs/08_feijao_comum/FOTO_06.jpg)
+Foto: Sebastião José de Araújo
+
+<div className="center-textImage">
+Feijão Jalo (grupo comercial especial)
+</div>

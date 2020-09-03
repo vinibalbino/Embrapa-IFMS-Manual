@@ -1,7 +1,7 @@
 ---
 id: semeadura-especies-arboreas-para-revegetacao-areas-desmatadas-por-meio-de-sistemas-agroflorestais
-title: Semeadura de Espécies Arbóreas para Revegetação de Áreas Desmatadas por meio de Sistemas Agroflorestais 
-sidebar_label: Semeadura de Espécies Arbóreas para Revegetação de Áreas Desmatadas por meio de Sistemas Agroflorestais 
+title: Semeadura de Espécies Arbóreas para Revegetação de Áreas Desmatadas por meio de Sistemas Agroflorestais
+sidebar_label: Semeadura de Espécies Arbóreas para Revegetação de Áreas Desmatadas por meio de Sistemas Agroflorestais
 ---
 
 <div class="center-textArticle">Eny Duboc</div>
@@ -28,33 +28,33 @@ Entre as vantagens da semeadura direta das espécies nativas,
 podem ser citadas a possibilidade de:
 
 - Reduzir os custos operacionais, pela diminuição de gastos
-com mão de obra e mudas, e o tempo empregado nas
-operações de plantio e manutenção.
+  com mão de obra e mudas, e o tempo empregado nas
+  operações de plantio e manutenção.
 - Viabilizar o reflorestamento de grandes áreas.
 - Aumentar a diversidade de espécies, pois permite incluir,
-além das árvores, sementes de arbustos, gramíneas
-nativas, leguminosas e, até mesmo, de cultivos agrícolas.
+  além das árvores, sementes de arbustos, gramíneas
+  nativas, leguminosas e, até mesmo, de cultivos agrícolas.
 
 - Aumentar a velocidade e a taxa de recobrimento do solo,
-por causa da maior diversidade de espécies, o que
-contribui para diminuir processos erosivos e a infestação
-com gramíneas exóticas.
+  por causa da maior diversidade de espécies, o que
+  contribui para diminuir processos erosivos e a infestação
+  com gramíneas exóticas.
 - Aumentar a densidade por hectare das espécies de
-interesse econômico como, por exemplo, as madeireiras,
-fruteiras, apícolas, oleaginosas e medicinais, entre outras.
+  interesse econômico como, por exemplo, as madeireiras,
+  fruteiras, apícolas, oleaginosas e medicinais, entre outras.
 - Aumentar a densidade de espécies com funções
-ambientais, como, por exemplo, as leguminosas, para
-fornecer nitrogênio e matéria orgânica, acelerando a
-recuperação da fertilidade e da estrutura do solo.
+  ambientais, como, por exemplo, as leguminosas, para
+  fornecer nitrogênio e matéria orgânica, acelerando a
+  recuperação da fertilidade e da estrutura do solo.
 - Aumentar a densidade de espécies atrativas à fauna,
-como os pequenos mamíferos, roedores, aves, em
-especial os morcegos, que são importantes disseminadores de sementes e fundamentais na ampliação da
-diversidade da vegetação e no fortalecimento do processo
-de sucessão de espécies.
+  como os pequenos mamíferos, roedores, aves, em
+  especial os morcegos, que são importantes disseminadores de sementes e fundamentais na ampliação da
+  diversidade da vegetação e no fortalecimento do processo
+  de sucessão de espécies.
 - Possibilitar a recuperação do capital investido na
-revegetação, por meio dos rendimentos dos cultivos
-agrícolas e até de espécies arbustivas e arbóreas quando
-se usa os sistemas agroflorestais.
+  revegetação, por meio dos rendimentos dos cultivos
+  agrícolas e até de espécies arbustivas e arbóreas quando
+  se usa os sistemas agroflorestais.
 
 ## **3. Como utilizar**
 
@@ -72,7 +72,7 @@ de APP, o método de plantio intercalado de espécies exóticas
 com nativas, se aplica apenas às propriedades com até quatro
 módulos fiscais, e na recuperação de RL o plantio deve ser feito
 na forma de sistemas agroflorestais, em qualquer tamanho de
-propriedade rural. 
+propriedade rural.
 
 ### Quais espécies plantar?
 
@@ -100,7 +100,7 @@ de ocorrência regional, sendo que, dessas, pelo menos 10
 espécies devem ter dispersão de sementes intermediada pela
 fauna, e representem 50% dos indivíduos.
 
-### Como plantar? 
+### Como plantar?
 
 Para reflorestar um ambiente degradado, o
 produtor precisa coletar as sementes na sua região e no mesmo
@@ -197,7 +197,7 @@ cortadeiras).
 
 [Resolução SEMADE nº 28 de 22/03/2016](https://bit.ly/34zScva)
 
-[Guia do Programa de Regularização Ambiental (PRA) de Mato Grosso do Sul](https://bit.ly/37JiT2h )
+[Guia do Programa de Regularização Ambiental (PRA) de Mato Grosso do Sul](https://bit.ly/37JiT2h)
 
 ### Instituição
 
@@ -209,6 +209,18 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Biomas existentes no estado de Mato Grosso do Sul]()
+![Biomas existentes no estado de Mato Grosso do Sul](/img/docs/16_semeadura-arboreas/FOTO_01.jpg)
 
-![Muvuca de sementes]()
+Ilustração: Eny Duboc
+
+<div className="center-textImage">
+Biomas existentes no estado de Mato Grosso do Sul
+</div>
+
+![Muvuca de sementes](/img/docs/16_semeadura-arboreas/FOTO_02.jpg)
+
+Foto: Eny Duboc
+
+<div className="center-textImage">
+Muvuca de sementes
+</div>

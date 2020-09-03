@@ -4,7 +4,7 @@ title: Adubação Verde
 sidebar_label: Adubaçao Verde
 ---
 
-<div class="center-textArticle">Oscar Fontão de Lima Filho</div>
+<div className="center-textArticle">Oscar Fontão de Lima Filho</div>
 
 ## **1. O que é**
 
@@ -26,40 +26,39 @@ O uso de leguminosas na adubação verde é mais comum do que
 o uso de gramíneas, pelo fato de as leguminosas terem a
 capacidade de se associar a bactérias que incorporam o
 nitrogênio da atmosfera, sendo a maior parte desse elemento
-transferido para a planta. 
+transferido para a planta.
 
 ## **2. Benefícios e/ou vantagens**
 
 Os principais benefícios são:
 
 - Diminui a erosão, a incidência excessiva de radiação solar, as
-plantas daninhas, as pragas e as doenças nas culturas
-principais.
+  plantas daninhas, as pragas e as doenças nas culturas
+  principais.
 
 - Proporciona descompactação e arejamento do solo,
-permitindo uma melhor estruturação. Com isso, há aumento
-na capacidade de armazenar água e nutrientes. 
+  permitindo uma melhor estruturação. Com isso, há aumento
+  na capacidade de armazenar água e nutrientes.
 
 - Como algumas leguminosas (por exemplo, crotaláriaspectabilis) são eficientes em controlar alguns tipos de
-nematoides, o seu uso na adubação verde acaba diminuindo
-sensivelmente a presença desses fitoparasitas.
+  nematoides, o seu uso na adubação verde acaba diminuindo
+  sensivelmente a presença desses fitoparasitas.
 
 - Leguminosas enriquecem o solo com o nitrogênio que foi
-fixado diretamente da atmosfera, por bactérias associadas às
-raízes das plantas.
+  fixado diretamente da atmosfera, por bactérias associadas às
+  raízes das plantas.
 
 - Fornece matéria orgânica ao solo e aumenta sua atividade
-biológica.
+  biológica.
 
 - Recicla os nutrientes que estão em camadas mais profundas
-do solo.
+  do solo.
 
 - Mantém ou aumenta a fertilidade do solo a longo prazo.
 
 - Ajuda a recuperar solos degradados, bem como aqueles que
-são naturalmente pobres em nutrientes e matéria orgânica,
-além de conservar os solos que já são férteis e produtivos. 
-
+  são naturalmente pobres em nutrientes e matéria orgânica,
+  além de conservar os solos que já são férteis e produtivos.
 
 ## **3. Como utilizar**
 
@@ -170,12 +169,42 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Mucuna-preta]()
+![Mucuna-preta](/img/docs/13_adubacao/FOTO_01.jpg)
 
-![Guandu-forrageiro]()
+Foto: José Aparecido Donizeti Carlos
 
-![Milheto]()
+<div className="center-textImage">
+Mucuna-preta
+</div>
 
-![Crotalária-spectabilis]()
+![Guandu-forrageiro](/img/docs/13_adubacao/FOTO_02.jpg)
 
-![Crotalária-júncea]()
+Foto: José Aparecido Donizeti Carlos
+
+<div className="center-textImage">
+Guandu-forrageiro
+</div>
+
+![Milheto](/img/docs/13_adubacao/FOTO_03.jpg)
+
+Foto: José Aparecido Donizeti Carlos
+
+<div className="center-textImage">
+Milheto
+</div>
+
+![Crotalária-spectabilis](/img/docs/13_adubacao/FOTO_04.jpg)
+
+Foto: José Aparecido Donizeti Carlos
+
+<div className="center-textImage">
+Crotalária-spectabilis
+</div>
+
+![Crotalária-júncea](/img/docs/13_adubacao/FOTO_05.jpg)
+
+Foto: José Aparecido Donizeti Carlos
+
+<div className="center-textImage">
+Crotalária-júncea
+</div>

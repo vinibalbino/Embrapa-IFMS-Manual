@@ -1,7 +1,7 @@
 ---
-id:  aproveitamento-de-materiais-organicos-e-producao-de-humus-de-minhoca
-title: Aproveitamento de Materiais Orgânicos e Produção de Húmus de Minhoca 
-sidebar_label: Aproveitamento de Materiais Orgânicos e Produção de Húmus de Minhoca 
+id: aproveitamento-de-materiais-organicos-e-producao-de-humus-de-minhoca
+title: Aproveitamento de Materiais Orgânicos e Produção de Húmus de Minhoca
+sidebar_label: Aproveitamento de Materiais Orgânicos e Produção de Húmus de Minhoca
 ---
 
 <div className="center-textArticle">Ivo de Sá Motta</div>
@@ -17,7 +17,7 @@ húmus por minhocas gigante-africana ou vermelha-da-califórnia
 - Destinação adequada de materiais contaminantes.
 - Reciclagem de matéria orgânica e nutrientes.
 - Contribuição para a vivificação dos solos e nutrição das
-plantas.
+  plantas.
 - Melhoria do aproveitamento da água no solo pelas plantas.
 - Melhoria dos atributos físicos, químicos e biológicos do solo.
 - Aprodução pode ser feita a partir de resíduos locais.
@@ -46,18 +46,7 @@ de baixa relação C/N. Os resíduos utilizados devem ser misturados
 em proporção que componham uma relação C/N média em torno de
 30/1.
 
----------------
-
-### Composição aproximada de alguns materiais utilizados   
-
-Material       | Relação C/N<sup>(1)</sup> |    N (%)    | P<sub>2</sub>O<sub>5</sub>(%)    |     K<sub>2</sub>O(%)  |
----------------| :---------: | :---------: | :---------: | :---------: |
-Esterco bovino |     18/1    |     1,92    |    1,01     |     2,79    |
-Capim-napier   |     62/1    |     0,80    |    0,25     |     1,74    |
-
-<sup>(1)</sup>Relação carbono/nitrogênio.
-
----------------
+![Tabela de composição aproximada de alguns materiais](/img/docs/20_aproveitamento_materiais/FOTO_01.jpg)
 
 No período de pré-compostagem (aproximadamente 15 dias), a
 leira deve ser irrigada até atingir 50% a 60% de umidade (ao apertar
@@ -84,7 +73,7 @@ recomendação de adubação de um engenheiro-agrônomo.
 
 ### Vídeo
 
-[Húmus líquido](https://youtu.be/76W7ClGThmA )
+[Húmus líquido](https://youtu.be/76W7ClGThmA)
 
 ### Publicação
 
@@ -102,5 +91,10 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
+![Leiras de vermicompostagem com tripa de irrigação](/img/docs/20_aproveitamento_materiais/FOTO_02.jpg)
 
-![Leiras de vermicompostagem com tripa de irrigação]()
+Foto: Ivo de Sá Motta
+
+<div className="center-textImage">
+Leiras de vermicompostagem com tripa de irrigação
+</div>

@@ -1,6 +1,6 @@
 ---
 id: pastagens-gado-de-leite
-title:  Pastagens para Gado de Leite
+title: Pastagens para Gado de Leite
 sidebar_label: Pastagens para Gado de Leite
 ---
 
@@ -21,10 +21,9 @@ adequando o manejo da pastagem ao seu rebanho. Dessa forma,
 muito exigentes, como Cynodon spp. e capim-elefante, em solo
 pobre, sem uso de corretivos e fertilizantes. Ou, ainda, o cultivo de
 Brachiaria humidicola para alimentação de uma categoria
-exigente, como vacas leiteiras em produção. 
+exigente, como vacas leiteiras em produção.
 
 ## **2. Benefícios e/ou vantagens**
-
 
 - Evitar erros na formação de pastagens.
 
@@ -66,7 +65,6 @@ facilidade de cobertura do solo. São capins menos adaptados às
 condições brasileiras. As cultivares mais comuns são Tifton 85,
 Estrela-Africana e Vaqueiro
 
-
 ### Exigentes
 
 Pertencem a este grupo as cultivares de Panicum maximum
@@ -80,7 +78,7 @@ em manejo, exceto a cultivar BRS Tamani, que apresenta
 pequeno porte. Por essas qualidades, são pastos preferenciais
 para uso com rebanho leiteiro.
 
-As principais cultivares são: 
+As principais cultivares são:
 
 **Mombaça e Tanzânia** – São as cultivares mais antigas, que
 estão saindo do mercado com o lançamento de novas
@@ -111,7 +109,7 @@ apresentam menor diferença de produção de forragem entre a
 estação das águas e da seca. Esta espécie possui qualidade
 inferior ao P. maximum, sendo limitante para o gado de leite.
 Porém, como continua produzindo forragem no início da seca,
-pode ser utilizada por categorias menos exigentes. 
+pode ser utilizada por categorias menos exigentes.
 
 **Marandu (braquiarão)** – É a primeira cultivar de B. brizantha
 lançada no Brasil. Uma vez implantada com correção e
@@ -138,21 +136,21 @@ São espécies mais adaptadas a solos pobres. São plantas que
 apresentam alguma limitação e, por isso, são mais indicadas
 para sistemas menos produtivos.
 
-***Brachiaria humidicola*** – É uma espécie de estabelecimento
-lento, menos produtiva e com valor nutricional limitado. 
+**_Brachiaria humidicola_** – É uma espécie de estabelecimento
+lento, menos produtiva e com valor nutricional limitado.
 
-***Brachiaria decumbens (braquiarinha)*** – Espécie adaptada a
+**_Brachiaria decumbens (braquiarinha)_** – Espécie adaptada a
 solos menos férteis, mas responde moderadamente à adubação
 e produz forragem com razoável qualidade. A maior limitação
 desta espécie é a suscetibilidade ao ataque da cigarrinha-daspastagens.
 
-***Andropogon gayanus*** – É uma forrageira de estabelecimento
+**_Andropogon gayanus_** – É uma forrageira de estabelecimento
 lento, mas produz forragem em quantidade e de boa qualidade
 no período chuvoso. Sua limitação é a reduzida produção de
 forragem durante a estação seca. Tem importância por ser
 tolerante à cigarrinha-das-pastagens e ao percevejo-castanho.
 
-***Estilosantes cv. Campo Grande*** – É uma leguminosa muito
+**_Estilosantes cv. Campo Grande_** – É uma leguminosa muito
 adaptada aos solos do Cerrado, produz forragem rica em
 proteína. É pouco apreciada pelos animais durante a estação
 chuvosa, mas bem consumida durante a estação seca.
@@ -161,7 +159,7 @@ Apresenta estabelecimento lento e, como as plantas duram
 priorizando a produção de sementes no primeiro ano. Essa
 medida garante a perenidade da pastagem.
 
-***Feijão-guandu ou andu*** – É uma leguminosa adaptada a solos
+**_Feijão-guandu ou andu_** – É uma leguminosa adaptada a solos
 pobres. Apresenta rápido estabelecimento e é muito produtiva.
 
 Seu valor nutritivo é limitado, embora seja rica em proteína,
@@ -178,14 +176,14 @@ metabólicos nos animais.
 São poucas as espécies que toleram solos úmidos ou
 encharcados. As que mais se destacam são:
 
-***Hemarthria altissima*** – É uma espécie próxima ao Andropogon,
+**_Hemarthria altissima_** – É uma espécie próxima ao Andropogon,
 mas se assemelha ao Tifton. Tolera solo úmido e até alagamento
 permanente. É mais tolerante à geada, recuperando-se mais
 rápido do que as demais espécies, em condições de baixa
 temperatura. Produz forragem com valor nutricional
 relativamente bom. Tem a limitação de ser propagada por mudas.
 
-***Brachiaria humidicola*** – Também tolera solos úmidos, mas é
+**_Brachiaria humidicola_** – Também tolera solos úmidos, mas é
 mais sensível ao alagamento prolongado em relação à anterior.
 
 ### Forrageiras anuais
@@ -212,7 +210,7 @@ mais produtivos, são adequados à produção intensiva. Para
 vacas vazias e para recria de novilhas, são indicados os capins
 com moderada exigência, já que a necessidade dessa categoria
 não é tão elevada e o custo para manutenção desses pastos é
-menor. 
+menor.
 
 ## **4. Onde obter mais informações**
 
@@ -240,7 +238,18 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
+![Capim BRS Zuri sendo pastejado](/img/docs/05_pastagens/FOTO_01.jpg)
 
-![Capim BRS Zuri sendo pastejado]()
+Foto: Luís Armando Zago Machado
 
-![Capins BRS Tamani (esquerda) e BRS Zuri (direita).]()
+<div className="center-textImage">
+Capim BRS Zuri sendo pastejado
+</div>
+
+![Capins BRS Tamani e BRS Zuri](/img/docs/05_pastagens/FOTO_02.jpg)
+
+Foto: Luís Armando Zago Machado
+
+<div className="center-textImage">
+Capins BRS Tamani (esquerda) e BRS Zuri (direita).
+</div>

@@ -8,7 +8,7 @@ sidebar_label: Cultivares de Maracujazeiro-Azedo da Embrapa
 
 ## **1. O que é**
 
-São cultivares de maracujazeiro-azedo (*Passiflora edulis Sims*),
+São cultivares de maracujazeiro-azedo (_Passiflora edulis Sims_),
 desenvolvidas pela Embrapa, que possuem alta produtividade,
 maior nível de resistência a doenças e características físicas e
 químicas de frutos para atender ao mercado de frutas frescas e
@@ -16,6 +16,7 @@ também às agroindústrias. Essas cultivares estão descritas a
 seguir.
 
 ### BRS Gigante Amarelo (BRS GA1)
+
 Cultivar de maracujazeiroazedo com alta produtividade e qualidade de frutos para mercado
 in natura. É normal produzir, principalmente no início da
 produção, frutos com mais de 500 g. Sua produtividade, quando
@@ -36,6 +37,7 @@ em ambiente protegido. Depois do risco das geadas, as mudas
 são levadas ao campo.
 
 ### BRS Sol do Cerrado (BRS SC1)
+
 Cultivar de maracujazeiroazedo com produtividade e características de frutos semelhantes
 às da cultivar BRS Gigante Amarelo. Apresenta flores grandes,
 sendo que algumas delas são achatadas, facilitando a polinização
@@ -49,6 +51,7 @@ como bacteriose, antracnose e virose. Regiões de recomendação
 são as mesmas da cultivar BRS Gigante Amarelo.
 
 ### BRS Rubi do Cerrado (BRS RC)
+
 Cultivar de maracujazeiroazedo com alta produtividade e certa tolerância a doenças de
 parte aérea, principalmente virose e bacteriose. Produz
 aproximadamente 50% de frutos de casca vermelha ou
@@ -72,13 +75,13 @@ aptidão da cultivar.
 ## **2. Benefícios e/ou vantagens**
 
 - Possuem grande importância social e econômica no Brasil,
-que atualmente é o maior produtor e consumidor mundial
-dessa fruta. Essa importância social está relacionada à
-geração de empregos no campo, no setor de venda de
-insumos, nas agroindústrias e nas cidades, além de ser
-importante opção de geração de renda, principalmente para
-micros e pequenos fruticultores, especialmente aqueles
-ligados à agricultura familiar.
+  que atualmente é o maior produtor e consumidor mundial
+  dessa fruta. Essa importância social está relacionada à
+  geração de empregos no campo, no setor de venda de
+  insumos, nas agroindústrias e nas cidades, além de ser
+  importante opção de geração de renda, principalmente para
+  micros e pequenos fruticultores, especialmente aqueles
+  ligados à agricultura familiar.
 
 ## **3. Como utilizar**
 
@@ -131,8 +134,40 @@ http://www.cpac.embrapa.br/lancamentoazedo/
 
 EMBRAPA. Embrapa Cerrados. Lançamento do híbrido de
 maracujazeiro azedo - BRS Rubi do Cerrado.
-http://www.cpac.embrapa.br/lancamentobrsrubidocerrado/ 
+http://www.cpac.embrapa.br/lancamentobrsrubidocerrado/
 
-![BRS Gigante Amarelo (BRS GA1)]()
-![BRS Sol do Cerrado (BRS SC1)]()
-![BRS Rubi do Cerrado (BRS RC1)]()
+<div className="image-Box">
+
+![BRS Gigante Amarelo (BRS GA1)](/img/docs/32_maracujazeiro_azedo/FOTO_01.jpg)
+
+Foto: Fábio Gelape Faleiro
+
+</div>
+
+<div class="center-textImage">
+BRS Gigante Amarelo (BRS GA1)
+</div>
+
+<div className="image-Box">
+
+![BRS Sol do Cerrado (BRS SC1)](/img/docs/32_maracujazeiro_azedo/FOTO_02.jpg)
+
+Foto: Fábio Gelape Faleiro
+
+</div>
+
+<div class="center-textImage">
+BRS Sol do Cerrado (BRS SC1)
+</div>
+
+<div className="image-Box">
+
+![BRS Rubi do Cerrado (BRS RC1)](/img/docs/32_maracujazeiro_azedo/FOTO_03.jpg)
+
+Foto: Fábio Gelape Faleiro
+
+</div>
+
+<div class="center-textImage">
+BRS Rubi do Cerrado (BRS RC1)
+</div>

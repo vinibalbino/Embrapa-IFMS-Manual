@@ -17,13 +17,13 @@ vírus e bactérias.
 ## **2. Benefícios e/ou vantagens**
 
 - O controle biológico apresenta maior especificidade, ou seja,
-menor risco de atingir organismos não alvo.
+  menor risco de atingir organismos não alvo.
 - Não deixa resíduos químicos em alimentos, água e solo.
 - Não há período de carência entre a liberação do inimigo
-natural e a colheita.
+  natural e a colheita.
 - Não provoca o surgimento de populações de pragas
-resistentes.
-- Não afeta outras táticas de controle. 
+  resistentes.
+- Não afeta outras táticas de controle.
 
 De outra forma, tem ação mais lenta, requer mais tecnologia,
 uma vez que a sua utilização deve estar associada a uma fase
@@ -53,11 +53,11 @@ Outra maneira de utilização dessa técnica é por meio do uso de
 parasitoides e predadores, que são criados em grande
 quantidade em laboratórios. Normalmente, são de empresas
 especializadas na criação e comercialização, sendo então
-liberados para o controle da praga alvo (ex.: o parasitoide *Cotesia
-flavipes* para o controle da broca-da-cana; *Trichogramma
-pretiosum* para a traça do tomateiro e a falsa-medideira). Podese, ainda, realizar pulverizações com fungos, vírus, etc. (ex.:
-*Metarhizium anisopliae* para controle de cigarrinha na cana-deaçúcar; *Baculovirus anticarsia* para a lagarta da soja, *Anticarsia
-gemmatalis*, etc.).
+liberados para o controle da praga alvo (ex.: o parasitoide _Cotesia
+flavipes_ para o controle da broca-da-cana; _Trichogramma
+pretiosum_ para a traça do tomateiro e a falsa-medideira). Podese, ainda, realizar pulverizações com fungos, vírus, etc. (ex.:
+_Metarhizium anisopliae_ para controle de cigarrinha na cana-deaçúcar; _Baculovirus anticarsia_ para a lagarta da soja, _Anticarsia
+gemmatalis_, etc.).
 
 É importante destacar que, para se ter essas vantagens quando
 se realiza a liberação de inimigos naturais nas áreas, deve-se
@@ -93,8 +93,32 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Trichogramma galloi parasitando ovos da broca-da-cana]()
+![Trichogramma galloi parasitando ovos da broca-da-cana](/img/docs/18_controle_insetos/FOTO_01.jpg)
 
-![Cotesia flavipes parasitando lagarta da broca-da-cana]()
+Foto: Harley Nonato de Oliveira
 
-![Percevejo Podisus nigrispinus predando lagarta falsa-medideira]()
+<div className="center-textImage">
+
+_Trichogramma galloi_ parasitando ovos da broca-da-cana
+
+</div>
+
+![Cotesia flavipes parasitando lagarta da broca-da-cana](/img/docs/18_controle_insetos/FOTO_02.jpg)
+
+Foto: Harley Nonato de Oliveira
+
+<div className="center-textImage">
+
+_Cotesia flavipes_ parasitando lagarta da broca-da-cana
+
+</div>
+
+![Percevejo Podisus nigrispinus predando lagarta falsa-medideira](/img/docs/18_controle_insetos/FOTO_03.jpg)
+
+Foto: Harley Nonato de Oliveira
+
+<div className="center-textImage">
+
+Percevejo _Podisus nigrispinus_ predando lagarta falsa-medideira
+
+</div>

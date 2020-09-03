@@ -29,40 +29,40 @@ planta mais ereta, com folhas de cor verde-oliva.
 ## **2. Benefícios e/ou vantagens**
 
 - Cada tomate apresenta características próprias. O BRS
-Laterrot possui frutos pesados (de 220 g a 240 g, em média),
-com ótima coloração e excelente comportamento sob chuvas
-(em campo aberto). Tem boa tolerância a bactérias e a diversas
-raças de *Verticillium*, *Fusarium*, *Cladosporium*, nematoides e
-ao vírus do mosaico do tabaco e geminivírus. O BRS Imigrante
-é indicado tanto para estufas quanto para campo aberto.
-Possui frutos firmes, com coloração bem vermelha e peso
-médio de 230 g a 250 g. É tolerante a inúmeras raças de
-*Verticillium*, *Fusarium*, à mancha de estenfílio, ao vírus do
-mosaico do tabaco e a geminivírus, e necessita de pouca
-adubação nitrogenada.
+  Laterrot possui frutos pesados (de 220 g a 240 g, em média),
+  com ótima coloração e excelente comportamento sob chuvas
+  (em campo aberto). Tem boa tolerância a bactérias e a diversas
+  raças de _Verticillium_, _Fusarium_, _Cladosporium_, nematoides e
+  ao vírus do mosaico do tabaco e geminivírus. O BRS Imigrante
+  é indicado tanto para estufas quanto para campo aberto.
+  Possui frutos firmes, com coloração bem vermelha e peso
+  médio de 230 g a 250 g. É tolerante a inúmeras raças de
+  _Verticillium_, _Fusarium_, à mancha de estenfílio, ao vírus do
+  mosaico do tabaco e a geminivírus, e necessita de pouca
+  adubação nitrogenada.
 
 - O BRS Nagai também necessita de pouca adubação
-nitrogenada, sendo utilizado tanto para campo aberto quanto
-para cultivo protegido. Seus frutos longa vida pesam de 180 g
-a 200 g, em média. Este material tem boa tolerância a
-bactérias em campo, a variadas raças de *Verticillium*,
-*Fusarium*, *Cladosporium*, à pinta-bacteriana, às manchas de
-estenfílio, a nematoides e aos vírus mosaico do tabaco, viracabeça e geminivírus.
+  nitrogenada, sendo utilizado tanto para campo aberto quanto
+  para cultivo protegido. Seus frutos longa vida pesam de 180 g
+  a 200 g, em média. Este material tem boa tolerância a
+  bactérias em campo, a variadas raças de _Verticillium_,
+  _Fusarium_, _Cladosporium_, à pinta-bacteriana, às manchas de
+  estenfílio, a nematoides e aos vírus mosaico do tabaco, viracabeça e geminivírus.
 
 - O BRS Iracema tem frutos com cerca de 15 g, ricos em
-licopeno e muito adocicados. São tolerantes a algumas raças
-de *Verticilium*, *Fusarium* e *Cladosporium*. 
+  licopeno e muito adocicados. São tolerantes a algumas raças
+  de _Verticilium_, _Fusarium_ e _Cladosporium_.
 
 - Quanto aos frutos do BRS Zamir, são saborosos e
-adocicados, pequenos (10 g a 15 g), com vida de prateleira de
-até 18 dias. O seu teor de licopeno é muito alto e tem sido o
-grande diferencial deste material. É indicado para estufas e
-tolerante a algumas raças de *Verticilium* e *Fusarium*.
+  adocicados, pequenos (10 g a 15 g), com vida de prateleira de
+  até 18 dias. O seu teor de licopeno é muito alto e tem sido o
+  grande diferencial deste material. É indicado para estufas e
+  tolerante a algumas raças de _Verticilium_ e _Fusarium_.
 
 -Em relação às alfaces, a BRS Leila e a BRS Mediterrânea são
 tolerantes à queima das bordas (deficiência de cálcio) e ao
 pendoamento. Os dois materiais são tolerantes a míldio, LMV
-(vírus do mosaico da alface), *Fusarium* e nematoide-dasgalhas. Não amargam após a passagem do ponto de colheita
+(vírus do mosaico da alface), _Fusarium_ e nematoide-dasgalhas. Não amargam após a passagem do ponto de colheita
 e apresentam de 4 dias a 6 dias de precocidade, em média.
 
 ## **3. Como utilizar**
@@ -196,14 +196,54 @@ Fone: (19) 3879-6307
 
 Monte Mor, SP
 
-![Tomate BRS Laterrot]()
+![Tomate BRS Laterrot](/img/docs/29_cultivares_tomate/FOTO_01.jpg)
 
-![Tomate BRS Nagai]()
+Foto: arquivo Embrapa
 
-![Tomate BRS Zamir]()
+<div className="center-textImage">
+Tomate BRS Laterrot.
+</div>
 
-![Tomate BRS Iracema]()
+![Tomate BRS Nagai](/img/docs/29_cultivares_tomate/FOTO_02.jpg)
 
-![Alface BRS Mediterrânea]()
+Foto: Luís Galhardo
 
-![Alface BRS Leila]()
+<div className="center-textImage">
+Tomate BRS Nagai.
+</div>
+
+![Tomate BRS Iracema](/img/docs/29_cultivares_tomate/FOTO_03.jpg)
+
+Foto: Leandro Lobo
+
+<div className="center-textImage">
+Tomate BRS Iracema.
+</div>
+
+<div className="image-Box">
+
+![Tomate BRS Zamir](/img/docs/29_cultivares_tomate/FOTO_04.jpg)
+
+Foto: Leandro Lobo
+
+</div>
+
+<div className="center-textImage">
+Tomate BRS Zamir.
+</div>
+
+![Alface BRS Mediterrânea](/img/docs/29_cultivares_tomate/FOTO_05.jpg)
+
+Foto: Ítalo Lüdke
+
+<div className="center-textImage">
+Alface BRS Mediterrânea
+</div>
+
+![Alface BRS Leila](/img/docs/29_cultivares_tomate/FOTO_06.jpg)
+
+Foto: Ítalo Lüdke
+
+<div className="center-textImage">
+Alface BRS Leila
+</div>

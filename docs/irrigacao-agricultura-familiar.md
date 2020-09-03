@@ -24,11 +24,11 @@ produtor procure sempre o auxílio de um profissional qualificado.
 ## **2. Benefícios e/ou vantagens**
 
 - Aumento de renda para a família e melhoria da qualidade de
-vida.
+  vida.
 - Segurança econômica ao produtor.
 - Melhor aproveitamento da área de produção.
 - Convivência com veranicos e estiagens (convivência com a
-seca).
+  seca).
 
 ## **3. Como utilizar**
 
@@ -73,7 +73,7 @@ irrigação que está sendo utilizado.
 
 [Sistemas de irrigação por aspersão](https://bit.ly/36h9Ggs)
 
-[Manejo de irrigação em hortaliças com Sistema Irrigas](https://bit.ly/2rS5xRk )
+[Manejo de irrigação em hortaliças com Sistema Irrigas](https://bit.ly/2rS5xRk)
 
 ### Instituições
 
@@ -93,10 +93,34 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Irrigação por gotejamento em alface]()
+![Irrigação por gotejamento em alface](/img/docs/30_irrigacao/FOTO_01.jpg)
 
-![Bulbo molhado na irrigação por gotejamento]()
+Foto: Luciano Oliveira Geisenhof
 
-![Irrigação por aspersão em hortaliças]()
+<div className="center-textImage">
+Irrigação por gotejamento em alface
+</div>
 
-![Irrigação por microaspersão em bananeiras]()
+![Bulbo molhado na irrigação por gotejamento](/img/docs/30_irrigacao/FOTO_02.jpg)
+
+Foto: Luciano Oliveira Geisenhof
+
+<div className="center-textImage">
+Bulbo molhado na irrigação por gotejamento
+</div>
+
+![Irrigação por aspersão em hortaliças](/img/docs/30_irrigacao/FOTO_03.jpg)
+
+Foto: Luciano Oliveira Geisenhof
+
+<div className="center-textImage">
+Irrigação por aspersão em hortaliças
+</div>
+
+![Irrigação por microaspersão em bananeiras](/img/docs/30_irrigacao/FOTO_04.jpg)
+
+Foto: Luciano Oliveira Geisenhof
+
+<div className="center-textImage">
+Irrigação por microaspersão em bananeiras
+</div>

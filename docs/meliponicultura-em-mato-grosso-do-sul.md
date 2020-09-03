@@ -28,14 +28,14 @@ meliponídeos.
 ## **2. Benefícios e/ou vantagens**
 
 - As abelhas nativas são as principais polinizadoras das
-espécies florais tropicais, participando com 40% a 90% na
-reprodução das plantas nativas, um dos principais benefícios
-para a agricultura.
+  espécies florais tropicais, participando com 40% a 90% na
+  reprodução das plantas nativas, um dos principais benefícios
+  para a agricultura.
 - Sua criação pode contribuir diretamente para a melhoria da
-renda familiar através da comercialização de colônias e de
-seus produtos (mel, própolis, pólen) e com o aumento
-significativo da produção (grãos, frutas), por meio da
-polinização das culturas agrícolas.
+  renda familiar através da comercialização de colônias e de
+  seus produtos (mel, própolis, pólen) e com o aumento
+  significativo da produção (grãos, frutas), por meio da
+  polinização das culturas agrícolas.
 
 ## **3. Como utilizar**
 
@@ -50,9 +50,10 @@ localizados nos municípios de Campo Grande, Aquidauana,
 Jaraguari, Dois Irmãos do Buriti, Bela Vista e Três Lagoas,
 evidenciou que em MS são criadas mais de 30 espécies,
 perfazendo um total de mais de 800 colmeias. As principais
-espécies criadas estão descritas a seguir. 
+espécies criadas estão descritas a seguir.
 
-### Jataí (Tetragonisca fiebrigi e angustula) 
+### Jataí (Tetragonisca fiebrigi e angustula)
+
 É uma abelha
 rústica e pode ser encontrada com facilidade tanto no meio rural
 quanto na zona urbana, pois tem grande capacidade para fazer
@@ -65,13 +66,14 @@ própolis, cera e pólen de boa qualidade.
 
 É uma excelente polinizadora do morango. As principais plantas
 atrativas para Jataí são: alecrim-do-campo, alecrim-de-vassoura
-(*Bidens segetum*); angelim-do-campo, angelim (*Andira humilis*);
-copaíba, copaúba (*Copaifera langsdorffii*); estoraque (*Styrax
-ferrugineum*); fedegoso, amarelinho (*Senna rugosa*); murici,
-murici-miúdo (*Byrsonima intermedia*); pau-paratudo, unhad'anta (*Acosmium dasycarpum*); picão ou picão-de-cipó (*Bidens
-gardneri*); e sucupira (*Bowdichia virgilioides*).
+(_Bidens segetum_); angelim-do-campo, angelim (_Andira humilis_);
+copaíba, copaúba (_Copaifera langsdorffii_); estoraque (_Styrax
+ferrugineum_); fedegoso, amarelinho (_Senna rugosa_); murici,
+murici-miúdo (_Byrsonima intermedia_); pau-paratudo, unhad'anta (_Acosmium dasycarpum_); picão ou picão-de-cipó (_Bidens
+gardneri_); e sucupira (_Bowdichia virgilioides_).
 
 ### Manduri-do-Mato-Grosso (Melipona orbignyi)
+
 A Manduri é
 considerada uma das mais sensíveis à degradação e
 descontinuação dos habitats, uma vez que a área de ação de voo
@@ -92,6 +94,7 @@ Considerando a população, é uma grande produtora de mel.
 Produz, em média, 3 litros por safra.
 
 ### Canudo/Mandaguari (Scaptotrigona depilis/S. postica)
+
 As
 abelhas Mandaguari são abelhas bastante defensivas, com
 população entre dois mil e cinco mil indivíduos.
@@ -105,6 +108,7 @@ Podem chegar a produzir 3 litros de mel por temporada,
 dependendo da oferta de alimento na região.
 
 ### Marmelada (Frieseomelitta varia)
+
 A abelha Marmelada é
 bastante defensiva, quando ameaçada. Uma das formas de
 defesa é o depósito de própolis pegajoso sobre quem a
@@ -161,18 +165,82 @@ Telefone: (86) 3198-0500
 
 Teresina, PI
 
-![Entrada de abelha Jataí (Tetragonisca fiebrigi).]()
+![Entrada de abelha Jataí (Tetragonisca fiebrigi)](/img/docs/24_meliponicultura/FOTO_01.jpg)
 
-![Entrada de abelha Mandaguari (Scaptotrigona depilis).]()
+Foto: Eliel Souza Freitas Júnior
 
-![Entrada de abelha manduripantaneira (Melipona orbignyi)]()
+<div className="center-textImage">
+Entrada de abelha Jataí (Tetragonisca fiebrigi).
+</div>
 
-![Entrada de abelha marmelada-amarela (Frieseomelitta varia)]()
+![Entrada de abelha Mandaguari (Scaptotrigona depilis).](/img/docs/24_meliponicultura/FOTO_02.jpg)
 
-![Entrada de abelha Marmelada amarela (Frieseomelitta varia).]()
+Foto: Eliel Souza Freitas Júnior
 
-![Ninho de abelha Marmelada amarela.]()
+<div className="center-textImage">
+Entrada de abelha Mandaguari (Scaptotrigona depilis).
+</div>
 
-![Entrada de abelha Manduri (Melipona orbignyi). ]()
+![Entrada de abelha manduripantaneira (Melipona orbignyi)](/img/docs/24_meliponicultura/FOTO_03.jpg)
 
-![Ninho de abelha Manduri]()
+Foto: Eliel Souza Freitas Júnior
+
+<div className="center-textImage">
+Entrada de abelha manduripantaneira (Melipona orbignyi)
+</div>
+
+![Entrada de abelha marmelada-amarela (Frieseomelitta varia)](/img/docs/24_meliponicultura/FOTO_04.jpg)
+
+Foto: Eliel Souza Freitas Júnior
+
+<div className="center-textImage">
+Entrada de abelha marmelada-amarela (Frieseomelitta varia)
+</div>
+
+<div className="image-Box">
+
+![Entrada de abelha Marmelada amarela (Frieseomelitta varia)](/img/docs/24_meliponicultura/FOTO_05.jpg)
+
+Foto: Eliel Souza Freitas Júnior
+
+</div>
+
+<div className="center-textImage">
+Entrada de abelha Marmelada amarela (Frieseomelitta varia)
+</div>
+
+<div className="image-Box">
+
+![Ninho de abelha Marmelada amarela](/img/docs/24_meliponicultura/FOTO_06.jpg)
+
+Foto: Eliel Souza Freitas Júnior
+
+</div>
+
+<div className="center-textImage">
+Ninho de abelha Marmelada amarela
+</div>
+
+<div className="image-Box">
+
+![Entrada de abelha Manduri (Melipona orbignyi)](/img/docs/24_meliponicultura/FOTO_07.jpg)
+
+Foto: Eliel Souza Freitas Júnior
+
+</div>
+
+<div className="center-textImage">
+Entrada de abelha Manduri (Melipona orbignyi)
+</div>
+
+<div className="image-Box">
+
+![Ninho de abelha Manduri](/img/docs/24_meliponicultura/FOTO_08.jpg)
+
+Foto: Eliel Souza Freitas Júnior
+
+</div>
+
+<div className="center-textImage">
+Ninho de abelha Manduri
+</div>

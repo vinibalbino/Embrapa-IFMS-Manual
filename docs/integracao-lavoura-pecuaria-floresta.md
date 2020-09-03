@@ -4,7 +4,7 @@ title: Integração Lavoura–Pecuária–Floresta (ILPF)
 sidebar_label: Integração Lavoura–Pecuária–Floresta (ILPF)
 ---
 
-<div class="center-textArticle">Eny Duboc</div>
+<div className="center-textArticle">Eny Duboc</div>
 
 ## **1. O que é**
 
@@ -228,25 +228,25 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![](</img/docs/SistemaSilvipastoril(ILPF)-faixas-com-linhas-triplas-de-eucalipto.png>)
+![linhas de eucaliptos com gados pastando envolta](/img/docs/01_integracao/FOTO_01.jpg)
 Foto: Eny Duboc
 
-<div class="center-textImage">
-Sistema silvipastoril (ILPF) em faixas com linhas triplas de eucalipto
-e pastagem com Brachiaria brizantha cv. BRS Piatã.
+<div className="center-textImage">
+Sistema silvipastoril (ILPF) em faixas com linhas triplas de eucalipto e pastagem com Brachiaria brizantha cv. BRS Piatã.Fazenda Minerva, Ivinhema, MS, maio de 2013.
 </div>
 
-![](/img/docs/Cultivo-soja-plantio-direto-palhada.png)
+![Cultivo de soja em plantio direto na palhada do capim entre fileiras simples de eucalipto](/img/docs/01_integracao/FOTO_02.jpg)
 Foto: Eny Duboc
 
-<div class="center-textImage">
-Cultivo de soja em plantio direto na palhada
-do capim entre fileiras simples de eucalipto (ILPF).
+<div className="center-textImage">
+Cultivo de soja em plantio direto na palhada do capim entre fileiras
+simples de eucalipto (ILPF). Fazenda Experimental da
+Embrapa Agropecuária Oeste, Ponta Porã, MS, dezembro de 2011.
 </div>
 
-![Demonstra um sistema silvipastoril](</img/docs/foto-sistemaSilvipastoril(ILPF).png>)
+![Sistema silvipastoril](/img/docs/01_integracao/FOTO_03.jpg)
 Foto: Eny Duboc
 
-<div class="center-textImage">
-Sistema Silvipastorial (ILPF)
+<div className="center-textImage">
+Sistema silvipastoril (ILPF)
 </div>

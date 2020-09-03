@@ -1,7 +1,7 @@
 ---
 id: caldas-e-biofertilizantes-protecao-plantas-na-agricultura-organica
 title: Caldas e Biofertilizantes – Proteção das Plantas na Agricultura Orgânica
-sidebar_label: Caldas e Biofertilizantes – Proteção das Plantas na Agricultura Orgânica 
+sidebar_label: Caldas e Biofertilizantes – Proteção das Plantas na Agricultura Orgânica
 ---
 
 <div className="center-textArticle">Ivo de Sá Motta</div>
@@ -23,12 +23,12 @@ devem ser utilizados equipamentos de proteção individual
 ## **2. Benefícios e/ou vantagens**
 
 - Controle ou redução da incidência de fitoparasitas (pragas e
-doenças).
+  doenças).
 - Diminuição das deficiências nutricionais, contribuindo para a
-saúde das plantas.
+  saúde das plantas.
 - Eliminação do uso de agrotóxicos, que têm potencial de
-causar a contaminação ambiental, dos agricultores e
-alimentos.
+  causar a contaminação ambiental, dos agricultores e
+  alimentos.
 - Economia propiciada pelo uso dos produtos alternativos.
 
 ## **3. Como utilizar**
@@ -40,7 +40,7 @@ controle de pragas e doenças, antes de tudo, é preciso
 considerar a saúde do solo, que envolve um manejo adequado,
 onde algumas práticas são fundamentais: rotação de culturas,
 adubação verde, plantas de cobertura, cobertura morta
-(*mulching*), plantio direto, cultivo mínimo, biofertilizantes,
+(_mulching_), plantio direto, cultivo mínimo, biofertilizantes,
 adubação orgânica com composto e/ou húmus de minhoca e
 adubação mineral complementar (solo sadio = planta sadia).
 Ainda, na visão sistêmica, para proteção das plantas, o controle
@@ -49,7 +49,7 @@ serem utilizadas de forma integrada: controle biológico, controle
 físico (armadilhas), práticas culturais (época de plantio,
 variedades resistentes, catação, etc.) e o controle alternativo
 (extratos vegetais diversos, preparados homeopáticos, caldas,
-biofertilizantes, entre outros). 
+biofertilizantes, entre outros).
 
 Aseguir são abordados aspectos gerais relacionados à utilização
 de caldas e biofertilizantes.
@@ -111,7 +111,7 @@ fermentação, pode-se promover a aeração do líquido com a
 utilização de compressor (bombinha) de aquário ou com a
 utilização de uma pá de madeira. Pode-se também inocular
 microrganismos, por exemplo EM caseiro (microrganismos
-eficazes). 
+eficazes).
 
 Recomenda-se a aplicação de biofertilizantes pelo aspecto
 nutricional complementar, assim como pela fitoproteção
@@ -137,7 +137,6 @@ manejo da matéria orgânica do solo, nutrição mineral equilibrada
 (com macro e micronutrientes), barreiras vegetais, cultivares
 resistentes, extratos vegetais, controle biológico, sementes e
 mudas sadias, entre outras.
-
 
 ## **4. Onde obter mais informações**
 
@@ -173,4 +172,10 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração]()
+![Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração](/img/docs/19_caldas/FOTO_01.jpg)
+
+Foto: Ivo de Sá Motta
+
+<div className="center-textImage">
+Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração
+</div>

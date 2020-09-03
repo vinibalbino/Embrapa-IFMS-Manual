@@ -1,6 +1,6 @@
 ---
 id: plantas-alimenticias-nao-convencionais
-title:  Plantas Alimentícias Não Convencionais (Pancs)
+title: Plantas Alimentícias Não Convencionais (Pancs)
 sidebar_label: Plantas Alimentícias Não Convencionais (Pancs)
 ---
 
@@ -27,30 +27,30 @@ da maioria da população.
 ## **2. Benefícios e/ou vantagens**
 
 - Utilizar plantas em estado silvestre ou cultivadas, ricas em
-nutrientes, sabores e aromas, visando aumentar e melhorar a
-diversidade da alimentação humana.
+  nutrientes, sabores e aromas, visando aumentar e melhorar a
+  diversidade da alimentação humana.
 
 - Aumentar a matriz agrícola do Brasil com plantas nativas,
-evitando-se explorar comercialmente poucas espécies e que
-são, em geral, exóticas, ou seja, introduzidas de outros
-países.
+  evitando-se explorar comercialmente poucas espécies e que
+  são, em geral, exóticas, ou seja, introduzidas de outros
+  países.
 
 - Serem colhidas nos nossos quintais e, dessa forma, gerar
-economia evitando-se, assim, a compra nos mercados.
+  economia evitando-se, assim, a compra nos mercados.
 
 - Por serem cultivadas nos quintais, podem gerar renda aos
-pequenos produtores rurais e até urbanos.
+  pequenos produtores rurais e até urbanos.
 
 ## **3. Como utilizar**
 
 Seguem alguns exemplos de Pancs e sua utilização:
 
-### Açafrão-da-terra (Curcuma longa) 
+### Açafrão-da-terra (Curcuma longa)
 
 É um corante (amarelo) condimentar, fonte de curcumina, minerais, vitamina A, ácido
 fólico, riboflavina e vitamina C, essenciais para uma boa saúde.
 Usado em mostardas, curries, queijos, manteigas, molhos e até
-em pipocas. 
+em pipocas.
 
 ### Araruta (Maranta arundinacea)
 
@@ -66,7 +66,7 @@ debilidade física ou doentes em recuperação. Afécula da araruta
 As raízes tuberosas (gobô) são
 muito utilizadas pela colônia nipônica, em saladas, refogadas,
 ensopadas ou na confecção de doces e geleias. São ricas em
-potássio, magnésio e inulina, podendo ser usadas por diabéticos. 
+potássio, magnésio e inulina, podendo ser usadas por diabéticos.
 
 ### Capuchinha (Tropaeolum majus)
 
@@ -81,7 +81,7 @@ em vinagre, assemelha-se a alcaparras.
 As folhas fazem parte da
 culinária da região Norte do Brasil, onde é conhecida como
 vinagreira. A parte mais utilizada mundialmente são os cálices
-frescos (frutos), em sucos, geleias, conservas, pães e molhos. 
+frescos (frutos), em sucos, geleias, conservas, pães e molhos.
 
 ### Inhame (Dioscorea sp.)
 
@@ -100,7 +100,7 @@ Muito cultivada nas regiões Norte e
 Nordeste, onde faz parte da culinária como condimento e para
 preparo do tacacá e do pato no tucupi. A presença do espilantol,
 nas folhas e inflorescências, causa certa dormência na língua e
-nos lábios. 
+nos lábios.
 
 ### Mandioquinha-salsa (Arracacia xanthorrhiza)
 
@@ -111,7 +111,7 @@ cálcio, ferro, vitaminas do complexo B e fibras. É importante na
 dieta de crianças, idosos e convalescentes e também muito
 apreciada pelo seu sabor e aroma característicos. Pode ser
 consumida na forma de sopa, cremes e cozidos. É usada,
-também, para a fabricação de pães e bolinhos. 
+também, para a fabricação de pães e bolinhos.
 
 ### Mangarito (Xanthosoma mafaffa)
 
@@ -160,7 +160,7 @@ cálcio, ferro, fósforo, entre outros. Faz parte da culinária de Minas
 Gerais e Goiás, onde as folhas e talos são consumidos
 refogados, acompanhados de polenta. Nos outros estados do
 Brasil é pouco consumida, por não ser encontrada nos
-mercados. 
+mercados.
 
 ## **4. Onde obter mais informações**
 
@@ -188,7 +188,6 @@ Fone: (67) 3410-2426
 
 Dourados, MS
 
-
 **Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
 
 http://www.agraer.ms.gov.br/
@@ -197,13 +196,56 @@ Fone: (67) 3422-1440
 
 Dourados, MS
 
+<div className="image-Box">
 
-![Peixinho]()
+![Ora-pro-nóbis](/img/docs/11_plantas_alimenticias/FOTO_01.jpg)
 
-![Ora-pro-nóbis]()
+Foto: Maria do Carmo Vieira
 
-![Hibisco]()
+</div>
 
-![Taro]()
+<div className="center-textImage">
 
-![Mandioquinha-salsa]()
+Ora-pro-nóbis
+
+</div>
+
+![Peixinho](/img/docs/11_plantas_alimenticias/FOTO_02.jpg)
+
+Foto: Orivaldo Benedito da Silva
+
+<div className="center-textImage">
+Peixinho
+</div>
+
+![Hibisco](/img/docs/11_plantas_alimenticias/FOTO_03.jpg)
+
+Foto: Maria do Carmo Vieira
+
+<div className="center-textImage">
+Hibisco
+</div>
+
+![Taro](/img/docs/11_plantas_alimenticias/FOTO_04.jpg)
+
+Foto: Néstor Antonio Heredia Zárate
+
+<div className="center-textImage">
+Taro
+</div>
+
+![Salada com tansagem, ora-pró-nobis, jambu e capuchinha](/img/docs/11_plantas_alimenticias/FOTO_05.jpg)
+
+Foto: Maria do Carmo Vieira
+
+<div className="center-textImage">
+Salada com tansagem, ora-pró-nobis, jambu e capuchinha
+</div>
+
+![Mandioquinha-salsa](/img/docs/11_plantas_alimenticias/FOTO_06.jpg)
+
+Foto: Néstor Antonio Heredia Zárate
+
+<div className="center-textImage">
+Mandioquinha-salsa
+</div>

@@ -1,6 +1,6 @@
 ---
 id: poda-goiabera
-title:  Poda da Goiabera
+title: Poda da Goiabera
 sidebar_label: Poda da Goiabera
 ---
 
@@ -17,7 +17,7 @@ qualidade dos frutos.
 ## **2. Benefícios e/ou vantagens**
 
 - Programar a época da colheita de frutos, ofertando o produto
-em vários meses do ano.
+  em vários meses do ano.
 
 - Obter boas produtividades e frutos de qualidade.
 
@@ -37,7 +37,7 @@ Após o plantio, as mudas com haste única devem ser podadas,
 eliminando-se a porção terminal a 50 cm e 30 cm do nível do solo,
 respectivamente, para as variedades de hábito de crescimento
 horizontal (Paluma, Século XXI e Kumagai Branca) e vertical
-(Pedro Sato e Novo Milênio). 
+(Pedro Sato e Novo Milênio).
 
 A escolha das pernadas principais deve ser criteriosa, deixando
 três ou quatro ramos principais bem distribuídos, em direções
@@ -46,7 +46,7 @@ opostas.
 A segunda poda de formação consiste no encurtamento dos
 ramos primários ou pernadas principais ainda jovens, de forma
 que o ramo permaneça com 50 cm de comprimento em relação
-ao tronco. 
+ao tronco.
 
 ### Poda de limpeza
 
@@ -63,35 +63,35 @@ já produziram e pode ser realizada em qualquer época do ano. A
 definição da época de poda deverá ser em função do mercado e
 do ciclo de produção (período entre a poda e a colheita).
 
-Há dois tipos de poda de frutificação: 
+Há dois tipos de poda de frutificação:
 
-1) **Poda contínua ou escalonada **– A mesma planta produz o
-ano todo. Na poda contínua, cada ramo é podado
-individualmente a cada repasse no pomar, quando
-encurtamentos são realizados nos ramos, 1 mês após a
-colheita dos frutos, para que se produza uma segunda safra.
-Desse modo, em uma mesma planta poderão ser
-encontradas brotações novas, botões florais, flores abertas,
-frutos em diferentes estágios de desenvolvimento e em ponto
-de colheita. O problema da poda contínua é a dificuldade de
-se cumprir as exigências fitossanitárias, principalmente com
-relação ao período residual dos produtos aplicados, uma vez
-que, na planta, podem ser encontrados diferentes estádios
-fenológicos e, dessa forma, enquanto a colheita está sendo
-realizada, há necessidade de pulverizar a planta para o controle de pragas e doenças, para as produções sucessivas.
-Na poda contínua deve-se podar apenas os ramos maduros,
-pois estes estão aptos a florescer e produzir.
+1. **Poda contínua ou escalonada **– A mesma planta produz o
+   ano todo. Na poda contínua, cada ramo é podado
+   individualmente a cada repasse no pomar, quando
+   encurtamentos são realizados nos ramos, 1 mês após a
+   colheita dos frutos, para que se produza uma segunda safra.
+   Desse modo, em uma mesma planta poderão ser
+   encontradas brotações novas, botões florais, flores abertas,
+   frutos em diferentes estágios de desenvolvimento e em ponto
+   de colheita. O problema da poda contínua é a dificuldade de
+   se cumprir as exigências fitossanitárias, principalmente com
+   relação ao período residual dos produtos aplicados, uma vez
+   que, na planta, podem ser encontrados diferentes estádios
+   fenológicos e, dessa forma, enquanto a colheita está sendo
+   realizada, há necessidade de pulverizar a planta para o controle de pragas e doenças, para as produções sucessivas.
+   Na poda contínua deve-se podar apenas os ramos maduros,
+   pois estes estão aptos a florescer e produzir.
 
-2) **Poda drástica ou total** – Todos os ramos são podados ao
-mesmo tempo e a produção ocorre no mesmo período. Neste
-tipo de poda, é aconselhável deixar ramos pulmões na planta,
-com a finalidade de manter a transpiração, assegurar a
-uniformidade da brotação e obter maior frutificação,
-eliminando-os após a brotação dos ramos. Na poda drástica
-ou total o tronco da planta não pode ficar totalmente
-desprovido de folhas, deve-se deixar alguns ramos ou então
-proteger o tronco com a folhagem eliminada pela poda, para
-reduzir o efeito danoso causado pelo sol (escaldadura). 
+2. **Poda drástica ou total** – Todos os ramos são podados ao
+   mesmo tempo e a produção ocorre no mesmo período. Neste
+   tipo de poda, é aconselhável deixar ramos pulmões na planta,
+   com a finalidade de manter a transpiração, assegurar a
+   uniformidade da brotação e obter maior frutificação,
+   eliminando-os após a brotação dos ramos. Na poda drástica
+   ou total o tronco da planta não pode ficar totalmente
+   desprovido de folhas, deve-se deixar alguns ramos ou então
+   proteger o tronco com a folhagem eliminada pela poda, para
+   reduzir o efeito danoso causado pelo sol (escaldadura).
 
 A temperatura é um fator importante a ser considerado por
 ocasião da poda, pois determina a época de produção da
@@ -129,12 +129,37 @@ Fone: (67) 3318-5100
 
 Campo Grande, MS
 
-![Goiabeira em produção, submetida à poda drástica.]()
+![Goiabeira em produção, submetida à poda drástica.](/img/docs/07_poda_goiabeira/FOTO_01.jpg)
 
-![Planta da goiabeira antes da seleção das pernadas principais (A)]()
+Foto: Cássia Regina Yuriko Ide Vieira
 
-![planta da goiabeira após a seleção de quatro pernadas principais (B)]()
+<div className="center-textImage">
+Goiabeira em produção, submetida à poda drástica.
+</div>
 
-![Goiabeira não podada (A)]()
+![Planta da goiabeira antes da seleção das pernadas principais (A)](/img/docs/07_poda_goiabeira/FOTO_02.jpg)
 
-![Goiabeira submetida à poda drástica,com ramos pulmões (B)]()
+Foto: Cássia Regina Yuriko Ide Vieira
+
+![planta da goiabeira após a seleção de quatro pernadas principais (B)](/img/docs/07_poda_goiabeira/FOTO_03.jpg)
+
+Foto: Cássia Regina Yuriko Ide Vieira
+
+<div className="center-textImage">
+Planta da goiabeira antes da seleção das pernadas
+principais (A); planta da goiabeira após a seleção de
+quatro pernadas principais (B).
+</div>
+
+![Goiabeira não podada (A)](/img/docs/07_poda_goiabeira/FOTO_04.jpg)
+
+Foto: Cássia Regina Yuriko Ide Vieira
+
+![Goiabeira submetida à poda drástica,com ramos pulmões (B)](/img/docs/07_poda_goiabeira/FOTO_05.jpg)
+
+Foto: Cássia Regina Yuriko Ide Vieira
+
+<div className="center-textImage">
+Goiabeira não podada (A) e submetida à poda drástica,
+com ramos pulmões (B).
+</div>

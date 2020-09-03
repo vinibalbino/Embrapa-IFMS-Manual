@@ -27,6 +27,7 @@ meio do licenciamento de viveiristas que produzem e enviam as
 mudas para todo Brasil.
 
 ### BRS Estrela do Cerrado
+
 Primeira cultivar híbrida de
 maracujazeiro ornamental, desenvolvida como alternativa para o
 mercado das plantas ornamentais, seja para o cultivo em vasos,
@@ -103,23 +104,23 @@ atenção dos produtores.
 ## **2. Benefícios e/ou vantagens**
 
 - As cultivares de maracujazeiro, quando adaptadas ao
-ambiente, formam cortinas volumosas que trazem uma
-sensação de frescor. Quando conduzidas em caramanchões,
-fornecem sombreamento intenso, além de floração
-abundante. As flores atraem pássaros e insetos, com
-destaque para beija-flores e borboletas multicoloridas, que
-também são de grande beleza. Muitas espécies de
-Passifloras são usadas na estruturação de borboletários em
-jardins zoológicos. A beleza, a mística, a exuberância e as
-várias combinações de cores das flores do maracujá também
-merecem destaque.
+  ambiente, formam cortinas volumosas que trazem uma
+  sensação de frescor. Quando conduzidas em caramanchões,
+  fornecem sombreamento intenso, além de floração
+  abundante. As flores atraem pássaros e insetos, com
+  destaque para beija-flores e borboletas multicoloridas, que
+  também são de grande beleza. Muitas espécies de
+  Passifloras são usadas na estruturação de borboletários em
+  jardins zoológicos. A beleza, a mística, a exuberância e as
+  várias combinações de cores das flores do maracujá também
+  merecem destaque.
 - Em muitos países do Hemisfério Norte, a produção de mudas
-e cultivo é uma atividade altamente rentável e viável
-economicamente. Uma muda ou planta de maracujazeiro
-ornamental pode custar mais de US$ 100 dólares. O
-consumidor final das plantas ornamentais de maracujazeiro
-são paisagistas e consumidores, e os principais produtos
-concorrentes são outras espécies de plantas trepadeiras.
+  e cultivo é uma atividade altamente rentável e viável
+  economicamente. Uma muda ou planta de maracujazeiro
+  ornamental pode custar mais de US\$ 100 dólares. O
+  consumidor final das plantas ornamentais de maracujazeiro
+  são paisagistas e consumidores, e os principais produtos
+  concorrentes são outras espécies de plantas trepadeiras.
 
 ## **3. Como utilizar**
 
@@ -137,7 +138,7 @@ não tem uma cadeia produtiva totalmente estruturada, vai
 depender da relação entre oferta e procura, mas, principalmente,
 de trabalhos de divulgação, marketing e desenvolvimento de
 mercado para a devida apresentação de todas as
-potencialidades do produto tecnológico. 
+potencialidades do produto tecnológico.
 
 ## **4. Onde obter mais informações**
 
@@ -163,6 +164,29 @@ https://www.embrapa.br/cultivar/maracuja
 
 [Memória do Lançamento dos Híbridos de Maracujazeiro Ornamental](https://bit.ly/2TFobaH)
 
-![Cultivares de maracujazeiro ornamental]()
+<div className="image-Box">
 
-![Cultivares de maracujazeiro ornamental]()
+![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_01.jpg)
+![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_02.jpg)
+
+Foto: Fábio Gelape Faleiro
+
+</div>
+
+<div class="center-textImage">
+Cultivares de maracujazeiro ornamental.
+</div>
+
+<div className="image-Box">
+
+![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_03.jpg)
+![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_04.jpg)
+![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_05.jpg)
+
+Foto: Fábio Gelape Faleiro
+
+</div>
+
+<div class="center-textImage">
+Cultivares de maracujazeiro ornamental.
+</div>

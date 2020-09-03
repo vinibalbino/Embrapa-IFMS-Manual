@@ -1,10 +1,70 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;1,300&display=swap");
 
 /* Essa .margin-vert--xl e pra tirar na parte do docs um edit this page  */
 .margin-vert--xl {
   display: none;
 }
 
+/*Estilização da cartilha*/
+
+.row header h1 {
+  font-size: 2.5rem;
+}
+
+.row {
+  margin: 0 1rem 0 -0.8rem;
+}
+
+.image-Box {
+  text-align: center;
+}
+
+.image-Box p {
+  margin: 0;
+  justify-content: center;
+}
+
+article {
+  text-align: justify;
+}
+
+article h2 {
+  font-size: 1.6rem;
+}
+
+article h3 {
+  font-size: 1rem;
+}
+
+article p img {
+  align-self: center;
+  max-width: auto;
+  max-height: auto;
+}
+
+.row header h1 {
+  font-size: 2.1rem;
+}
+
+.center-textArticle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.center-textImage {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+  font-weight: 700;
+  padding: 1rem;
+}
+
+/*fim estiliazação da cartilha*/
 *,
 *::before,
 *::after {
@@ -16,7 +76,7 @@
 html,
 body {
   height: 100vh;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .main-wrapper {
@@ -29,26 +89,26 @@ body {
   flex-direction: column;
   height: 600px;
   justify-content: center;
-  background-image:url('/img/fundo-1-100.jpg'); 
-  background-position:center; 
-  -o-background-size:cover; 
-  -moz-background-size:cover; 
-  -webkit-background-size:cover; 
-  background-size:cover; 
-  background-repeat:no-repeat;
+  background-image: url("/img/fundo-1-100.jpg");
+  background-position: center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @supports not (-webkit-touch-callout: none) {
-  /* CSS for other than iOS devices */ 
+  /* CSS for other than iOS devices */
   .hero {
-    background-attachment:fixed; 
+    background-attachment: fixed;
   }
 }
 
 @supports (-webkit-touch-callout: none) {
-  /* CSS specific to iOS devices */ 
+  /* CSS specific to iOS devices */
   .hero {
-    background-attachment:scroll; 
+    background-attachment: scroll;
   }
 }
 
@@ -166,7 +226,10 @@ footer .container {
 }
 
 .main-container-cards .card img {
-  height: 50px;
+  height: 100px;
+  width: 100px;
+  border: none;
+  border-radius: 50px;
 }
 
 .container-cards {
@@ -206,7 +269,7 @@ footer .container {
 
 .nome-autor {
   font-weight: bold;
-  padding-top: 1rem;
+  padding-top: 0.5rem;
 }
 
 @media screen and (min-width: 850px) {
@@ -221,14 +284,13 @@ footer .container {
   }
 }
 
-
 @media screen and (min-width: 1024px) {
   .hero h1 {
     font-size: 3rem;
     width: 60%;
     margin: 0 auto;
   }
-  
+
   .apresentacao .titulo {
     margin: 0 auto;
     text-align: center;

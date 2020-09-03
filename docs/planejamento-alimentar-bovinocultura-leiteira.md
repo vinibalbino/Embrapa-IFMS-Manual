@@ -198,23 +198,15 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-<div class="imgContainer">
-
-![](/img/docs/confeccao-silagem.png)
+![Produção de silagem em silo tipo superfície](/img/docs/02_planejamento/FOTO_01.jpg)
 Foto: Marciana Retore
-
-</div>
 
 <div class="center-textImage">
-Confecção de silagem em silo tipo superfície
+Produção de silagem em silo tipo superfície.
 </div>
 
-<div class="imgContainer">
-
-![](/img/docs/corte-capineira.png)
+![Produção de silagem em silo tipo superfície](/img/docs/02_planejamento/FOTO_02.jpg)
 Foto: Marciana Retore
-
-</div>
 
 <div class="center-textImage">
 Corte de capineira para fornecimento no cocho.
