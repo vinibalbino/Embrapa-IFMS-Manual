@@ -8,7 +8,7 @@ sidebar_label: Guia Clima Monitoramento Climático de Mato Grosso do Sul
 
 ## **1. O que é**
 
-O *Guia Clima* é um sistema de monitoramento climático,
+O _Guia Clima_ é um sistema de monitoramento climático,
 desenvolvido pela Embrapa Agropecuária Oeste, de Dourados,
 MS, que disponibiliza na internet informações meteorológicas,
 em tempo real.
@@ -29,12 +29,12 @@ outros locais de Mato Grosso do Sul.
 ## **2. Benefícios e/ou vantagens**
 
 - Fornece dados e informações de chuva, temperaturas
-médias, máximas e mínimas, velocidade do vento, entre
-outros.
+  médias, máximas e mínimas, velocidade do vento, entre
+  outros.
 - O usuário também pode verificar os alertas de sensação
-térmica em virtude de temperaturas altas ou baixas,
-ocorrência de ventos fortes, risco de geadas e umidade do ar
-muito baixa.
+  térmica em virtude de temperaturas altas ou baixas,
+  ocorrência de ventos fortes, risco de geadas e umidade do ar
+  muito baixa.
 
 ## **3. Como utilizar**
 
@@ -47,7 +47,7 @@ de navegação, onde estão os assuntos referentes ao Guia Clima,
 está na parte esquerda da página, juntamente com o resumo do
 boletim meteorológico mais recente.
 
-![Pagina inicial guia clima]()
+![Pagina inicial guia clima](/img/docs/31_guia_clima/FOTO_01.jpg)
 
 Na opção "Busca de Dados" são disponibilizados os principais
 dados meteorológicos de cada dia. No caso de Dourados, podem
@@ -55,7 +55,7 @@ ser consultadas informações dos últimos 40 anos. Na Figura a
 seguir, uma tela da opção "Busca de Dados", com os primeiros
 dias de fevereiro de 2020, do município de Dourados.
 
-![Pagina Guia Clima com um calendario]()
+![Pagina Guia Clima com um calendario](/img/docs/31_guia_clima/FOTO_02.jpg)
 
 A figura seguinte apresenta a opção "Estatística", em que está
 selecionado o elemento meteorológico "chuva". Clicando em
@@ -66,7 +66,7 @@ meteorológicos e locais. Essas estatísticas fornecem uma visão
 panorâmica do clima de cada local e podem ser utilizadas no
 dimensionamento de projetos.
 
-![Pagina Guia Clima com um seletor]()
+![Pagina Guia Clima com um seletor](/img/docs/31_guia_clima/FOTO_03.jpg)
 
 ### Aplicativo
 
@@ -87,7 +87,7 @@ Para baixar o aplicativo, basta acessar a Play Store do Google,
 digitar Guia Clima. O usuário deve então selecionar a opção de
 instalação do aplicativo
 
-![Tela do celular com o aplicativo Guia Clima]()
+![Tela do celular com o aplicativo Guia Clima](/img/docs/31_guia_clima/FOTO_04.jpg)
 
 ## **4. Onde obter mais informações**
 

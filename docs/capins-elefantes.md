@@ -1,10 +1,10 @@
 ---
 id: capins-elefantes-BRS-kurumi_BRS-capiaçu
-title:  Capins-Elefantes BRS Kurumi e BRS Capiaçu
+title: Capins-Elefantes BRS Kurumi e BRS Capiaçu
 sidebar_label: Capins-Elefantes BRS Kurumi e BRS Capiaçu
 ---
 
-<div class="center-textArticle">Marciana Retore</div>
+<div className="center-textArticle">Marciana Retore</div>
 
 ## **1. O que é**
 
@@ -20,37 +20,37 @@ pastejo rotacionado.
 Já a BRS Capiaçu é uma cultivar de porte alto, atingindo 4,2 m de
 altura. É indicada para cultivo de capineiras, visando à
 suplementação volumosa, na forma de silagem ou picada verde
-no cocho. 
+no cocho.
 
 ## **2. Benefícios e/ou vantagens**
 
 - ABRS Kurumi apresenta 18% a 20% de proteína bruta e 68%
-a 70% de coeficiente de digestibilidade nas folhas, que é a
-parte consumida pelos animais. Em função do elevado teor de
-proteína do capim é imprescindível o fornecimento de
-alimento energético às vacas, para garantir o aporte
-adequado de energia e proteína no rúmen, para que a
-produção de leite ocorra em quantidade e qualidade.
-A cultivar possui elevada produção de folhas e pequeno
-alongamento do colmo, devido aos entrenós curtos, o que
-facilita o manejo do capim, não necessitando de roçadas após
-o pastejo. Além disso, apresenta intenso perfilhamento. 
+  a 70% de coeficiente de digestibilidade nas folhas, que é a
+  parte consumida pelos animais. Em função do elevado teor de
+  proteína do capim é imprescindível o fornecimento de
+  alimento energético às vacas, para garantir o aporte
+  adequado de energia e proteína no rúmen, para que a
+  produção de leite ocorra em quantidade e qualidade.
+  A cultivar possui elevada produção de folhas e pequeno
+  alongamento do colmo, devido aos entrenós curtos, o que
+  facilita o manejo do capim, não necessitando de roçadas após
+  o pastejo. Além disso, apresenta intenso perfilhamento.
 
 - A BRS Capiaçu é indicada para a produção de silagem,
-apresentando, em média, 5,5% de proteína bruta, e também
-para ser fornecida picada verde no cocho, com 8% a 9% de
-proteína bruta. Aprodução de massa seca é 30% superior aos
-demais capins da espécie, alcançando 50 toneladas de
-matéria seca por hectare. Além do elevado potencial
-produtivo, apresenta resistência ao tombamento, ausência de
-joçal (pelos), facilidade para colheita mecanizada e permite
-três a quatro cortes por ano.
+  apresentando, em média, 5,5% de proteína bruta, e também
+  para ser fornecida picada verde no cocho, com 8% a 9% de
+  proteína bruta. Aprodução de massa seca é 30% superior aos
+  demais capins da espécie, alcançando 50 toneladas de
+  matéria seca por hectare. Além do elevado potencial
+  produtivo, apresenta resistência ao tombamento, ausência de
+  joçal (pelos), facilidade para colheita mecanizada e permite
+  três a quatro cortes por ano.
 
 ## **3. Como utilizar**
 
 O plantio de ambos os capins deve ser feito durante a estação
 chuvosa, em solos bem drenados e de boa fertilidade, por meio de
-propagação vegetativa (colmos). 
+propagação vegetativa (colmos).
 
 Para o plantio da BRS Kurumi, fazer covas com espaçamento de
 50 cm x 50 cm ou 80 cm x 80 cm, com cerca de 10 cm de
@@ -101,7 +101,6 @@ para ter oferta de alimento o ano todo.
 
 [BRS Capiaçu: cultivar de capim-elefante voltada para a silagem – Programa Terra Sul](https://bit.ly/38zg9Vv)
 
-
 ### Publicação
 
 [Informações sobre a cultivar de capim-elefante BRS Kurumi](https://bit.ly/3clkJIU)
@@ -115,7 +114,6 @@ para ter oferta de alimento o ano todo.
 [Capim-elefante – BRS Capiaçu](https://bit.ly/38ypKMp)
 
 [Capim-elefante – BRS Kurumi](https://bit.ly/2EgJ4Qh)
-
 
 ### Instituição
 
@@ -135,7 +133,23 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
+![BRS Kurumi com 80 cm de altura, ponto ideal para pastejo, com elevada proporção de folhas.](/img/docs/04_capins/FOTO_01.jpg)
+Foto: Marciana Retore
 
-![BRS Kurumi com 80 cm de altura, ponto ideal para pastejo, com elevada proporção de folhas.]()
+<div className="center-textImage">
+BRS Kurumi com 80 cm de altura,
+ponto ideal para pastejo,
+com elevada proporção de folhas.
+</div>
 
-![BRS Capiaçu, com rebrota de 50 dias]()
+<div className="image-Box">
+
+![BRS Capiaçu, com rebrota de 50 dias](/img/docs/04_capins/FOTO_02.jpg)
+
+Foto: Marciana Retore
+
+</div>
+
+<div className="center-textImage">
+BRS Capiaçu, com rebrota de 50 dias
+</div>

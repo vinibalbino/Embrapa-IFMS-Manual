@@ -8,7 +8,7 @@ sidebar_label: Cultivo de Antúrio
 
 ## **1. O que é**
 
-O antúrio, *Anthurium andraeanum*, é uma espécie tropical de
+O antúrio, _Anthurium andraeanum_, é uma espécie tropical de
 grande valor ornamental. É comercializado como planta de vaso,
 para decoração de jardins e interiores, e como flor de corte.
 
@@ -26,18 +26,18 @@ beleza de suas folhas.
 ## **2. Benefícios e/ou vantagens**
 
 - O antúrio é um dos principais produtos de exportação da
-floricultura brasileira.
+  floricultura brasileira.
 - Em Mato Grosso do Sul, a produção de flores, em geral, é
-insignificante em relação a outros estados brasileiros; porém, o
-estado possui condições de solo e clima excelentes para a
-produção de flores tropicais e, assim, atender à demanda local.
+  insignificante em relação a outros estados brasileiros; porém, o
+  estado possui condições de solo e clima excelentes para a
+  produção de flores tropicais e, assim, atender à demanda local.
 - Para a implantação de cultivos, a demanda de área é pouca, o
-que viabiliza sua implantação, bem como a diversificação
-produtiva em pequenas propriedades; isso favorece a
-ampliação de renda do produtor.
+  que viabiliza sua implantação, bem como a diversificação
+  produtiva em pequenas propriedades; isso favorece a
+  ampliação de renda do produtor.
 - A produção de antúrio é uma alternativa viável para a
-agricultura familiar, pois, apesar de existirem sistemas produtivos bem tecnificados, é possível produzir plantas de
-vasos em condições mais rudimentares.
+  agricultura familiar, pois, apesar de existirem sistemas produtivos bem tecnificados, é possível produzir plantas de
+  vasos em condições mais rudimentares.
 
 ## **3. Como utilizar**
 
@@ -133,8 +133,34 @@ Fone: (67) 3318-5100
 
 Campo Grande, MS
 
-![Detalhamento de uma inflorescência de antúrio]()
+![Detalhamento de uma inflorescência de antúrio](/img/docs/28_cultivo_anturuo/FOTO_01.jpg)
 
-![Flor de antúrio]()
+Fonte: Instituto de Biologia – Universidade Federal de Uberlândia.
 
-![Plantas jovens]()
+<div className="center-textImage">
+Detalhamento de uma inflorescência de antúrio.
+</div>
+
+<div className="image-Box">
+
+![Flor de antúrio](/img/docs/28_cultivo_anturuo/FOTO_02.jpg)
+
+Foto: Flávio de Oliveira Ferreira
+
+</div>
+
+<div className="center-textImage">
+Flor de antúrio.
+</div>
+
+<div className="image-Box">
+
+![Plantas jovens](/img/docs/28_cultivo_anturuo/FOTO_03.jpg)
+
+Foto: Flávio de Oliveira Ferreira
+
+</div>
+
+<div className="center-textImage">
+Plantas jovens.
+</div>

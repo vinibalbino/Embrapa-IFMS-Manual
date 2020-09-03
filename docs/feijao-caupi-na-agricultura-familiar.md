@@ -1,6 +1,6 @@
 ---
 id: feijao-caupi-na-agricultura-familiar
-title:  Feijão-Caupi na Agricultura Familiar
+title: Feijão-Caupi na Agricultura Familiar
 sidebar_label: Feijão-Caupi na Agricultura Familiar
 ---
 
@@ -12,20 +12,20 @@ O feijão-caupi (Vigna unguiculata) é uma leguminosa também
 conhecida como feijão-de-corda, feijão-catador, feijão-fradinho,
 dentre outros. É tradicional na agricultura familiar nas regiões
 Norte e Nordeste do Brasil, sendo cultivado também em
-pequenas propriedades de Mato Grosso do Sul (MS). 
+pequenas propriedades de Mato Grosso do Sul (MS).
 
 ## **2. Benefícios e/ou vantagens**
 
 - É uma leguminosa anual, fixadora de nitrogênio atmosférico,
-podendo ser cultivada sem a aplicação de nitrogênio mineral,
-diminuindo o custo de produção.
+  podendo ser cultivada sem a aplicação de nitrogênio mineral,
+  diminuindo o custo de produção.
 
 - É tolerante às altas temperaturas e pouco exigente em água e
-fertilidade do solo. Por isso, o feijão-caupi é indicado para
-cultivo nas regiões Norte, Nordeste e Centro do estado de MS,
-principalmente em solos arenosos, em rotação com
-braquiárias, tanto para produção de sementes quanto para
-formação de pastagem.
+  fertilidade do solo. Por isso, o feijão-caupi é indicado para
+  cultivo nas regiões Norte, Nordeste e Centro do estado de MS,
+  principalmente em solos arenosos, em rotação com
+  braquiárias, tanto para produção de sementes quanto para
+  formação de pastagem.
 
 ## **3. Como utilizar**
 
@@ -50,15 +50,15 @@ festas juninas.
 
 ### Espaçamento entre linhas
 
-1) 80 cm a 100 cm: espaçamentos maiores devem ser preferidos
-quando o feijão for destinado para colheita de vagem-verde,
-tendo em vista que as vagens são produzidas nas pontas dos
-ramos. Isso proporciona vagens maiores e fácil trânsito entre
-as linhas para colheita e, devido às várias floradas do feijãocaupi. 
+1. 80 cm a 100 cm: espaçamentos maiores devem ser preferidos
+   quando o feijão for destinado para colheita de vagem-verde,
+   tendo em vista que as vagens são produzidas nas pontas dos
+   ramos. Isso proporciona vagens maiores e fácil trânsito entre
+   as linhas para colheita e, devido às várias floradas do feijãocaupi.
 
-2) 50 cm a 60 cm: espaçamentos menores são preferidos para
-colheita mecanizada de grãos secos, pois proporcionam
-floração mais uniforme, possibilitando uma só colheita.
+2. 50 cm a 60 cm: espaçamentos menores são preferidos para
+   colheita mecanizada de grãos secos, pois proporcionam
+   floração mais uniforme, possibilitando uma só colheita.
 
 ### População de plantas
 
@@ -92,7 +92,6 @@ Não tolera frio nem excesso de chuva, tanto na floração quanto
 na colheita, pois podem causar a queda de flores e a perda na
 qualidade de grãos, respectivamente.
 
-
 ## **4. Onde obter mais informações**
 
 ### Publicação
@@ -111,8 +110,28 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Cultivo de feijão-caupi por agricultor (Daniel da Silva) da região de Dourados, MS]()
+![Cultivo de feijão-caupi por agricultor (Daniel da Silva) da região de Dourados, MS](/img/docs/09_feijao_caupi/FOTO_01.jpg)
+Foto: Gessí Ceccon
 
-![Vagens de feijão-caupi em ponto de comercialização para consumo de grãos verdes]()
+<div className="center-textImage">
+Cultivo de feijão-caupi por
+agricultor (Daniel da Silva)
+da região de Dourados, MS.
+</div>
 
-![Grãos de feijão-caupi para comercialização em feira municipal]()
+![Vagens de feijão-caupi em ponto de comercialização para consumo de grãos verdes](/img/docs/09_feijao_caupi/FOTO_02.jpg)
+Foto: Gessí Ceccon
+
+<div className="center-textImage">
+Vagens de feijão-caupi em
+ponto de comercialização para
+consumo de grãos verdes.
+</div>
+
+![Grãos de feijão-caupi para comercialização em feira municipal](/img/docs/09_feijao_caupi/FOTO_03.jpg)
+Foto: Gessí Ceccon
+
+<div className="center-textImage">
+Grãos de feijão-caupi para comercialização
+em feira municipal
+</div>

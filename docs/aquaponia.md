@@ -29,14 +29,14 @@ por meio da nutrição das plantas em água enriquecida com sais
 
 - Menor consumo de água na produção de alimentos.
 - Até 98% da água no sistema pode ser reaproveitada
-continuamente.
+  continuamente.
 - A produção de alface pode consumir até 200 vezes menos
-água do que na produção convencional, em solo.
+  água do que na produção convencional, em solo.
 - As plantas “limpam” a água para os peixes, permitindo a sua
-reutilização, reduzindo consideravelmente a geração de
-efluentes de piscicultura; ainda assim, se gerados, podem ser
-utilizados para irrigação de plantios em vasos ou diretamente
-no solo. 
+  reutilização, reduzindo consideravelmente a geração de
+  efluentes de piscicultura; ainda assim, se gerados, podem ser
+  utilizados para irrigação de plantios em vasos ou diretamente
+  no solo.
 
 ## **3. Como utilizar**
 
@@ -79,4 +79,10 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas]()
+![Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas](/img/docs/25_aquaponia/FOTO_01.jpg)
+
+Foto: Luís Antonio Kioshi Aoki Inoue
+
+<div className="center-textImage">
+Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas.
+</div>

@@ -10,25 +10,25 @@ sidebar_label: Cultivo da Erva-Mate em Sistemas Agroflorestais
 
 É o cultivo da erva-mate em consórcio com árvores de outras
 espécies e cultivos agrícolas para obter diversos produtos ou
-serviços ambientais. Existem diferentes tipos de ervais: 
+serviços ambientais. Existem diferentes tipos de ervais:
 
 ### Ervais com sombreamento
 
 - Os nativos – de onde provém a maior parte da produção
-nacional.
+  nacional.
 - Os adensados – com o plantio de mudas nas clareiras
-existentes no erval nativo.
+  existentes no erval nativo.
 - Os ervais de conversão – quando a vegetação existente sob a
-copa das árvores na mata é transformada em erval.
+  copa das árvores na mata é transformada em erval.
 - Os ervais em sistemas agroflorestais – cultivo da erva-mate,
-em consórcio com culturas agrícolas, e com sombreamento
-de outras espécies de árvores.
+  em consórcio com culturas agrícolas, e com sombreamento
+  de outras espécies de árvores.
 
 ### Ervais não sombreados
 
 - Os ervais homogêneos – plantio solteiro a pleno sol.
 - Os ervais consorciados – plantio a pleno sol consorciado com
-lavouras e/ou pastagens.
+  lavouras e/ou pastagens.
 
 ## **2. Benefícios e/ou vantagens**
 
@@ -45,7 +45,6 @@ estimulante. Além disso, se a erva-mate for cultivada na área de
 Reserva Legal, em sistema agroflorestal com outras espécies de
 árvores nativas, possibilita, além dos ganhos monetários e
 ambientais, atender à legislação florestal.
-
 
 ## **3. Como utilizar**
 
@@ -82,6 +81,7 @@ fornecendo sombra para o desenvolvimento inicial das árvores e
 da erva-mate.
 
 ### Características desejáveis das espécies arbóreas
+
 para sombreamento da erva-mate
 
 Alguns aspectos devem ser levados em consideração, como por
@@ -100,6 +100,7 @@ apical, com fuste retilíneo ou poucas ramificações, possuem
 melhor qualidade e valor de sua madeira.
 
 ### Produção de mudas e cuidados iniciais no plantio da
+
 erva-mate
 
 A escolha de mudas de qualidade é fundamental para o sucesso
@@ -110,7 +111,7 @@ sementeira para a sacola plástica ou para o tubete, enrola o
 sistema radicular (cachimbamento) e, nesse caso, esta muda
 não irá sobreviver ao ser plantada no campo. A baixa qualidade
 das mudas é responsável por elevadas taxas de replantio,
-encarecendo o custo de implantação e causando desuniformidade no erval. 
+encarecendo o custo de implantação e causando desuniformidade no erval.
 
 Outro fator de qualidade das mudas diz respeito à origem das
 sementes. As sementes devem ser adquiridas de produtores
@@ -162,7 +163,7 @@ plantas com bom desenvolvimento, e que apresentem tecido
 maduro na base de sua haste principal. Não é a idade da muda
 que indica a necessidade de poda, mas o seu desenvolvimento.
 É indicado iniciar a poda entre agosto e setembro, fazendo um
-repasse entre janeiro e fevereiro. 
+repasse entre janeiro e fevereiro.
 
 ### Podas de colheita
 
@@ -211,17 +212,23 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
+![Muda de erva mate com sistema radicular bem formado (A) e com “cachimbamento” (B)](/img/docs/15_cultivo_erva_mate/FOTO_01.jpg)
 
-![Muda de erva mate com sistema radicular bem formado (A) e com “cachimbamento” (B)]()
+Foto: Eny Duboc
 
-![1ª poda de formação]()
+<div className="center-textImage">
+Muda de erva mate com sistema radicular bem formado (A)
+e com “cachimbamento” (B). 
+</div>
 
-![2ª poda de formação]()
+![](/img/docs/15_cultivo_erva_mate/FOTO_02.jpg)
 
-![3ª poda de formação]()
+![Arquitetura de copa desejada em erveira comercial em fase de produção. As setas vermelhas indicam os ramos bandeira e as setas azuis os galhos que devem ser podados na temporada seguinte](/img/docs/15_cultivo_erva_mate/FOTO_03.jpg)
 
-![Podas de formação para obter copa tipo cálice (A)]()
+Foto: Eny Duboc
 
-![Tronco de erva-mate após poda de produção (B).]()
-
-![Arquitetura de copa desejada em erveira comercial em fase de produção. As setas vermelhas indicam os ramos bandeira e as setas azuis os galhos que devem ser podados na temporada seguinte]()
+<div className="center-textImage">
+Arquitetura de copa desejada em erveira comercial em fase de produção.
+As setas vermelhas indicam os ramos bandeira e as setas azuis
+os galhos que devem ser podados na temporada seguinte.
+</div>

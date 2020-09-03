@@ -1,10 +1,10 @@
 ---
 id: preparo-selecao-material-plantio-mandioca
-title:  Preparo e Seleção de Material de Plantio de Mandioca
+title: Preparo e Seleção de Material de Plantio de Mandioca
 sidebar_label: Preparo e Seleção de Material de Plantio de Mandioca
 ---
 
-<div class="center-textArticle">Auro Akio Otsubo e Marco Antonio Sedrez Rangel</div>
+<div className="center-textArticle">Auro Akio Otsubo e Marco Antonio Sedrez Rangel</div>
 
 ## **1. O que é**
 
@@ -34,7 +34,6 @@ que implica em menor necessidade de capinas, ausência de
 doenças e pragas e, consequentemente, aumento na
 produtividade.
 
-
 ## **3. Como utilizar**
 
 Deve-se entender que uma boa lavoura começa por uma boa
@@ -44,7 +43,7 @@ superalongamento, antracnose e podridão radicular, vírus e
 micoplasmas, e pragas como a cochonilha, pulgão, tripes,
 percevejo-de-renda, mosca-branca, brocas-do-caule, larvas de
 mosca-das-frutas, larvas dos brotos, além de ácaros, podem ser
-disseminados pelo material de plantio. 
+disseminados pelo material de plantio.
 
 Portanto, o produtor deverá conhecer a origem ou a procedência
 do material que vai utilizar. A escolha da gleba que fornecerá as
@@ -111,9 +110,31 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
+![Comprimento da maniva indicado de 20 cm](/img/docs/06_preparo_mandioca/FOTO_01.jpg)
 
-![Comprimento da maniva indicado de 20 cm.]()
+Foto: Carmen Regina Pezarico
 
-![Medula ocupando 50% ou menos da área central da maniva.]()
+<div className="center-textImage">
+Comprimento da maniva
+indicado de 20 cm
+</div>
 
-![Exsudação do látex da mandioca, indicação de viabilidade.]()
+<div className="image-Box">
+
+![Medula ocupando 50% ou menos da área central da maniva](/img/docs/06_preparo_mandioca/FOTO_02.jpg)
+
+Foto: Carmen Regina Pezarico
+
+</div>
+
+<div className="center-textImage">
+Medula ocupando 50% ou menos da área central da maniva
+</div>
+
+![Exsudação do látex da mandioca, indicação de viabilidade](/img/docs/06_preparo_mandioca/FOTO_03.jpg)
+
+Foto: Anderson Rogélio Bonin
+
+<div className="center-textImage">
+Exsudação do látex da mandioca, indicação de viabilidade.
+</div>

@@ -10,7 +10,7 @@ sidebar_label: Baculovirus erinnyis para o Controle Biológico do Mandarová da 
 
 Dentre as várias espécies de insetos associados à cultura da
 mandioca e que causam danos econômicos, destaca-se o
-mandarová da mandioca (*Erinnyis ello* L.) ou “gervão”. A praga
+mandarová da mandioca (_Erinnyis ello_ L.) ou “gervão”. A praga
 pode provocar completo desfolhamento e redução na produção
 de até 64%, principalmente quando o ataque ocorre em plantas
 jovens (até 5 meses). Embora possa ocorrer em qualquer época
@@ -34,7 +34,7 @@ Na escolha do método de controle deve-se levar em conta que o
 mandarová tem um número expressivo de inimigos naturais, que
 devem ser preservados. Recomenda-se para isso o uso de
 produtos biológicos. O controle do mandarová utilizando o
-baculovírus (*Baculovirus erinnyis*) é uma alternativa viável,
+baculovírus (_Baculovirus erinnyis_) é uma alternativa viável,
 econômica e segura, que pode causar mortalidade de até 100%
 das lagartas. O baculovírus é um vírus de ocorrência natural,
 específico, que ataca somente lagartas do mandarová,
@@ -44,15 +44,15 @@ morte.
 ## **2. Benefícios e/ou vantagens**
 
 - É seguro ao homem, plantas e animais, sendo seletivo aos
-inimigos naturais do mandarová ou de outras pragas.
+  inimigos naturais do mandarová ou de outras pragas.
 - Pode ser produzido pelo agricultor e armazenado por vários
-anos para ser aplicado nos cultivos seguintes, com baixo
-custo, em substituição aos inseticidas químicos.
+  anos para ser aplicado nos cultivos seguintes, com baixo
+  custo, em substituição aos inseticidas químicos.
 - Possui elevada capacidade de permanência na área e alto
-poder de dispersão, infectando lagartas em locais onde não
-se aplicou o produto.
+  poder de dispersão, infectando lagartas em locais onde não
+  se aplicou o produto.
 - Seu uso frequente restabelece a fauna benéfica (inimigos
-naturais).
+  naturais).
 - É eficiente no controle do mandarová da mandioca.
 
 ## **3. Como utilizar**
@@ -133,12 +133,54 @@ Fone: (75) 3312-8048
 
 Cruz das Almas, BA
 
-![Lagartas de mandarová com colorações diferentes]()
+![Lagartas de mandarová com colorações diferentes](/img/docs/17_baculovirus/FOTO_01.jpg)
 
-![Material preparado e congelado com Baculorivus erinnyis]()
+Foto: Vanda Pietrowski
 
-![Fase da infestação com mais vírus extracelular. Inóculo não adequado]()
+<div className="center-textImage">
+Lagartas de mandarová com colorações diferentes
+</div>
 
-![Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado]()
+![Material preparado e congelado com Baculorivus erinnyis](/img/docs/17_baculovirus/FOTO_02.jpg)
 
-![Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado]()
+Foto: Thaína Sanches
+
+<div className="center-textImage">
+Material preparado e congelado com Baculorivus erinnyis
+</div>
+
+<div className="image-Box">
+
+![Fase da infestação com mais vírus extracelular. Inóculo não adequado](/img/docs/17_baculovirus/FOTO_03.jpg)
+
+Foto: Vanda Pietrowski
+
+</div>
+
+<div className="center-textImage">
+Fase da infestação com mais vírus extracelular. Inóculo não adequado
+</div>
+
+<div className="image-Box">
+
+![Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado](/img/docs/17_baculovirus/FOTO_04.jpg)
+
+Foto: Vanda Pietrowski
+
+</div>
+
+<div className="center-textImage">
+Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado
+</div>
+
+<div className="image-Box">
+
+![Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado](/img/docs/17_baculovirus/FOTO_05.jpg)
+
+Foto: Vanda Pietrowski
+
+</div>
+
+<div className="center-textImage">
+Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado.
+</div>

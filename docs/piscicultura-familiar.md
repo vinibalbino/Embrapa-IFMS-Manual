@@ -25,11 +25,11 @@ esgotamento rápido), caixa de coleta de peixes, etc.
 - Diversificação das atividades.
 - Geração de renda.
 - Produção de proteína animal de alta qualidade para as
-famílias.
+  famílias.
 - Aproveitamento dos resíduos (efluentes e sedimentos) em
-culturas agrícolas.
+  culturas agrícolas.
 - Possibilidade (se bem manejada) da preservação de mata
-ciliar e de áreas de mananciais.
+  ciliar e de áreas de mananciais.
 
 ## **3. Como utilizar**
 
@@ -87,13 +87,42 @@ Fone: (67) 3318-5100
 
 Campo Grande, MS
 
+![Tanque escavado](/img/docs/22_piscicultura/FOTO_01.jpg)
 
-![Tanque escavado]()
+Foto: Ricardo Borghesi
 
-![Canal de abastecimento de água por gravidade]()
+<div className="center-textImage">
+Tanque escavado
+</div>
 
-![Pacu]()
+![Canal de abastecimento de água por gravidade](/img/docs/22_piscicultura/FOTO_02.jpg)
 
-![Tilápia]()
+Foto: Ricardo Borghesi
 
-![Cachara]()
+<div className="center-textImage">
+Canal de abastecimento de água por gravidade
+</div>
+
+![Pacu](/img/docs/22_piscicultura/FOTO_03.jpg)
+
+Foto: Luís Antonio Kioshi Aoki Inoue
+
+<div className="center-textImage">
+Pacu
+</div>
+
+![Tilápia](/img/docs/22_piscicultura/FOTO_04.jpg)
+
+Foto: Luís Antonio Kioshi Aoki Inoue
+
+<div className="center-textImage">
+Tilápia
+</div>
+
+![Cachara](/img/docs/22_piscicultura/FOTO_05.jpg)
+
+Foto: Tarcila S. C. Silva
+
+<div className="center-textImage">
+Cachara
+</div>

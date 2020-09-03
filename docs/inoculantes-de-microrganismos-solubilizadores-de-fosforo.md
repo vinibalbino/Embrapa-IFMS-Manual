@@ -21,30 +21,30 @@ laboratório até o momento de sua aplicação.
 ## **2. Benefícios e/ou vantagens**
 
 - A adição de inoculantes biológicos no solo é uma alternativa
-atrativa, que pode acelerar a ciclagem de fósforo, presente na
-matéria orgânica, e enriquecer o solo biologicamente.
+  atrativa, que pode acelerar a ciclagem de fósforo, presente na
+  matéria orgânica, e enriquecer o solo biologicamente.
 - Os inoculantes biológicos à base de MSP permitem uma
-eficiência do uso de fertilizantes químicos fosfatados, que
-geralmente são importados, e aumentam os custos de
-produção. Com a utilização do inoculante é possível obter o
-aumento no crescimento e produtividade de cerca de 10% em
-diferentes culturas e gerar redução de custos para o produtor. 
+  eficiência do uso de fertilizantes químicos fosfatados, que
+  geralmente são importados, e aumentam os custos de
+  produção. Com a utilização do inoculante é possível obter o
+  aumento no crescimento e produtividade de cerca de 10% em
+  diferentes culturas e gerar redução de custos para o produtor.
 - A inoculação é considerada uma alternativa ambientalmente
-correta com relação às aplicações de fertilizantes químicos,
-contribuindo para a sustentabilidade na agricultura.
+  correta com relação às aplicações de fertilizantes químicos,
+  contribuindo para a sustentabilidade na agricultura.
 - Aos produtores que optarem pela adubação com fosfatos de
-rocha, ou pela mistura de fontes solúveis ou de menor
-solubilidade, o inoculante permite maior disponibilidade deste
-nutriente para as plantas. É útil para áreas com alto teor de
-fósforo orgânico, como aquelas sob plantio direto, onde
-haverá maior ciclagem e disponibilização do fósforo de forma
-mais eficiente.
+  rocha, ou pela mistura de fontes solúveis ou de menor
+  solubilidade, o inoculante permite maior disponibilidade deste
+  nutriente para as plantas. É útil para áreas com alto teor de
+  fósforo orgânico, como aquelas sob plantio direto, onde
+  haverá maior ciclagem e disponibilização do fósforo de forma
+  mais eficiente.
 - Os inoculantes contendo MSP são bastante estáveis por
-causa da capacidade de formação de esporos das bactérias
-selecionadas, permitindo sua utilização mesmo em
-condições extremas, como em locais sujeitos a grandes
-elevações de temperatura (65 °C) e pH ou expostos a
-pesticidas. 
+  causa da capacidade de formação de esporos das bactérias
+  selecionadas, permitindo sua utilização mesmo em
+  condições extremas, como em locais sujeitos a grandes
+  elevações de temperatura (65 °C) e pH ou expostos a
+  pesticidas.
 
 ## **3. Como utilizar**
 
@@ -79,5 +79,10 @@ Fone: (31) 3027-1193
 
 Sete Lagoas, MG
 
+![Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho](/img/docs/36_inoculantes/FOTO_01.jpg)
 
-![Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho]()
+Ilustração: Christiane Abreu de Oliveira Paiva/Simbiose e Sylvia Morais de Sousa
+
+<div class="center-textImage">
+Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho
+</div>

@@ -27,14 +27,14 @@ escala comercial.
 ## **2. Benefícios e/ou vantagens**
 
 - Diversificação da produção e geração de renda na maior
-parte do ano.
+  parte do ano.
 - Aumento das alternativas de cultivos consorciados.
 - Geração de trabalho no campo.
 - Durabilidade da espécie.
 
 ## **3. Como utilizar**
 
-### Helicônia 
+### Helicônia
 
 No paisagismo e como flor de corte é uma das
 principais espécies com demanda crescente e possui várias
@@ -79,24 +79,24 @@ A beleza da inflorescência
 dessa planta, com diferentes cores das brácteas e infrutescência
 ereta, vem conquistando mercado, principalmente na região
 Nordeste do País. Em Pernambuco, as espécies de corte mais
-produzidas são *Musa ornata* e *M. coccinea* e em Sergipe,
-*M. ornata* e *M. velutina*.
+produzidas são _Musa ornata_ e _M. coccinea_ e em Sergipe,
+_M. ornata_ e _M. velutina_.
 
 ### Cúrcuma
 
 É originária das áreas tropicais e subtropicais do Norte
 da Tailândia e do Camboja, onde as brácteas são usadas na
-alimentação. Dentre as espécies com valor ornamental, destacase a *Curcuma alismatifolia*. Em estudos recentes, realizados no
+alimentação. Dentre as espécies com valor ornamental, destacase a _Curcuma alismatifolia_. Em estudos recentes, realizados no
 estado de Mato Grosso do Sul, constatou-se a viabilidade de
-cultivo das variedades *Siam Shadow*, *Snow White* e *Sunset* para
+cultivo das variedades _Siam Shadow_, _Snow White_ e _Sunset_ para
 produção comercial de flores de corte.
 
 ### Calathea
+
 No paisagismo, é interessante por ser planta perene e
 de folhas grandes, com inflorescência em diferentes cores: azul,
 branca, verde, amarronzada, etc. Como flor de corte, algumas
 espécies apresentam grande potencial de mercado.
-
 
 ## **4. Onde obter mais informações**
 
@@ -122,13 +122,62 @@ Fone: (67) 3423-3561
 
 Dourados, MS
 
+<div className="image-Box">
 
-![Heliconia bihai]()
+![Heliconia bihai](/img/docs/27_producao_flores/FOTO_01.jpg)
 
-![Arranjo floral com flores tropicais (helicônias e sorvetão)]()
+Foto: Liliane K. Leonel
 
-![Musa-bronze]()
+</div>
 
-![Cúrcuma]()
+<div className="center-textImage">
+Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio
+</div>
 
-![Heliconia rostrata]()
+<div className="image-Box">
+
+![Arranjo floral com flores tropicais (helicônias e sorvetão)](/img/docs/27_producao_flores/FOTO_04.jpg)
+
+Foto: Flávio de Oliveira Ferreira
+
+</div>
+
+<div className="center-textImage">
+Arranjo floral com flores tropicais (helicônias e sorvetão)
+</div>
+
+<div className="image-Box">
+
+![Musa-bronze](/img/docs/27_producao_flores/FOTO_02.jpg)
+
+Foto: Liliane K. Leonel
+
+</div>
+
+<div className="center-textImage">
+Musa-bronze
+</div>
+
+<div className="image-Box">
+
+![Cúrcuma](/img/docs/27_producao_flores/FOTO_05.jpg)
+
+Foto: Francimar Perez Matheus
+
+</div>
+
+<div className="center-textImage">
+Cúrcuma
+</div>
+
+<div className="image-Box">
+
+![Heliconia rostrata](/img/docs/27_producao_flores/FOTO_03.jpg)
+
+Foto: Liliane K. Leonel
+
+</div>
+
+<div className="center-textImage">
+Heliconia rostrata
+</div>

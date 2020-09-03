@@ -1,5 +1,5 @@
 ---
-id:  compostagem
+id: compostagem
 title: Compostagem
 sidebar_label: Compostagem
 ---
@@ -19,12 +19,12 @@ actinomicetos.
 - Reciclagem de matéria orgânica e nutrientes.
 - Melhoria dos atributos físicos, químicos e biológicos do solo.
 - Contribuição para diversificar a presença de organismos
-benéficos no solo e na nutrição das plantas.
+  benéficos no solo e na nutrição das plantas.
 - Melhoria do aproveitamento da água no solo pelas plantas.
 - Produção a partir de resíduos locais.
 - O produto final, o composto, pode ser utilizado como adubo
-orgânico, substrato para mudas e adubo líquido (chá de
-composto) utilizado em cobertura.
+  orgânico, substrato para mudas e adubo líquido (chá de
+  composto) utilizado em cobertura.
 
 ## **3. Como utilizar**
 
@@ -67,12 +67,12 @@ centro da pilha para verificação da temperatura. O ideal é que
 esteja aquecido de forma que não seja possível segurar com a
 mão). O aquecimento da pilha é indicativo da atividade dos
 microrganismos, que liberam energia na forma de calor durante a
-decomposição. 
+decomposição.
 
 Revirar a pilha a cada 15 dias, repetindo três vezes, para agilizar
 e melhorar o processo, bem como corrigir a umidade (no interior
 da pilha), temperatura, aeração e uniformização dos materiais.
-Para montar e revirar a pilha, utiliza-se o forcado reto e curvo. 
+Para montar e revirar a pilha, utiliza-se o forcado reto e curvo.
 
 Dependendo dos materiais utilizados, pode-se obter o produto
 pronto com aproximadamente 90 dias. O aspecto do produto final
@@ -80,7 +80,7 @@ pronto com aproximadamente 90 dias. O aspecto do produto final
 aspecto gorduroso e consistência friável. Depois que o composto
 ficar pronto, deve-se utilizá-lo logo em seguida, ou então, quando
 possível, armazená-lo protegido do sol e da chuva, para evitar
-perdas de nutrientes. 
+perdas de nutrientes.
 
 Dependendo da exigência da cultura, condição do solo e
 composição do composto, para se ter uma referência
@@ -91,14 +91,13 @@ superfície como adubação de manutenção, dependendo da
 espécie, idade e produtividade da planta. Para informação mais
 precisa, é necessária a análise química do solo e do composto,
 bem como a recomendação de adubação fornecida por um
-técnico ou engenheiro-agrônomo. 
-
+técnico ou engenheiro-agrônomo.
 
 ## **4. Onde obter mais informações**
 
 ### Vídeo
 
-[Dia de campo na TV - Compostagem manejo e utilização na agricultura orgânica](https://youtu.be/dp8L1yTK2-k )
+[Dia de campo na TV - Compostagem manejo e utilização na agricultura orgânica](https://youtu.be/dp8L1yTK2-k)
 
 ### Publicação
 
@@ -118,30 +117,11 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Modelo esquemático de pilha de compostagem com camadas alternadas de diferentes resíduos]()
+![Modelo esquemático de pilha de compostagem com camadas alternadas de diferentes resíduos](/img/docs/21_compostagem/FOTO_01_COM_LEGENDA.jpg)
 
+Ilustração: Ivo de Sá Motta
 
----------------
-
-### Composição aproximada de alguns materiais empregados no
-preparo do composto (resultados em material seco a 110 °C).
-
-Material          | C/N<sup>(1)</sup> |    N (%)    | P<sub>2</sub>O<sub>5</sub>(%)    |     K<sub>2</sub>O(%)  |
----------------   | :---------: | :---------: | :---------: | :---------: |
-Capim-napier      |     62/1    |     0,80    |    0,25     |     1,74    |
-Crotalaria juncea |     26/1    |     1,95    |    0,40     |     1,81    |
-Esterco bovino    |     18/1    |     1,92    |    1,01     |     2,79    |
-Esterco galinha   |     10/1    |     3,04    |    3,70     |     1,89    |
-Milho palhas      |     112/1   |     0,48    |    0,38     |     1,64    |
-Palha feijão      |     32/1    |     1,63    |    0,29     |     1,94    |
-Palha café        |     38/1    |     1,37    |    0,26     |     1,96    |
-
-<sup>(1)</sup>Relação carbono/nitrogênio.
-
-Fonte: adaptado de Kiehl (1985).
-
----------------
-
+![Tabela Composição aproximada de alguns materiais empregados no preparo do composto (resultados em material seco a 110 °C)](/img/docs/21_compostagem/FOTO_02.jpg)
 
 ### Referência
 

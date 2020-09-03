@@ -1,6 +1,6 @@
 ---
 id: milhos-especiais-da-embrapa
-title:  Milhos Especiais da Embrapa
+title: Milhos Especiais da Embrapa
 sidebar_label: Milhos Especiais da Embrapa
 ---
 
@@ -22,12 +22,12 @@ Isto resulta em maior engorda de animais monogástricos, como
 frangos, suínos, peixes, equídeos e o próprio homem. Estas
 cultivares são recomendadas para pequenos produtores,
 especialmente para tratar animais de subsistência (criação
-“caipira”), agregando valor à produção de carne/ovos. 
+“caipira”), agregando valor à produção de carne/ovos.
 
 **Milho pipoca BRS Ângela** – Variedade precoce, com grãos
 brancos. Sua característica especial é a boa capacidade de
 expansão, quando o grão é aquecido. Interessante para o
-consumo doméstico e boa opção para comércio do grão. 
+consumo doméstico e boa opção para comércio do grão.
 
 **Milho doce** – O milho doce possui alto teor de açúcar no
 endosperma. Destinado especificamente ao consumo humano
@@ -53,17 +53,17 @@ pequenas quantidades de semente para testes.
 ## **2. Benefícios e/ou vantagens**
 
 - Melhora a qualidade e diversifica a alimentação humana e
-animal.
+  animal.
 
 - No caso do milho com Qualidade Proteica Melhorada (QPM),
-disponibiliza-se um grão mais nutritivo a um custo baixo.
+  disponibiliza-se um grão mais nutritivo a um custo baixo.
 
 - Proporciona a manutenção permanente da pureza genética
-de cada variedade, por meio do plantio na mesma área,
-porém em lotes isolados.
+  de cada variedade, por meio do plantio na mesma área,
+  porém em lotes isolados.
 
 - A variedade possibilita a produção da própria semente pelo
-agricultor.
+  agricultor.
 
 ## **3. Como utilizar**
 
@@ -76,7 +76,7 @@ pólen entre elas. Há duas formas de isolamento: por distância,
 deixando-se cerca de 200 m–300 m de distância entre as
 variedades, ou por tempo, deixando-se 30 dias de intervalo entre o plantio de diferentes milhos, na mesma área. Com isso, as
 cultivares manterão suas características genéticas e
-agronômicas por longo tempo. 
+agronômicas por longo tempo.
 
 Recomenda-se o plantio dessas cultivares preferencialmente no
 verão e no cedo (setembro); opcionalmente, plantar também na
@@ -84,14 +84,14 @@ segunda safra (safrinha), mas com risco de redução do potencial
 produtivo. Pode-se usar espaçamento padrão de 75 cm–80 cm
 entre fileiras e cinco plantas por metro linear, com ajuste para
 quatro plantas por metro linear na safrinha, onde é necessário
-reduzir a população de plantas. 
+reduzir a população de plantas.
 
 As sementes deverão ser semeadas a 5 cm de profundidade e o
 adubo deverá ficar mais profundo; de 8 cm a 10 cm, por exemplo.
 Usar adubo NPK no plantio e adubação nitrogenada em
 cobertura. Na ausência destes adubos, usar alternativas
 disponíveis na propriedade, como estercos ou compostagens e
-também a tradicional adubação verde com leguminosas. 
+também a tradicional adubação verde com leguminosas.
 
 No plantio dos milhos especiais também se recomenda o uso dos
 inoculantes Azospirillum brasilense e BiomaPhos (solubilizador
@@ -100,7 +100,7 @@ spodoptera), contra a lagarta-do-cartucho, e o uso do capimbraquiária para prod
 do milho.
 
 Durante a colheita das variedades "para uso como semente
-própria", recomenda-se: 
+própria", recomenda-se:
 
 a) Entre as plantas mais produtivas e sadias, selecionar
 aquelas com melhores espigas, com bom peso, formato
@@ -112,7 +112,7 @@ b) Colher as espigas com melhor empalhamento, bem
 protegidas pela palha, para menor incidência de insetos,
 principalmente caruncho e traça. Dar preferência às
 espigas viradas para baixo (decumbentes), o que evita
-podridões pela entrada de água das chuvas. 
+podridões pela entrada de água das chuvas.
 
 c) Realizar a colheita precocemente, iniciando quando a
 palha da espiga estiver branca, as folhas ainda
@@ -173,10 +173,32 @@ Fone: (61) 3385-9000
 
 Brasília, DF
 
-![Milho QPM BR 473 amarelo]()
+![Milho QPM BR 473 amarelo](/img/docs/10_milhos_especiais/FOTO_01.jpg)
 
-![Espigas de milho-doce]()
+Foto: Embrapa Milho e Sorgo
 
-![Milho QPM BR 451 branco]()
+<div className="center-textImage">
+Milho QPM BR 473 amarelo
+</div>
 
-![Sementes do milho-pipoca BRS Ângela]()
+<div className="image-Box">
+
+![Espigas de milho-doce](/img/docs/10_milhos_especiais/FOTO_02.jpg)
+
+Foto: Embrapa Milho e Sorgo
+
+</div>
+
+<div className="center-textImage">
+Espigas de milho-doce
+</div>
+
+![Milho QPM BR 451 branco](/img/docs/10_milhos_especiais/FOTO_03.jpg)
+
+Foto: Embrapa Milho e Sorgo
+
+<div className="center-textImage">
+Milho QPM BR 451 branco
+</div>
+
+![Sementes do milho-pipoca BRS Ângela](/img/docs/10_milhos_especiais/FOTO_04.jpg)

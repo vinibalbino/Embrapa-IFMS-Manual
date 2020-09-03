@@ -16,8 +16,8 @@ nos bovinos, evitando assim contínuas perdas, seja na aquisição
 de carrapaticidas, seja na diminuição da produção de leite e/ou
 carne.
 
-O *carrapato-do-boi*, cujo nome científico é *Rhipicephalus
-microplus*, tem o ciclo de vida parasitária em torno de 21 dias em
+O _carrapato-do-boi_, cujo nome científico é _Rhipicephalus
+microplus_, tem o ciclo de vida parasitária em torno de 21 dias em
 um único hospedeiro que, preferencialmente, são os bovinos de
 origem europeia (vaca holandesa) e seus cruzamentos, por
 serem também mais sensíveis. Vacas com produção média de
@@ -34,7 +34,7 @@ responsável por um prejuízo de aproximadamente 3,24 bilhões
 de dólares por ano na cadeia produtiva bovina no Brasil.
 Atualmente, a principal forma de controle utilizada é realizada por
 meio de acaricidas, que podem ser aplicados de diferentes
-formas nos bovinos: injetáveis, por banhos (aspersão) e *pour-on*.
+formas nos bovinos: injetáveis, por banhos (aspersão) e _pour-on_.
 
 No entanto, estudos têm mostrado que os carrapaticidas de
 contato (banho, aspersão), quando bem aplicados, apresentam
@@ -50,13 +50,13 @@ apresentam relatos de populações desses carrapatos resistentes
 ## **2. Benefícios e/ou vantagens**
 
 - O benefício principal do controle estratégico é a economia
-gerada pela redução na quebra na produção do leite e no
-emprego de acaricidas. Além disso, está alinhado à demanda
-do mercado, cada dia mais exigente em relação à
-procedência e qualidade dos produtos de origem animal. Em
-adição, vai ao encontro do alto interesse em preservar e
-assumir um comprometimento de reduzir a poluição
-ambiental.
+  gerada pela redução na quebra na produção do leite e no
+  emprego de acaricidas. Além disso, está alinhado à demanda
+  do mercado, cada dia mais exigente em relação à
+  procedência e qualidade dos produtos de origem animal. Em
+  adição, vai ao encontro do alto interesse em preservar e
+  assumir um comprometimento de reduzir a poluição
+  ambiental.
 
 ## **3. Como utilizar**
 
@@ -70,7 +70,7 @@ qual deles é o mais adequado, e para poder comprar o
 produto certo, lembrando que, para cada propriedade, existe
 a necessidade de um teste. Esse teste pode ser realizado na
 Embrapa Gado de Corte (Campo Grande, MS) de maneira
-gratuita para todos os produtores interessados. 
+gratuita para todos os produtores interessados.
 
 **2)** Aplicar o carrapaticida na época do ano mais adequada. A
 sugestão é iniciar o controle no final do período seco
@@ -79,7 +79,7 @@ na pastagem. Realizar de cinco a seis tratamentos com
 carrapaticidas de contato, dentro de intervalos menores que
 21 dias cada.
 
-**3)**  Seguir com rigor as recomendações do fabricante do produto a
+**3)** Seguir com rigor as recomendações do fabricante do produto a
 ser utilizado, tais como: misturar bem o produto, dosagem,
 período de carência para o uso do leite e permissão para uso
 em vacas lactantes.
@@ -155,7 +155,18 @@ Fone: (67) 3368-2000
 
 Campo Grande, MS
 
+![Capim com aglomerados de larvas à espera dos bovinos](/img/docs/37_controle_carrapato/FOTO_01.jpg)
 
-![Capim com aglomerados de larvas à espera dos bovinos]()
+Foto: Marcos Valério Garcia
 
-![Ciclo de vida do carrapato-do-boi]()
+<div class="center-textImage">
+Capim com aglomerados de larvas à espera dos bovinos
+</div>
+
+![Ciclo de vida do carrapato-do-boi](/img/docs/37_controle_carrapato/FOTO_02.jpg)
+
+Foto: Renato Andreotti
+
+<div class="center-textImage">
+Ciclo de vida do carrapato-do-boi
+</div>
