@@ -11,8 +11,10 @@ function Autores() {
   const showcase = users.map((user) => (
     i++,
     <div key={i} className="card">
-      <div className={styles.container}>
-        <img src={user.image} alt="" />
+      <div className={styles.containerAutor}>
+        <div className={styles.containerFoto}>
+          <img src={user.image} alt="" />
+        </div>
         <p className="bold nome-autor">{user.name}</p>
       </div>
       <div className={styles.cardContainer}>

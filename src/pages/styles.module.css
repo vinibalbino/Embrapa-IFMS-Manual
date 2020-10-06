@@ -111,6 +111,24 @@
   grid-gap: 18px;
 }
 
+.containerFoto{
+  align-items: center;
+  border-radius: 1000px;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+}
+
+.containerAutor{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 1rem;
+}
+
 .container-autors .card img {
   max-height: 128px;
   padding: 20px;
