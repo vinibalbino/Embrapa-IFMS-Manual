@@ -1,7 +1,7 @@
 ---
 id: adubacao-verde
 title: Adubação Verde
-sidebar_label: Adubaçao Verde
+sidebar_label: Adubação Verde
 ---
 
 <div className="center-textArticle">Oscar Fontão de Lima Filho</div>
