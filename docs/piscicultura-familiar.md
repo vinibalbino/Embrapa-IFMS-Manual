@@ -87,7 +87,7 @@ Fone: (67) 3318-5100
 
 Campo Grande, MS
 
-![Tanque escavado](/img/docs/22_piscicultura/FOTO_01.jpg)
+![Tanque escavado](./img/docs/22_piscicultura/FOTO_01.jpg)
 
 Foto: Ricardo Borghesi
 
@@ -95,7 +95,7 @@ Foto: Ricardo Borghesi
 Tanque escavado
 </div>
 
-![Canal de abastecimento de água por gravidade](/img/docs/22_piscicultura/FOTO_02.jpg)
+![Canal de abastecimento de água por gravidade](./img/docs/22_piscicultura/FOTO_02.jpg)
 
 Foto: Ricardo Borghesi
 
@@ -103,7 +103,7 @@ Foto: Ricardo Borghesi
 Canal de abastecimento de água por gravidade
 </div>
 
-![Pacu](/img/docs/22_piscicultura/FOTO_03.jpg)
+![Pacu](./img/docs/22_piscicultura/FOTO_03.jpg)
 
 Foto: Luís Antonio Kioshi Aoki Inoue
 
@@ -111,7 +111,7 @@ Foto: Luís Antonio Kioshi Aoki Inoue
 Pacu
 </div>
 
-![Tilápia](/img/docs/22_piscicultura/FOTO_04.jpg)
+![Tilápia](./img/docs/22_piscicultura/FOTO_04.jpg)
 
 Foto: Luís Antonio Kioshi Aoki Inoue
 
@@ -119,7 +119,7 @@ Foto: Luís Antonio Kioshi Aoki Inoue
 Tilápia
 </div>
 
-![Cachara](/img/docs/22_piscicultura/FOTO_05.jpg)
+![Cachara](./img/docs/22_piscicultura/FOTO_05.jpg)
 
 Foto: Tarcila S. C. Silva
 

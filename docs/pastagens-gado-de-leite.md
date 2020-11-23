@@ -238,7 +238,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Capim BRS Zuri sendo pastejado](/img/docs/05_pastagens/FOTO_01.jpg)
+![Capim BRS Zuri sendo pastejado](./img/docs/05_pastagens/FOTO_01.jpg)
 
 Foto: Luís Armando Zago Machado
 
@@ -246,7 +246,7 @@ Foto: Luís Armando Zago Machado
 Capim BRS Zuri sendo pastejado
 </div>
 
-![Capins BRS Tamani e BRS Zuri](/img/docs/05_pastagens/FOTO_02.jpg)
+![Capins BRS Tamani e BRS Zuri](./img/docs/05_pastagens/FOTO_02.jpg)
 
 Foto: Luís Armando Zago Machado
 

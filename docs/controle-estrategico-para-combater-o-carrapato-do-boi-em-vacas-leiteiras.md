@@ -155,7 +155,7 @@ Fone: (67) 3368-2000
 
 Campo Grande, MS
 
-![Capim com aglomerados de larvas à espera dos bovinos](/img/docs/37_controle_carrapato/FOTO_01.jpg)
+![Capim com aglomerados de larvas à espera dos bovinos](./img/docs/37_controle_carrapato/FOTO_01.jpg)
 
 Foto: Marcos Valério Garcia
 
@@ -163,7 +163,7 @@ Foto: Marcos Valério Garcia
 Capim com aglomerados de larvas à espera dos bovinos
 </div>
 
-![Ciclo de vida do carrapato-do-boi](/img/docs/37_controle_carrapato/FOTO_02.jpg)
+![Ciclo de vida do carrapato-do-boi](./img/docs/37_controle_carrapato/FOTO_02.jpg)
 
 Foto: Renato Andreotti
 

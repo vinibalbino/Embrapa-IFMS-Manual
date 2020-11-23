@@ -3,7 +3,7 @@ module.exports = {
     {
       name: "Agenor Martinho Correa",
       // You will need to prepend the image path with your baseUrl
-      // if it is not '/', like: '/test-site/img/image.jpg'.
+      // if it is not '/', like: '/test-site./img/image.jpg'.
       image: "../img/autores/agenor_martinho_correa.png",
       lattes: "http://lattes.cnpq.br/0070274390977184",
       description:
@@ -12,7 +12,7 @@ module.exports = {
     {
       name: "Alexandre Dinnys Roese",
       // You will need to prepend the image path with your baseUrl
-      // if it is not '/', like: '/test-site/img/image.jpg'.
+      // if it is not '/', like: '/test-site./img/image.jpg'.
       image: "../img/autores/alexandre_dinnys_roese.png",
       lattes: "http://lattes.cnpq.br/6400187701202426",
       description:
@@ -21,7 +21,7 @@ module.exports = {
     {
       name: "Ana Maria Costa",
       // You will need to prepend the image path with your baseUrl
-      // if it is not '/', like: '/test-site/img/image.jpg'.
+      // if it is not '/', like: '/test-site./img/image.jpg'.
       image: "../img/autores/ana_maria_costa.png",
       lattes: "http://lattes.cnpq.br/4678728361888916",
       description:
@@ -30,7 +30,7 @@ module.exports = {
     {
       name: "Araci Molnar Alonso",
       // You will need to prepend the image path with your baseUrl
-      // if it is not '/', like: '/test-site/img/image.jpg'.
+      // if it is not '/', like: '/test-site./img/image.jpg'.
       image: "../img/autores/araci_molnar_alonso.png",
       lattes: "http://lattes.cnpq.br/7852800997082676",
       description:
