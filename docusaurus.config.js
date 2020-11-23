@@ -4,7 +4,9 @@ module.exports = {
   title: 'Embrapa',
   tagline: 'Agropecuaria Oeste',
   url: 'https://www.cpao.embrapa.br/cartilha/',
-  baseUrl: 'https://www.cpao.embrapa.br/cartilha/',
+  baseUrl: '/',
+  // url: 'https://www.cpao.embrapa.br/cartilha/',
+  // baseUrl: 'https://www.cpao.embrapa.br/cartilha/',
   favicon: 'img/logo.svg',
   organizationName: 'IFMS - campus Dourados / Embrapa', // Usually your GitHub org/user name.
   projectName: 'Tecnologias para a Agricultura Familiar Digital', // Usually your repo name.
