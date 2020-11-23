@@ -136,7 +136,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Trator executando a silagem do milho safrinha consorciado com Brachiaria brizantha](/img/docs/03_Consorcio/FOTO_01.jpg)
+![Trator executando a silagem do milho safrinha consorciado com Brachiaria brizantha](./img/docs/03_Consorcio/FOTO_01.jpg)
 Foto: Gessí Ceccon
 
 <div className="center-textImage">
@@ -144,7 +144,7 @@ Silagem de milho safrinha consorciado com
 Brachiaria brizantha.
 </div>
 
-![Semeadura de milho distribuindo sementes de braquiária a lanço para incorporação pela passagem da semeadora](/img/docs/03_Consorcio/FOTO_02.jpg)
+![Semeadura de milho distribuindo sementes de braquiária a lanço para incorporação pela passagem da semeadora](./img/docs/03_Consorcio/FOTO_02.jpg)
 Foto: Gessí Ceccon
 
 <div className="center-textImage">
@@ -152,7 +152,7 @@ Semeadura de milho com distribuição de sementes de braquiária
 a lanço para incorporação pela passagem da semeadora.
 </div>
 
-![Semeadora com caixa adicional](/img/docs/03_Consorcio/FOTO_03.jpg)
+![Semeadora com caixa adicional](./img/docs/03_Consorcio/FOTO_03.jpg)
 Foto: Gessí Ceccon
 
 <div className="center-textImage">
@@ -160,7 +160,7 @@ Semeadora com caixa adicional
 para distribuição de sementes miúdas.
 </div>
 
-![Animal em pastejo após a colheita do milho](/img/docs/03_Consorcio/FOTO_04.jpg)
+![Animal em pastejo após a colheita do milho](./img/docs/03_Consorcio/FOTO_04.jpg)
 Foto: Gessí Ceccon
 
 <div className="center-textImage">

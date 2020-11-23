@@ -93,7 +93,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Trichogramma galloi parasitando ovos da broca-da-cana](/img/docs/18_controle_insetos/FOTO_01.jpg)
+![Trichogramma galloi parasitando ovos da broca-da-cana](./img/docs/18_controle_insetos/FOTO_01.jpg)
 
 Foto: Harley Nonato de Oliveira
 
@@ -103,7 +103,7 @@ _Trichogramma galloi_ parasitando ovos da broca-da-cana
 
 </div>
 
-![Cotesia flavipes parasitando lagarta da broca-da-cana](/img/docs/18_controle_insetos/FOTO_02.jpg)
+![Cotesia flavipes parasitando lagarta da broca-da-cana](./img/docs/18_controle_insetos/FOTO_02.jpg)
 
 Foto: Harley Nonato de Oliveira
 
@@ -113,7 +113,7 @@ _Cotesia flavipes_ parasitando lagarta da broca-da-cana
 
 </div>
 
-![Percevejo Podisus nigrispinus predando lagarta falsa-medideira](/img/docs/18_controle_insetos/FOTO_03.jpg)
+![Percevejo Podisus nigrispinus predando lagarta falsa-medideira](./img/docs/18_controle_insetos/FOTO_03.jpg)
 
 Foto: Harley Nonato de Oliveira
 

@@ -46,7 +46,7 @@ de baixa relação C/N. Os resíduos utilizados devem ser misturados
 em proporção que componham uma relação C/N média em torno de
 30/1.
 
-![Tabela de composição aproximada de alguns materiais](/img/docs/20_aproveitamento_materiais/FOTO_01.jpg)
+![Tabela de composição aproximada de alguns materiais](./img/docs/20_aproveitamento_materiais/FOTO_01.jpg)
 
 No período de pré-compostagem (aproximadamente 15 dias), a
 leira deve ser irrigada até atingir 50% a 60% de umidade (ao apertar
@@ -91,7 +91,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Leiras de vermicompostagem com tripa de irrigação](/img/docs/20_aproveitamento_materiais/FOTO_02.jpg)
+![Leiras de vermicompostagem com tripa de irrigação](./img/docs/20_aproveitamento_materiais/FOTO_02.jpg)
 
 Foto: Ivo de Sá Motta
 

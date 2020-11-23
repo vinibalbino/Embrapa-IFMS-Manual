@@ -90,7 +90,7 @@ body {
   flex-direction: column;
   height: 600px;
   justify-content: center;
-  background-image: url("/img/fundo-1-100.jpg");
+  background-image: url("./img/fundo-1-100.jpg");
   background-position: center;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -155,7 +155,7 @@ body {
 
 .texto-container {
   background: linear-gradient(rgba(0, 20, 20, 0.5), rgba(0, 40, 50, 0.5)),
-    url(/img/fundo-apresentacao.jpg) no-repeat no-repeat center center, #f4f4f4;
+    url(./img/fundo-apresentacao.jpg) no-repeat no-repeat center center, #f4f4f4;
   padding: 3rem;
   background-size: 250%;
 }

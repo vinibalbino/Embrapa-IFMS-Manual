@@ -173,7 +173,7 @@ Fone: (61) 3385-9000
 
 Brasília, DF
 
-![Milho QPM BR 473 amarelo](/img/docs/10_milhos_especiais/FOTO_01.jpg)
+![Milho QPM BR 473 amarelo](./img/docs/10_milhos_especiais/FOTO_01.jpg)
 
 Foto: Embrapa Milho e Sorgo
 
@@ -183,7 +183,7 @@ Milho QPM BR 473 amarelo
 
 <div className="image-Box">
 
-![Espigas de milho-doce](/img/docs/10_milhos_especiais/FOTO_02.jpg)
+![Espigas de milho-doce](./img/docs/10_milhos_especiais/FOTO_02.jpg)
 
 Foto: Embrapa Milho e Sorgo
 
@@ -193,7 +193,7 @@ Foto: Embrapa Milho e Sorgo
 Espigas de milho-doce
 </div>
 
-![Milho QPM BR 451 branco](/img/docs/10_milhos_especiais/FOTO_03.jpg)
+![Milho QPM BR 451 branco](./img/docs/10_milhos_especiais/FOTO_03.jpg)
 
 Foto: Embrapa Milho e Sorgo
 
@@ -201,4 +201,4 @@ Foto: Embrapa Milho e Sorgo
 Milho QPM BR 451 branco
 </div>
 
-![Sementes do milho-pipoca BRS Ângela](/img/docs/10_milhos_especiais/FOTO_04.jpg)
+![Sementes do milho-pipoca BRS Ângela](./img/docs/10_milhos_especiais/FOTO_04.jpg)

@@ -166,8 +166,8 @@ https://www.embrapa.br/cultivar/maracuja
 
 <div className="image-Box">
 
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_01.jpg)
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_02.jpg)
+![Cultivares de maracujazeiro ornamental](./img/docs/33_maracujazeiro_ornamental/FOTO_01.jpg)
+![Cultivares de maracujazeiro ornamental](./img/docs/33_maracujazeiro_ornamental/FOTO_02.jpg)
 
 Foto: Fábio Gelape Faleiro
 
@@ -179,9 +179,9 @@ Cultivares de maracujazeiro ornamental.
 
 <div className="image-Box">
 
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_03.jpg)
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_04.jpg)
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_05.jpg)
+![Cultivares de maracujazeiro ornamental](./img/docs/33_maracujazeiro_ornamental/FOTO_03.jpg)
+![Cultivares de maracujazeiro ornamental](./img/docs/33_maracujazeiro_ornamental/FOTO_04.jpg)
+![Cultivares de maracujazeiro ornamental](./img/docs/33_maracujazeiro_ornamental/FOTO_05.jpg)
 
 Foto: Fábio Gelape Faleiro
 

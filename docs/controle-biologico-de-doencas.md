@@ -162,7 +162,7 @@ caso de emprego de produtos comerciais.
 
 [Ensaios cooperativos de controle biológico de mofo-branco na cultura da soja](https://bit.ly/3aS5JBE)
 
-![Aplicação de Trichoderma sp. em solo de vaso por meio de grãos de aveia inoculados](/img/docs/14_controle_doencas/FOTO_01.jpg)
+![Aplicação de Trichoderma sp. em solo de vaso por meio de grãos de aveia inoculados](./img/docs/14_controle_doencas/FOTO_01.jpg)
 
 Foto: Alexandre Dinnys Roese
 
@@ -171,9 +171,9 @@ Aplicação de Trichoderma sp. em solo de vaso
 por meio de grãos de aveia inoculados. 
 </div>
 
-![Grãos de arroz inteiros colonizados com Trichoderma sp. para aplicação no campo](/img/docs/14_controle_doencas/FOTO_02.jpg)
+![Grãos de arroz inteiros colonizados com Trichoderma sp. para aplicação no campo](./img/docs/14_controle_doencas/FOTO_02.jpg)
 
-![Grãos de arroz triturados colonizados com Trichoderma sp. para aplicação no campo](/img/docs/14_controle_doencas/FOTO_02.jpg)
+![Grãos de arroz triturados colonizados com Trichoderma sp. para aplicação no campo](./img/docs/14_controle_doencas/FOTO_02.jpg)
 
 <div className="center-textImage">
 Grãos de arroz inteiros (acima) e triturados (abaixo)

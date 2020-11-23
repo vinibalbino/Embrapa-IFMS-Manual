@@ -179,7 +179,7 @@ Fone: (49) 3441-0400
 
 Concórdia, SC
 
-![Poedeira Colonial Embrapa 051](/img/docs/23_poedeira/FOTO_01.jpg)
+![Poedeira Colonial Embrapa 051](./img/docs/23_poedeira/FOTO_01.jpg)
 
 Foto: Levino J. Bassi
 
@@ -187,7 +187,7 @@ Foto: Levino J. Bassi
 Poedeira Colonial Embrapa 051
 </div>
 
-![Sistema de produção de ovos com rodízio de piquetes](/img/docs/23_poedeira/FOTO_02H.jpg)
+![Sistema de produção de ovos com rodízio de piquetes](./img/docs/23_poedeira/FOTO_02H.jpg)
 
 Ilustração: Amadeu G. Mascelani
 
