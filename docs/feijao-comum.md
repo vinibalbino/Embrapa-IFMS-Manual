@@ -184,7 +184,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Feijão-comum em plantio direto na fase vegetativa](./img/docs/08_feijao_comum/FOTO_01.jpg)
+![Feijão-comum em plantio direto na fase vegetativa](../img/docs/08_feijao_comum/FOTO_01.jpg)
 Foto: Sebastião José de Araújo
 
 <div className="center-textImage">
@@ -193,7 +193,7 @@ Feijão-comum em plantio direto na fase vegetativa
 
 <div className="image-Box">
 
-![Feijão-comum na fase de maturação](./img/docs/08_feijao_comum/FOTO_03.jpg)
+![Feijão-comum na fase de maturação](../img/docs/08_feijao_comum/FOTO_03.jpg)
 
 Foto: Sebastião José de Araújo
 
@@ -206,7 +206,7 @@ enchimento dos grãos.
 
 <div className="image-Box">
 
-![Feijão-comum na fase de enchimento dos grãos](./img/docs/08_feijao_comum/FOTO_02.jpg)
+![Feijão-comum na fase de enchimento dos grãos](../img/docs/08_feijao_comum/FOTO_02.jpg)
 
 Foto: Sebastião José de Araújo
 
@@ -217,21 +217,21 @@ Feijão-comum na fase de
 maturação.
 </div>
 
-![Feijão Pérola (grupo comercial carioca)](./img/docs/08_feijao_comum/FOTO_04.jpg)
+![Feijão Pérola (grupo comercial carioca)](../img/docs/08_feijao_comum/FOTO_04.jpg)
 Foto: Sebastião José de Araújo
 
 <div className="center-textImage">
 Feijão Pérola (grupo comercial carioca)
 </div>
 
-![Feijão Preto (grupo comercial preto)](./img/docs/08_feijao_comum/FOTO_05.jpg)
+![Feijão Preto (grupo comercial preto)](../img/docs/08_feijao_comum/FOTO_05.jpg)
 Foto: Sebastião José de Araújo
 
 <div className="center-textImage">
 Feijão Preto (grupo comercial preto)
 </div>
 
-![Feijão Jalo (grupo comercial especial)](./img/docs/08_feijao_comum/FOTO_06.jpg)
+![Feijão Jalo (grupo comercial especial)](../img/docs/08_feijao_comum/FOTO_06.jpg)
 Foto: Sebastião José de Araújo
 
 <div className="center-textImage">

@@ -198,7 +198,7 @@ Dourados, MS
 
 <div className="image-Box">
 
-![Ora-pro-nóbis](./img/docs/11_plantas_alimenticias/FOTO_01.jpg)
+![Ora-pro-nóbis](../img/docs/11_plantas_alimenticias/FOTO_01.jpg)
 
 Foto: Maria do Carmo Vieira
 
@@ -210,7 +210,7 @@ Ora-pro-nóbis
 
 </div>
 
-![Peixinho](./img/docs/11_plantas_alimenticias/FOTO_02.jpg)
+![Peixinho](../img/docs/11_plantas_alimenticias/FOTO_02.jpg)
 
 Foto: Orivaldo Benedito da Silva
 
@@ -218,7 +218,7 @@ Foto: Orivaldo Benedito da Silva
 Peixinho
 </div>
 
-![Hibisco](./img/docs/11_plantas_alimenticias/FOTO_03.jpg)
+![Hibisco](../img/docs/11_plantas_alimenticias/FOTO_03.jpg)
 
 Foto: Maria do Carmo Vieira
 
@@ -226,7 +226,7 @@ Foto: Maria do Carmo Vieira
 Hibisco
 </div>
 
-![Taro](./img/docs/11_plantas_alimenticias/FOTO_04.jpg)
+![Taro](../img/docs/11_plantas_alimenticias/FOTO_04.jpg)
 
 Foto: Néstor Antonio Heredia Zárate
 
@@ -234,7 +234,7 @@ Foto: Néstor Antonio Heredia Zárate
 Taro
 </div>
 
-![Salada com tansagem, ora-pró-nobis, jambu e capuchinha](./img/docs/11_plantas_alimenticias/FOTO_05.jpg)
+![Salada com tansagem, ora-pró-nobis, jambu e capuchinha](../img/docs/11_plantas_alimenticias/FOTO_05.jpg)
 
 Foto: Maria do Carmo Vieira
 
@@ -242,7 +242,7 @@ Foto: Maria do Carmo Vieira
 Salada com tansagem, ora-pró-nobis, jambu e capuchinha
 </div>
 
-![Mandioquinha-salsa](./img/docs/11_plantas_alimenticias/FOTO_06.jpg)
+![Mandioquinha-salsa](../img/docs/11_plantas_alimenticias/FOTO_06.jpg)
 
 Foto: Néstor Antonio Heredia Zárate
 

@@ -172,7 +172,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração](./img/docs/19_caldas/FOTO_01.jpg)
+![Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração](../img/docs/19_caldas/FOTO_01.jpg)
 
 Foto: Ivo de Sá Motta
 

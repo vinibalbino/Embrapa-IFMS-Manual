@@ -148,7 +148,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio](./img/docs/26_algodao/FOTO_01.jpg)
+![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio](../img/docs/26_algodao/FOTO_01.jpg)
 
 Foto: Luiz Paulo de Carvalho
 
@@ -156,7 +156,7 @@ Foto: Luiz Paulo de Carvalho
 Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Safira](./img/docs/26_algodao/FOTO_02.jpg)
+![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Safira](../img/docs/26_algodao/FOTO_02.jpg)
 
 Foto: Luiz Paulo de Carvalho
 
@@ -164,7 +164,7 @@ Foto: Luiz Paulo de Carvalho
 Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Safira
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Rubi](./img/docs/26_algodao/FOTO_03.jpg)
+![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Rubi](../img/docs/26_algodao/FOTO_03.jpg)
 
 Foto: Luiz Paulo de Carvalho
 
@@ -172,7 +172,7 @@ Foto: Luiz Paulo de Carvalho
 Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Rubi
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS 200 Marrom](./img/docs/26_algodao/FOTO_04.jpg)
+![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS 200 Marrom](../img/docs/26_algodao/FOTO_04.jpg)
 
 Foto: Luiz Paulo de Carvalho
 
@@ -180,7 +180,7 @@ Foto: Luiz Paulo de Carvalho
 Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS 200 Marrom
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Jade](./img/docs/26_algodao/FOTO_05.jpg)
+![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Jade](../img/docs/26_algodao/FOTO_05.jpg)
 
 Foto: Luiz Paulo de Carvalho
 
@@ -188,7 +188,7 @@ Foto: Luiz Paulo de Carvalho
 Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Jade
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Verde](./img/docs/26_algodao/FOTO_06.jpg)
+![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Verde](../img/docs/26_algodao/FOTO_06.jpg)
 
 Foto: Luiz Paulo de Carvalho
 
@@ -196,7 +196,7 @@ Foto: Luiz Paulo de Carvalho
 Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Verde
 </div>
 
-![Cultivar de algodão colorido IAC FC1, fibra de cor caqui](./img/docs/26_algodao/FOTO_07.jpg)
+![Cultivar de algodão colorido IAC FC1, fibra de cor caqui](../img/docs/26_algodao/FOTO_07.jpg)
 
 Foto: Júlio Kondo
 
