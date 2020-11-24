@@ -124,7 +124,7 @@ Dourados, MS
 
 <div className="image-Box">
 
-![Heliconia bihai](img/docs/27_producao_flores/FOTO_01.jpg)
+![Heliconia bihai](/cartilha/img/docs/27_producao_flores/FOTO_01.jpg)
 
 Foto: Liliane K. Leonel
 
@@ -136,7 +136,7 @@ Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázi
 
 <div className="image-Box">
 
-![Arranjo floral com flores tropicais (helicônias e sorvetão)](img/docs/27_producao_flores/FOTO_04.jpg)
+![Arranjo floral com flores tropicais (helicônias e sorvetão)](/cartilha/img/docs/27_producao_flores/FOTO_04.jpg)
 
 Foto: Flávio de Oliveira Ferreira
 
@@ -148,7 +148,7 @@ Arranjo floral com flores tropicais (helicônias e sorvetão)
 
 <div className="image-Box">
 
-![Musa-bronze](img/docs/27_producao_flores/FOTO_02.jpg)
+![Musa-bronze](/cartilha/img/docs/27_producao_flores/FOTO_02.jpg)
 
 Foto: Liliane K. Leonel
 
@@ -160,7 +160,7 @@ Musa-bronze
 
 <div className="image-Box">
 
-![Cúrcuma](img/docs/27_producao_flores/FOTO_05.jpg)
+![Cúrcuma](/cartilha/img/docs/27_producao_flores/FOTO_05.jpg)
 
 Foto: Francimar Perez Matheus
 
@@ -172,7 +172,7 @@ Cúrcuma
 
 <div className="image-Box">
 
-![Heliconia rostrata](img/docs/27_producao_flores/FOTO_03.jpg)
+![Heliconia rostrata](/cartilha/img/docs/27_producao_flores/FOTO_03.jpg)
 
 Foto: Liliane K. Leonel
 

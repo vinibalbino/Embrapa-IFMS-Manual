@@ -93,7 +93,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Irrigação por gotejamento em alface](img/docs/30_irrigacao/FOTO_01.jpg)
+![Irrigação por gotejamento em alface](/cartilha/img/docs/30_irrigacao/FOTO_01.jpg)
 
 Foto: Luciano Oliveira Geisenhof
 
@@ -101,7 +101,7 @@ Foto: Luciano Oliveira Geisenhof
 Irrigação por gotejamento em alface
 </div>
 
-![Bulbo molhado na irrigação por gotejamento](img/docs/30_irrigacao/FOTO_02.jpg)
+![Bulbo molhado na irrigação por gotejamento](/cartilha/img/docs/30_irrigacao/FOTO_02.jpg)
 
 Foto: Luciano Oliveira Geisenhof
 
@@ -109,7 +109,7 @@ Foto: Luciano Oliveira Geisenhof
 Bulbo molhado na irrigação por gotejamento
 </div>
 
-![Irrigação por aspersão em hortaliças](img/docs/30_irrigacao/FOTO_03.jpg)
+![Irrigação por aspersão em hortaliças](/cartilha/img/docs/30_irrigacao/FOTO_03.jpg)
 
 Foto: Luciano Oliveira Geisenhof
 
@@ -117,7 +117,7 @@ Foto: Luciano Oliveira Geisenhof
 Irrigação por aspersão em hortaliças
 </div>
 
-![Irrigação por microaspersão em bananeiras](img/docs/30_irrigacao/FOTO_04.jpg)
+![Irrigação por microaspersão em bananeiras](/cartilha/img/docs/30_irrigacao/FOTO_04.jpg)
 
 Foto: Luciano Oliveira Geisenhof
 

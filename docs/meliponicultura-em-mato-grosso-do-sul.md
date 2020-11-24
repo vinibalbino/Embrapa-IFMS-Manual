@@ -165,7 +165,7 @@ Telefone: (86) 3198-0500
 
 Teresina, PI
 
-![Entrada de abelha Jataí (Tetragonisca fiebrigi)](img/docs/24_meliponicultura/FOTO_01.jpg)
+![Entrada de abelha Jataí (Tetragonisca fiebrigi)](/cartilha/img/docs/24_meliponicultura/FOTO_01.jpg)
 
 Foto: Eliel Souza Freitas Júnior
 
@@ -173,7 +173,7 @@ Foto: Eliel Souza Freitas Júnior
 Entrada de abelha Jataí (Tetragonisca fiebrigi).
 </div>
 
-![Entrada de abelha Mandaguari (Scaptotrigona depilis).](img/docs/24_meliponicultura/FOTO_02.jpg)
+![Entrada de abelha Mandaguari (Scaptotrigona depilis).](/cartilha/img/docs/24_meliponicultura/FOTO_02.jpg)
 
 Foto: Eliel Souza Freitas Júnior
 
@@ -181,7 +181,7 @@ Foto: Eliel Souza Freitas Júnior
 Entrada de abelha Mandaguari (Scaptotrigona depilis).
 </div>
 
-![Entrada de abelha manduripantaneira (Melipona orbignyi)](img/docs/24_meliponicultura/FOTO_03.jpg)
+![Entrada de abelha manduripantaneira (Melipona orbignyi)](/cartilha/img/docs/24_meliponicultura/FOTO_03.jpg)
 
 Foto: Eliel Souza Freitas Júnior
 
@@ -189,7 +189,7 @@ Foto: Eliel Souza Freitas Júnior
 Entrada de abelha manduripantaneira (Melipona orbignyi)
 </div>
 
-![Entrada de abelha marmelada-amarela (Frieseomelitta varia)](img/docs/24_meliponicultura/FOTO_04.jpg)
+![Entrada de abelha marmelada-amarela (Frieseomelitta varia)](/cartilha/img/docs/24_meliponicultura/FOTO_04.jpg)
 
 Foto: Eliel Souza Freitas Júnior
 
@@ -199,7 +199,7 @@ Entrada de abelha marmelada-amarela (Frieseomelitta varia)
 
 <div className="image-Box">
 
-![Entrada de abelha Marmelada amarela (Frieseomelitta varia)](img/docs/24_meliponicultura/FOTO_05.jpg)
+![Entrada de abelha Marmelada amarela (Frieseomelitta varia)](/cartilha/img/docs/24_meliponicultura/FOTO_05.jpg)
 
 Foto: Eliel Souza Freitas Júnior
 
@@ -211,7 +211,7 @@ Entrada de abelha Marmelada amarela (Frieseomelitta varia)
 
 <div className="image-Box">
 
-![Ninho de abelha Marmelada amarela](img/docs/24_meliponicultura/FOTO_06.jpg)
+![Ninho de abelha Marmelada amarela](/cartilha/img/docs/24_meliponicultura/FOTO_06.jpg)
 
 Foto: Eliel Souza Freitas Júnior
 
@@ -223,7 +223,7 @@ Ninho de abelha Marmelada amarela
 
 <div className="image-Box">
 
-![Entrada de abelha Manduri (Melipona orbignyi)](img/docs/24_meliponicultura/FOTO_07.jpg)
+![Entrada de abelha Manduri (Melipona orbignyi)](/cartilha/img/docs/24_meliponicultura/FOTO_07.jpg)
 
 Foto: Eliel Souza Freitas Júnior
 
@@ -235,7 +235,7 @@ Entrada de abelha Manduri (Melipona orbignyi)
 
 <div className="image-Box">
 
-![Ninho de abelha Manduri](img/docs/24_meliponicultura/FOTO_08.jpg)
+![Ninho de abelha Manduri](/cartilha/img/docs/24_meliponicultura/FOTO_08.jpg)
 
 Foto: Eliel Souza Freitas Júnior
 
