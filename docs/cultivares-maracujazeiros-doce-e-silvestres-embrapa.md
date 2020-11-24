@@ -141,7 +141,7 @@ EMBRAPA. Embrapa Cerrados. Lançamento Oficial da Cultivar
 de Maracujazeiro Silvestre BRS Sertão Forte (BRS SF):
 https://bit.ly/3ajoD3U
 
-![BRS Mel do Cerrado (BRS MC)](../img/docs/34_maracujazeiro_doce/FOTO_01.jpg)
+![BRS Mel do Cerrado (BRS MC)](img/docs/34_maracujazeiro_doce/FOTO_01.jpg)
 
 Foto: Fabiano Basto
 
@@ -149,7 +149,7 @@ Foto: Fabiano Basto
 BRS Mel do Cerrado (BRS MC)
 </div>
 
-![BRS Pérola do Cerrado (BRS PC)](../img/docs/34_maracujazeiro_doce/FOTO_02.jpg)
+![BRS Pérola do Cerrado (BRS PC)](img/docs/34_maracujazeiro_doce/FOTO_02.jpg)
 
 Foto: Fabiano Basto
 
@@ -157,7 +157,7 @@ Foto: Fabiano Basto
 BRS Pérola do Cerrado (BRS PC)
 </div>
 
-![BRS Sertão Forte (BRS SF)](../img/docs/34_maracujazeiro_doce/FOTO_03.jpg)
+![BRS Sertão Forte (BRS SF)](img/docs/34_maracujazeiro_doce/FOTO_03.jpg)
 
 Foto: Fabiano Basto
 

@@ -79,7 +79,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas](../img/docs/25_aquaponia/FOTO_01.jpg)
+![Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas](img/docs/25_aquaponia/FOTO_01.jpg)
 
 Foto: Luís Antonio Kioshi Aoki Inoue
 

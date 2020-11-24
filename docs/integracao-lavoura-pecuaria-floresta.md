@@ -228,14 +228,14 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![linhas de eucaliptos com gados pastando envolta](../img/docs/01_integracao/FOTO_01.jpg)
+![linhas de eucaliptos com gados pastando envolta](img/docs/01_integracao/FOTO_01.jpg)
 Foto: Eny Duboc
 
 <div className="center-textImage">
 Sistema silvipastoril (ILPF) em faixas com linhas triplas de eucalipto e pastagem com Brachiaria brizantha cv. BRS Piatã.Fazenda Minerva, Ivinhema, MS, maio de 2013.
 </div>
 
-![Cultivo de soja em plantio direto na palhada do capim entre fileiras simples de eucalipto](../img/docs/01_integracao/FOTO_02.jpg)
+![Cultivo de soja em plantio direto na palhada do capim entre fileiras simples de eucalipto](img/docs/01_integracao/FOTO_02.jpg)
 Foto: Eny Duboc
 
 <div className="center-textImage">
@@ -244,7 +244,7 @@ simples de eucalipto (ILPF). Fazenda Experimental da
 Embrapa Agropecuária Oeste, Ponta Porã, MS, dezembro de 2011.
 </div>
 
-![Sistema silvipastoril](../img/docs/01_integracao/FOTO_03.jpg)
+![Sistema silvipastoril](img/docs/01_integracao/FOTO_03.jpg)
 Foto: Eny Duboc
 
 <div className="center-textImage">

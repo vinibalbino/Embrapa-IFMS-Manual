@@ -169,7 +169,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Mucuna-preta](../img/docs/13_adubacao/FOTO_01.jpg)
+![Mucuna-preta](img/docs/13_adubacao/FOTO_01.jpg)
 
 Foto: José Aparecido Donizeti Carlos
 
@@ -177,7 +177,7 @@ Foto: José Aparecido Donizeti Carlos
 Mucuna-preta
 </div>
 
-![Guandu-forrageiro](../img/docs/13_adubacao/FOTO_02.jpg)
+![Guandu-forrageiro](img/docs/13_adubacao/FOTO_02.jpg)
 
 Foto: José Aparecido Donizeti Carlos
 
@@ -185,7 +185,7 @@ Foto: José Aparecido Donizeti Carlos
 Guandu-forrageiro
 </div>
 
-![Milheto](../img/docs/13_adubacao/FOTO_03.jpg)
+![Milheto](img/docs/13_adubacao/FOTO_03.jpg)
 
 Foto: José Aparecido Donizeti Carlos
 
@@ -193,7 +193,7 @@ Foto: José Aparecido Donizeti Carlos
 Milheto
 </div>
 
-![Crotalária-spectabilis](../img/docs/13_adubacao/FOTO_04.jpg)
+![Crotalária-spectabilis](img/docs/13_adubacao/FOTO_04.jpg)
 
 Foto: José Aparecido Donizeti Carlos
 
@@ -201,7 +201,7 @@ Foto: José Aparecido Donizeti Carlos
 Crotalária-spectabilis
 </div>
 
-![Crotalária-júncea](../img/docs/13_adubacao/FOTO_05.jpg)
+![Crotalária-júncea](img/docs/13_adubacao/FOTO_05.jpg)
 
 Foto: José Aparecido Donizeti Carlos
 
