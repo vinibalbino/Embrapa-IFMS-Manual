@@ -138,7 +138,7 @@ http://www.cpac.embrapa.br/lancamentobrsrubidocerrado/
 
 <div className="image-Box">
 
-![BRS Gigante Amarelo (BRS GA1)](img/docs/32_maracujazeiro_azedo/FOTO_01.jpg)
+![BRS Gigante Amarelo (BRS GA1)](/cartilha/img/docs/32_maracujazeiro_azedo/FOTO_01.jpg)
 
 Foto: Fábio Gelape Faleiro
 
@@ -150,7 +150,7 @@ BRS Gigante Amarelo (BRS GA1)
 
 <div className="image-Box">
 
-![BRS Sol do Cerrado (BRS SC1)](img/docs/32_maracujazeiro_azedo/FOTO_02.jpg)
+![BRS Sol do Cerrado (BRS SC1)](/cartilha/img/docs/32_maracujazeiro_azedo/FOTO_02.jpg)
 
 Foto: Fábio Gelape Faleiro
 
@@ -162,7 +162,7 @@ BRS Sol do Cerrado (BRS SC1)
 
 <div className="image-Box">
 
-![BRS Rubi do Cerrado (BRS RC1)](img/docs/32_maracujazeiro_azedo/FOTO_03.jpg)
+![BRS Rubi do Cerrado (BRS RC1)](/cartilha/img/docs/32_maracujazeiro_azedo/FOTO_03.jpg)
 
 Foto: Fábio Gelape Faleiro
 

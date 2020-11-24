@@ -198,14 +198,14 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Produção de silagem em silo tipo superfície](img/docs/02_planejamento/FOTO_01.jpg)
+![Produção de silagem em silo tipo superfície](/cartilha/img/docs/02_planejamento/FOTO_01.jpg)
 Foto: Marciana Retore
 
 <div class="center-textImage">
 Produção de silagem em silo tipo superfície.
 </div>
 
-![Produção de silagem em silo tipo superfície](img/docs/02_planejamento/FOTO_02.jpg)
+![Produção de silagem em silo tipo superfície](/cartilha/img/docs/02_planejamento/FOTO_02.jpg)
 Foto: Marciana Retore
 
 <div class="center-textImage">

@@ -212,7 +212,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Muda de erva mate com sistema radicular bem formado (A) e com “cachimbamento” (B)](img/docs/15_cultivo_erva_mate/FOTO_01.jpg)
+![Muda de erva mate com sistema radicular bem formado (A) e com “cachimbamento” (B)](/cartilha/img/docs/15_cultivo_erva_mate/FOTO_01.jpg)
 
 Foto: Eny Duboc
 
@@ -221,9 +221,9 @@ Muda de erva mate com sistema radicular bem formado (A)
 e com “cachimbamento” (B). 
 </div>
 
-![](img/docs/15_cultivo_erva_mate/FOTO_02.jpg)
+![](/cartilha/img/docs/15_cultivo_erva_mate/FOTO_02.jpg)
 
-![Arquitetura de copa desejada em erveira comercial em fase de produção. As setas vermelhas indicam os ramos bandeira e as setas azuis os galhos que devem ser podados na temporada seguinte](img/docs/15_cultivo_erva_mate/FOTO_03.jpg)
+![Arquitetura de copa desejada em erveira comercial em fase de produção. As setas vermelhas indicam os ramos bandeira e as setas azuis os galhos que devem ser podados na temporada seguinte](/cartilha/img/docs/15_cultivo_erva_mate/FOTO_03.jpg)
 
 Foto: Eny Duboc
 

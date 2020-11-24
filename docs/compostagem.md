@@ -117,11 +117,11 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Modelo esquemático de pilha de compostagem com camadas alternadas de diferentes resíduos](img/docs/21_compostagem/FOTO_01_COM_LEGENDA.jpg)
+![Modelo esquemático de pilha de compostagem com camadas alternadas de diferentes resíduos](/cartilha/img/docs/21_compostagem/FOTO_01_COM_LEGENDA.jpg)
 
 Ilustração: Ivo de Sá Motta
 
-![Tabela Composição aproximada de alguns materiais empregados no preparo do composto (resultados em material seco a 110 °C)](img/docs/21_compostagem/FOTO_02.jpg)
+![Tabela Composição aproximada de alguns materiais empregados no preparo do composto (resultados em material seco a 110 °C)](/cartilha/img/docs/21_compostagem/FOTO_02.jpg)
 
 ### Referência
 
