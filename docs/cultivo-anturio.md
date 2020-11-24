@@ -133,7 +133,7 @@ Fone: (67) 3318-5100
 
 Campo Grande, MS
 
-![Detalhamento de uma inflorescência de antúrio](/cartilha/img/docs/28_cultivo_anturuo/FOTO_01.jpg)
+![Detalhamento de uma inflorescência de antúrio](/img/docs/28_cultivo_anturuo/FOTO_01.jpg)
 
 Fonte: Instituto de Biologia – Universidade Federal de Uberlândia.
 
@@ -143,7 +143,7 @@ Detalhamento de uma inflorescência de antúrio.
 
 <div className="image-Box">
 
-![Flor de antúrio](/cartilha/img/docs/28_cultivo_anturuo/FOTO_02.jpg)
+![Flor de antúrio](/img/docs/28_cultivo_anturuo/FOTO_02.jpg)
 
 Foto: Flávio de Oliveira Ferreira
 
@@ -155,7 +155,7 @@ Flor de antúrio.
 
 <div className="image-Box">
 
-![Plantas jovens](/cartilha/img/docs/28_cultivo_anturuo/FOTO_03.jpg)
+![Plantas jovens](/img/docs/28_cultivo_anturuo/FOTO_03.jpg)
 
 Foto: Flávio de Oliveira Ferreira
 

@@ -2,7 +2,6 @@ import React from 'react';
 
 import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import ServiceWorker from '../components/ServiceWorker';
 import Head from '@docusaurus/Head';
 
 function Home() {
@@ -10,14 +9,11 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout>
-      <ServiceWorker />
-
       <Head>
         <meta property="og:description" content="Embrapa" />
         <meta charSet="utf-8" />
         <meta name="theme-color" content="#218c74" />
         <link rel="canonical" href="https://www.cpao.embrapa.br/cartilha/" />
-        <link rel="manifest" href="/cartilha/manifest.json"></link>
         <title>Embrapa</title>
 
         <meta name="mobile-web-app-capable" content="yes" />

@@ -79,7 +79,7 @@ Fone: (31) 3027-1193
 
 Sete Lagoas, MG
 
-![Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho](/cartilha/img/docs/36_inoculantes/FOTO_01.jpg)
+![Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho](/img/docs/36_inoculantes/FOTO_01.jpg)
 
 Ilustração: Christiane Abreu de Oliveira Paiva/Simbiose e Sylvia Morais de Sousa
 

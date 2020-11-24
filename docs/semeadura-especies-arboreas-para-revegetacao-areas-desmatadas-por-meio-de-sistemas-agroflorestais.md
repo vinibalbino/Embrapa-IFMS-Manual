@@ -209,7 +209,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Biomas existentes no estado de Mato Grosso do Sul](/cartilha/img/docs/16_semeadura-arboreas/FOTO_01.jpg)
+![Biomas existentes no estado de Mato Grosso do Sul](/img/docs/16_semeadura-arboreas/FOTO_01.jpg)
 
 Ilustração: Eny Duboc
 
@@ -217,7 +217,7 @@ Ilustração: Eny Duboc
 Biomas existentes no estado de Mato Grosso do Sul
 </div>
 
-![Muvuca de sementes](/cartilha/img/docs/16_semeadura-arboreas/FOTO_02.jpg)
+![Muvuca de sementes](/img/docs/16_semeadura-arboreas/FOTO_02.jpg)
 
 Foto: Eny Duboc
 

@@ -196,7 +196,7 @@ Fone: (19) 3879-6307
 
 Monte Mor, SP
 
-![Tomate BRS Laterrot](/cartilha/img/docs/29_cultivares_tomate/FOTO_01.jpg)
+![Tomate BRS Laterrot](/img/docs/29_cultivares_tomate/FOTO_01.jpg)
 
 Foto: arquivo Embrapa
 
@@ -204,7 +204,7 @@ Foto: arquivo Embrapa
 Tomate BRS Laterrot.
 </div>
 
-![Tomate BRS Nagai](/cartilha/img/docs/29_cultivares_tomate/FOTO_02.jpg)
+![Tomate BRS Nagai](/img/docs/29_cultivares_tomate/FOTO_02.jpg)
 
 Foto: Luís Galhardo
 
@@ -212,7 +212,7 @@ Foto: Luís Galhardo
 Tomate BRS Nagai.
 </div>
 
-![Tomate BRS Iracema](/cartilha/img/docs/29_cultivares_tomate/FOTO_03.jpg)
+![Tomate BRS Iracema](/img/docs/29_cultivares_tomate/FOTO_03.jpg)
 
 Foto: Leandro Lobo
 
@@ -222,7 +222,7 @@ Tomate BRS Iracema.
 
 <div className="image-Box">
 
-![Tomate BRS Zamir](/cartilha/img/docs/29_cultivares_tomate/FOTO_04.jpg)
+![Tomate BRS Zamir](/img/docs/29_cultivares_tomate/FOTO_04.jpg)
 
 Foto: Leandro Lobo
 
@@ -232,7 +232,7 @@ Foto: Leandro Lobo
 Tomate BRS Zamir.
 </div>
 
-![Alface BRS Mediterrânea](/cartilha/img/docs/29_cultivares_tomate/FOTO_05.jpg)
+![Alface BRS Mediterrânea](/img/docs/29_cultivares_tomate/FOTO_05.jpg)
 
 Foto: Ítalo Lüdke
 
@@ -240,7 +240,7 @@ Foto: Ítalo Lüdke
 Alface BRS Mediterrânea
 </div>
 
-![Alface BRS Leila](/cartilha/img/docs/29_cultivares_tomate/FOTO_06.jpg)
+![Alface BRS Leila](/img/docs/29_cultivares_tomate/FOTO_06.jpg)
 
 Foto: Ítalo Lüdke
 

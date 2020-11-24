@@ -110,7 +110,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Cultivo de feijão-caupi por agricultor (Daniel da Silva) da região de Dourados, MS](/cartilha/img/docs/09_feijao_caupi/FOTO_01.jpg)
+![Cultivo de feijão-caupi por agricultor (Daniel da Silva) da região de Dourados, MS](/img/docs/09_feijao_caupi/FOTO_01.jpg)
 Foto: Gessí Ceccon
 
 <div className="center-textImage">
@@ -119,7 +119,7 @@ agricultor (Daniel da Silva)
 da região de Dourados, MS.
 </div>
 
-![Vagens de feijão-caupi em ponto de comercialização para consumo de grãos verdes](/cartilha/img/docs/09_feijao_caupi/FOTO_02.jpg)
+![Vagens de feijão-caupi em ponto de comercialização para consumo de grãos verdes](/img/docs/09_feijao_caupi/FOTO_02.jpg)
 Foto: Gessí Ceccon
 
 <div className="center-textImage">
@@ -128,7 +128,7 @@ ponto de comercialização para
 consumo de grãos verdes.
 </div>
 
-![Grãos de feijão-caupi para comercialização em feira municipal](/cartilha/img/docs/09_feijao_caupi/FOTO_03.jpg)
+![Grãos de feijão-caupi para comercialização em feira municipal](/img/docs/09_feijao_caupi/FOTO_03.jpg)
 Foto: Gessí Ceccon
 
 <div className="center-textImage">

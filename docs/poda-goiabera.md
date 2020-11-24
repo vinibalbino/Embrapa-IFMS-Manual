@@ -129,7 +129,7 @@ Fone: (67) 3318-5100
 
 Campo Grande, MS
 
-![Goiabeira em produção, submetida à poda drástica.](/cartilha/img/docs/07_poda_goiabeira/FOTO_01.jpg)
+![Goiabeira em produção, submetida à poda drástica.](/img/docs/07_poda_goiabeira/FOTO_01.jpg)
 
 Foto: Cássia Regina Yuriko Ide Vieira
 
@@ -137,11 +137,11 @@ Foto: Cássia Regina Yuriko Ide Vieira
 Goiabeira em produção, submetida à poda drástica.
 </div>
 
-![Planta da goiabeira antes da seleção das pernadas principais (A)](/cartilha/img/docs/07_poda_goiabeira/FOTO_02.jpg)
+![Planta da goiabeira antes da seleção das pernadas principais (A)](/img/docs/07_poda_goiabeira/FOTO_02.jpg)
 
 Foto: Cássia Regina Yuriko Ide Vieira
 
-![planta da goiabeira após a seleção de quatro pernadas principais (B)](/cartilha/img/docs/07_poda_goiabeira/FOTO_03.jpg)
+![planta da goiabeira após a seleção de quatro pernadas principais (B)](/img/docs/07_poda_goiabeira/FOTO_03.jpg)
 
 Foto: Cássia Regina Yuriko Ide Vieira
 
@@ -151,11 +151,11 @@ principais (A); planta da goiabeira após a seleção de
 quatro pernadas principais (B).
 </div>
 
-![Goiabeira não podada (A)](/cartilha/img/docs/07_poda_goiabeira/FOTO_04.jpg)
+![Goiabeira não podada (A)](/img/docs/07_poda_goiabeira/FOTO_04.jpg)
 
 Foto: Cássia Regina Yuriko Ide Vieira
 
-![Goiabeira submetida à poda drástica,com ramos pulmões (B)](/cartilha/img/docs/07_poda_goiabeira/FOTO_05.jpg)
+![Goiabeira submetida à poda drástica,com ramos pulmões (B)](/img/docs/07_poda_goiabeira/FOTO_05.jpg)
 
 Foto: Cássia Regina Yuriko Ide Vieira
 

@@ -86,8 +86,8 @@ const Search = props => {
       <input
         id="search_input_react"
         type="search"
-        placeholder="Buscar"
-        aria-label="Buscar"
+        placeholder="Search"
+        aria-label="Search"
         className={classnames(
           "navbar__search-input",
           { "search-bar-expanded": props.isSearchBarExpanded },
