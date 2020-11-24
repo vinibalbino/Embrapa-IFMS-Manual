@@ -93,7 +93,7 @@ function Home() {
             </div>
 
             <div className="autor">
-              <img src="../img/harley.png" alt="Foto do Harley" />
+              <img src="img/harley.png" alt="Foto do Harley" />
               <p className="nome">Harley Nonato de Oliveira</p>
               <p className="cargo">Chefe Geral</p>
             </div>
