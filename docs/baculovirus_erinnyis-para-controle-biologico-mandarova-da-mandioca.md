@@ -133,7 +133,7 @@ Fone: (75) 3312-8048
 
 Cruz das Almas, BA
 
-![Lagartas de mandarová com colorações diferentes](/cartilha/img/docs/17_baculovirus/FOTO_01.jpg)
+![Lagartas de mandarová com colorações diferentes](/img/docs/17_baculovirus/FOTO_01.jpg)
 
 Foto: Vanda Pietrowski
 
@@ -141,7 +141,7 @@ Foto: Vanda Pietrowski
 Lagartas de mandarová com colorações diferentes
 </div>
 
-![Material preparado e congelado com Baculorivus erinnyis](/cartilha/img/docs/17_baculovirus/FOTO_02.jpg)
+![Material preparado e congelado com Baculorivus erinnyis](/img/docs/17_baculovirus/FOTO_02.jpg)
 
 Foto: Thaína Sanches
 
@@ -151,7 +151,7 @@ Material preparado e congelado com Baculorivus erinnyis
 
 <div className="image-Box">
 
-![Fase da infestação com mais vírus extracelular. Inóculo não adequado](/cartilha/img/docs/17_baculovirus/FOTO_03.jpg)
+![Fase da infestação com mais vírus extracelular. Inóculo não adequado](/img/docs/17_baculovirus/FOTO_03.jpg)
 
 Foto: Vanda Pietrowski
 
@@ -163,7 +163,7 @@ Fase da infestação com mais vírus extracelular. Inóculo não adequado
 
 <div className="image-Box">
 
-![Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado](/cartilha/img/docs/17_baculovirus/FOTO_04.jpg)
+![Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado](/img/docs/17_baculovirus/FOTO_04.jpg)
 
 Foto: Vanda Pietrowski
 
@@ -175,7 +175,7 @@ Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado
 
 <div className="image-Box">
 
-![Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado](/cartilha/img/docs/17_baculovirus/FOTO_05.jpg)
+![Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado](/img/docs/17_baculovirus/FOTO_05.jpg)
 
 Foto: Vanda Pietrowski
 

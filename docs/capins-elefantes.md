@@ -133,7 +133,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![BRS Kurumi com 80 cm de altura, ponto ideal para pastejo, com elevada proporção de folhas.](/cartilha/img/docs/04_capins/FOTO_01.jpg)
+![BRS Kurumi com 80 cm de altura, ponto ideal para pastejo, com elevada proporção de folhas.](/img/docs/04_capins/FOTO_01.jpg)
 Foto: Marciana Retore
 
 <div className="center-textImage">
@@ -144,7 +144,7 @@ com elevada proporção de folhas.
 
 <div className="image-Box">
 
-![BRS Capiaçu, com rebrota de 50 dias](/cartilha/img/docs/04_capins/FOTO_02.jpg)
+![BRS Capiaçu, com rebrota de 50 dias](/img/docs/04_capins/FOTO_02.jpg)
 
 Foto: Marciana Retore
 
