@@ -17,7 +17,7 @@ function Home() {
         <meta charSet="utf-8" />
         <meta name="theme-color" content="#218c74" />
         <link rel="canonical" href="https://www.cpao.embrapa.br/cartilha/" />
-        <link rel="manifest" href="/manifest.json"></link>
+        <link rel="manifest" href="/cartilha/manifest.json"></link>
         <title>Embrapa</title>
 
         <meta name="mobile-web-app-capable" content="yes" />
