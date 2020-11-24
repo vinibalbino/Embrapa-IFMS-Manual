@@ -9,7 +9,7 @@ module.exports = {
   // baseUrl: '/',
   //Produção
   baseUrl: '/cartilha/',
-  favicon: '/cartilha/img/logo.svg',
+  favicon: 'img/logo.svg',
   organizationName: 'IFMS - campus Dourados / Embrapa', // Usually your GitHub org/user name.
   projectName: 'Tecnologias para a Agricultura Familiar Digital', // Usually your repo name.
   plugins: [path.resolve(__dirname, './node_modules/docusaurus-lunr-search/')],
@@ -21,7 +21,7 @@ module.exports = {
       logo: {
         alt:
           'logo Embrapa com letras em azul com um simbolo verde, sendo que as letras em cima do simbolo são brancas',
-        src: '/cartilha/img/logo.svg',
+        src: 'img/logo.svg',
       },
       links: [
         {
