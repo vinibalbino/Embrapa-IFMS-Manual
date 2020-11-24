@@ -16,7 +16,7 @@
   flex-direction: column;
   height: 620px;
   margin-bottom: 1rem;
-  background: url("/img/fundo-1-100.jpg") no-repeat no-repeat center center
+  background: url("img/fundo-1-100.jpg") no-repeat no-repeat center center
     fixed;
 }
 
