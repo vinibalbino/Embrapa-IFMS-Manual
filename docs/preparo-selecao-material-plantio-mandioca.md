@@ -110,7 +110,7 @@ Fone: (67) 3416-9700
 
 Dourados, MS
 
-![Comprimento da maniva indicado de 20 cm](../img/docs/06_preparo_mandioca/FOTO_01.jpg)
+![Comprimento da maniva indicado de 20 cm](img/docs/06_preparo_mandioca/FOTO_01.jpg)
 
 Foto: Carmen Regina Pezarico
 
@@ -121,7 +121,7 @@ indicado de 20 cm
 
 <div className="image-Box">
 
-![Medula ocupando 50% ou menos da área central da maniva](../img/docs/06_preparo_mandioca/FOTO_02.jpg)
+![Medula ocupando 50% ou menos da área central da maniva](img/docs/06_preparo_mandioca/FOTO_02.jpg)
 
 Foto: Carmen Regina Pezarico
 
@@ -131,7 +131,7 @@ Foto: Carmen Regina Pezarico
 Medula ocupando 50% ou menos da área central da maniva
 </div>
 
-![Exsudação do látex da mandioca, indicação de viabilidade](../img/docs/06_preparo_mandioca/FOTO_03.jpg)
+![Exsudação do látex da mandioca, indicação de viabilidade](img/docs/06_preparo_mandioca/FOTO_03.jpg)
 
 Foto: Anderson Rogélio Bonin
 
