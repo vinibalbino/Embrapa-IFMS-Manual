@@ -157,7 +157,7 @@ module.exports = {
     },
     {
       name: "Francisco Pinheiro de Araújo",
-      image: /cartilha/img/autores/francisco_pinheiro_de_araujo.png",
+      image: "/cartilha/img/autores/francisco_pinheiro_de_araujo.png",
       lattes: "http://lattes.cnpq.br/5581919315896244",
       description:
         "Engenheiro-agrônomo, doutor em Horticultura, analista aposentado da Embrapa Semiárido, Petrolina, PE.",
