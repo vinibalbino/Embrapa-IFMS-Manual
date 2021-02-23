@@ -20,7 +20,7 @@ Além do mercado de flores e folhagens de corte, que atende à
 demanda do segmento de decoração com arranjos florais, entre
 outros produtos, as plantas ornamentais tropicais também são
 amplamente empregadas no segmento da jardinagem e do
-paisagismo. Arusticidade de muitas espécies vem despertando o
+paisagismo. A rusticidade de muitas espécies vem despertando o
 interesse de produtores e empresários para a produção em
 escala comercial.
 
@@ -86,7 +86,7 @@ _M. ornata_ e _M. velutina_.
 
 É originária das áreas tropicais e subtropicais do Norte
 da Tailândia e do Camboja, onde as brácteas são usadas na
-alimentação. Dentre as espécies com valor ornamental, destacase a _Curcuma alismatifolia_. Em estudos recentes, realizados no
+alimentação. Dentre as espécies com valor ornamental, destaca-se a _Curcuma alismatifolia_. Em estudos recentes, realizados no
 estado de Mato Grosso do Sul, constatou-se a viabilidade de
 cultivo das variedades _Siam Shadow_, _Snow White_ e _Sunset_ para
 produção comercial de flores de corte.
@@ -112,72 +112,65 @@ espécies apresentam grande potencial de mercado.
 
 [Introdução de cultivares de cúrcuma para produção de flores de corte em Mato Grosso do Sul - Página 152](https://bit.ly/3awJ64z)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
+### Instituições
 
-http://www.agraer.ms.gov.br/
-
-Fone: (67) 3423-3561
-
-Dourados, MS
-
-<div className="image-Box">
-
-![Heliconia bihai](/img/docs/27_producao_flores/FOTO_01.jpg)
-
-Foto: Liliane K. Leonel
-
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.agraer.ms.gov.br/" target="_blank"> http://www.agraer.ms.gov.br/</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3423-3561
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-<div className="center-textImage">
-Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio
+### Fotos 
+
+<div class="container-img"> 
+
+  ![Heliconia bihai](/img/docs/27_producao_flores/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Liliane K. Leonel</span>
+  <div className="legenda-foto">Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio.</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Arranjo floral com flores tropicais (helicônias e sorvetão)](/img/docs/27_producao_flores/FOTO_04.jpg)
+  ![Arranjo floral com flores tropicais (helicônias e sorvetão)](/img/docs/27_producao_flores/FOTO_04.jpg)
 
-Foto: Flávio de Oliveira Ferreira
-
+  <span class="legenda-foto-fonte">Foto: Flávio de Oliveira Ferreira</span>
+  <div className="legenda-foto">Arranjo floral com flores tropicais (helicônias e sorvetão).</div>
 </div>
 
-<div className="center-textImage">
-Arranjo floral com flores tropicais (helicônias e sorvetão)
+<div class="container-img"> 
+
+  ![Musa-bronze](/img/docs/27_producao_flores/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Liliane K. Leonel</span>
+  <div className="legenda-foto">Musa-bronze.</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Musa-bronze](/img/docs/27_producao_flores/FOTO_02.jpg)
+  ![Cúrcuma](/img/docs/27_producao_flores/FOTO_05.jpg)
 
-Foto: Liliane K. Leonel
-
+  <span class="legenda-foto-fonte">Foto: Francimar Perez Matheus</span>
+  <div className="legenda-foto">Cúrcuma.</div>
 </div>
 
-<div className="center-textImage">
-Musa-bronze
-</div>
+<div class="container-img"> 
 
-<div className="image-Box">
+  ![Heliconia rostrata](/img/docs/27_producao_flores/FOTO_03.jpg)
 
-![Cúrcuma](/img/docs/27_producao_flores/FOTO_05.jpg)
-
-Foto: Francimar Perez Matheus
-
-</div>
-
-<div className="center-textImage">
-Cúrcuma
-</div>
-
-<div className="image-Box">
-
-![Heliconia rostrata](/img/docs/27_producao_flores/FOTO_03.jpg)
-
-Foto: Liliane K. Leonel
-
-</div>
-
-<div className="center-textImage">
-Heliconia rostrata
+  <span class="legenda-foto-fonte">Foto: Liliane K. Leonel</span>
+  <div className="legenda-foto">Heliconia rostrata.</div>
 </div>

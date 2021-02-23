@@ -92,7 +92,7 @@ Ambos apresentam bom rendimento e cortes com qualidade.
 
 [Embrapa desenvolve técnicas com variedades mais resistentes às pragas](https://bit.ly/2wsmjIL)
 
-### Publicação
+### Publicações
 
 [Mandioca: Coleção 500 perguntas, 500 respostas](https://bit.ly/2xdjdZs)
 
@@ -100,41 +100,49 @@ Ambos apresentam bom rendimento e cortes com qualidade.
 
 [Cultivo da mandioca na região Centro-Sul do Brasil](https://bit.ly/39qz5Wt)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-http://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Comprimento da maniva indicado de 20 cm](/img/docs/06_preparo_mandioca/FOTO_01.jpg)
-
-Foto: Carmen Regina Pezarico
-
-<div className="center-textImage">
-Comprimento da maniva
-indicado de 20 cm
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-<div className="image-Box">
+### Fotos 
 
-![Medula ocupando 50% ou menos da área central da maniva](/img/docs/06_preparo_mandioca/FOTO_02.jpg)
+<div class="container-img"> 
 
-Foto: Carmen Regina Pezarico
+  ![Comprimento da maniva indicado de 20 cm](/img/docs/06_preparo_mandioca/FOTO_01.jpg)
 
+  <span class="legenda-foto-fonte">Foto: Carmen Regina Pezarico</span>
+  <div className="legenda-foto">Comprimento da maniva indicado de 20 cm.</div>
 </div>
 
-<div className="center-textImage">
-Medula ocupando 50% ou menos da área central da maniva
+<div class="container-img"> 
+
+  ![Medula ocupando 50% ou menos da área central da maniva](/img/docs/06_preparo_mandioca/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Carmen Regina Pezarico</span>
+  <div className="legenda-foto">Medula ocupando 50% ou menos da área central da maniva.</div>
 </div>
 
-![Exsudação do látex da mandioca, indicação de viabilidade](/img/docs/06_preparo_mandioca/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Anderson Rogélio Bonin
+  ![Exsudação do látex da mandioca, indicação de viabilidade](/img/docs/06_preparo_mandioca/FOTO_03.jpg)
 
-<div className="center-textImage">
-Exsudação do látex da mandioca, indicação de viabilidade.
+  <span class="legenda-foto-fonte">Foto: Anderson Rogélio Bonin</span>
+  <div className="legenda-foto">Exsudação do látex da mandioca, indicação de viabilidade.</div>
 </div>

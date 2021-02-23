@@ -51,7 +51,7 @@ variedades resistentes, catação, etc.) e o controle alternativo
 (extratos vegetais diversos, preparados homeopáticos, caldas,
 biofertilizantes, entre outros).
 
-Aseguir são abordados aspectos gerais relacionados à utilização
+A seguir são abordados aspectos gerais relacionados à utilização
 de caldas e biofertilizantes.
 
 ### Calda bordalesa
@@ -144,7 +144,7 @@ mudas sadias, entre outras.
 
 [Biofertilizantes e defensivos naturais para controle de pragas - Dia de Campo na TV](https://youtu.be/WXD-BNDteb8)
 
-### Publicação
+### Publicações
 
 [Calda bordalesa – utilidades e preparo](https://bit.ly/335eFjG)
 
@@ -162,20 +162,35 @@ mudas sadias, entre outras.
 
 [Tecnologias alternativas para o fortalecimento da agricultura familiar na Serra gaúcha](https://bit.ly/3cQ1mrT)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-https://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração](/img/docs/19_caldas/FOTO_01.jpg)
-
-Foto: Ivo de Sá Motta
-
-<div className="center-textImage">
-Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
+
+
+### Fotos 
+
+<div class="container-img"> 
+
+  ![Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração](/img/docs/19_caldas/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Ivo de Sá Motta</span>
+  <div className="legenda-foto">Produção de biofertilizante em bombona de 200 litros com compressor de aquário para aeração.</div>
+</div>
+

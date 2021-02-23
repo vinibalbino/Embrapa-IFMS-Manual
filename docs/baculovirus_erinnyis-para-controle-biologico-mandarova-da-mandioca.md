@@ -77,7 +77,7 @@ e, posteriormente, armazenadas em freezer, inteiras ou
 esmagadas (maceradas); neste caso, acrescenta-se um pouco
 de água e, posteriormente, coa-se com auxílio de tecido tipo gaze
 dobrada várias vezes, a fim de obter uma calda sem restos do
-inseto. Amaceração pode ser manual ou feita em liquidificador ou
+inseto. A maceração pode ser manual ou feita em liquidificador ou
 processador. Esta calda produzida poderá ser aplicada
 imediatamente ou armazenada em frascos no freezer, para uso
 na próxima safra. Recomenda-se dividir a calda em várias
@@ -90,97 +90,87 @@ calda; de forma generalizada, recomenda-se de 50 mL a 100 mL
 por hectare. No momento da aplicação, alguns cuidados devem
 ser observados:
 
-a) Aplicar quando as lagartas estiverem pequenas na
-lavoura.
-
-b) Descongelar o vírus somente no momento da aplicação.
-
-c) Manter uniforme a pressão do pulverizador e a velocidade
+<ol type="a">
+  <li>Aplicar quando as lagartas estiverem pequenas na
+lavoura.</li>
+  <li>Descongelar o vírus somente no momento da aplicação.</li>
+  <li>Manter uniforme a pressão do pulverizador e a velocidade
 da aplicação, e direcionar o bico de forma a obter
-molhamento uniforme das folhas.
-
-d) Dissolver a dose do vírus a ser utilizada em água e filtrar
-(coar) a mistura antes de colocá-la no pulverizador.
-
-e) Verificar o pH da calda, que deve ser ácido.
-
-f) Fazer a aplicação no final da tarde ou a noite, pois o vírus é
+molhamento uniforme das folhas.</li>
+  <li>Dissolver a dose do vírus a ser utilizada em água e filtrar
+(coar) a mistura antes de colocá-la no pulverizador.</li>
+  <li>Verificar o pH da calda, que deve ser ácido.</li>
+  <li>Fazer a aplicação no final da tarde ou a noite, pois o vírus é
 sensível à luz ultravioleta (sol forte), o que permite que a
 lagarta se alimente durante a noite e até o meio da manhã
-seguinte sem que haja perda da atividade do vírus.
+seguinte sem que haja perda da atividade do vírus.</li>
+</ol>
 
 ## 4. **Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Mais dicas para aplicação do baculovírus como controle do mandarová](https://bit.ly/2QW4nOL)
 
-### Instituição
+<div className="container-instituicoes">
 
-Embrapa Agropecuária Oeste
+### Instituições
 
-http://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-**Embrapa Mandioca e Fruticultura**
-
-http://www.embrapa.br/mandioca-e-fruticultura
-
-Fone: (75) 3312-8048
-
-Cruz das Almas, BA
-
-![Lagartas de mandarová com colorações diferentes](/img/docs/17_baculovirus/FOTO_01.jpg)
-
-Foto: Vanda Pietrowski
-
-<div className="center-textImage">
-Lagartas de mandarová com colorações diferentes
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Mandioca e Fruticultura
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.embrapa.br/mandioca-e-fruticultura" target="_blank"> http://www.embrapa.br/mandioca-e-fruticultura</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (75) 3312-8048
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Cruz das Almas, BA
+    </div>    
+  </div>
 </div>
 
-![Material preparado e congelado com Baculorivus erinnyis](/img/docs/17_baculovirus/FOTO_02.jpg)
+### Fotos 
 
-Foto: Thaína Sanches
+<div class="container-img"> 
 
-<div className="center-textImage">
-Material preparado e congelado com Baculorivus erinnyis
+  ![Lagartas de mandarová com colorações diferentes](/img/docs/17_baculovirus/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Vanda Pietrowski</span>
+  <div className="legenda-foto">Lagartas de mandarová com colorações diferentes.</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Fase da infestação com mais vírus extracelular. Inóculo não adequado](/img/docs/17_baculovirus/FOTO_03.jpg)
+  ![Material preparado e congelado com Baculorivus erinnyis](/img/docs/17_baculovirus/FOTO_02.jpg)
 
-Foto: Vanda Pietrowski
-
+  <span class="legenda-foto-fonte">Foto: Thaína Sanches</span>
+  <div className="legenda-foto">Material preparado e congelado com <em>Baculorivus erinnyis.</em></div>
 </div>
 
-<div className="center-textImage">
-Fase da infestação com mais vírus extracelular. Inóculo não adequado
+<div class="container-img"> 
+
+  ![Fase da infestação com mais vírus extracelular. Inóculo não adequado](/img/docs/17_baculovirus/FOTO_03.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Vanda Pietrowski</span>
+  <div className="legenda-foto">Fase da infestação com mais vírus extracelular. Inóculo não adequado.</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado](/img/docs/17_baculovirus/FOTO_04.jpg)
+  ![Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado](/img/docs/17_baculovirus/FOTO_04.jpg)
 
-Foto: Vanda Pietrowski
-
+  <span class="legenda-foto-fonte">Foto: Vanda Pietrowski</span>
+  <div className="legenda-foto">Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado.</div>
 </div>
 
-<div className="center-textImage">
-Fase da infestação com mais vírus ocluso “protegido”. Inóculo adequado
-</div>
+<div class="container-img"> 
 
-<div className="image-Box">
+  ![Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado](/img/docs/17_baculovirus/FOTO_05.jpg)
 
-![Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado](/img/docs/17_baculovirus/FOTO_05.jpg)
-
-Foto: Vanda Pietrowski
-
-</div>
-
-<div className="center-textImage">
-Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado.
+  <span class="legenda-foto-fonte">Foto: Vanda Pietrowski</span>
+  <div className="legenda-foto">Fase final da infecção com presença de bactérias secundárias. Inóculo não adequado.</div>
 </div>

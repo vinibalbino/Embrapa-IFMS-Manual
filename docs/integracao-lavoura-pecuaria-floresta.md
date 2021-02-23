@@ -103,7 +103,7 @@ carvão, lenha, celulose ou serraria, etc.).
 
 ## **3. Como utilizar**
 
-Para a implantação da lavoura, da pastagem e das árvores devese seguir as recomendações de cultivo específicas de cada
+Para a implantação da lavoura, da pastagem e das árvores deve-se seguir as recomendações de cultivo específicas de cada
 espécie, como: variedades, preparo e correção do solo, uso de
 fertilizantes e outros insumos. Em geral, a introdução das árvores
 deve ser feita, preferencialmente, durante a renovação das
@@ -117,8 +117,7 @@ ILPF são algodão, soja, milho, sorgo, feijão, arroz e girassol. Os
 principais consórcios são de milho + capim/forrageiras, sorgo
 (granífero ou silagem) + capim/forrageiras e, em pequena
 escala, outros consórcios (milheto, sorgo pastejo, guandu).
-Como espécies forrageiras, a grande maioria é do gênero
-Brachiaria. Espécies de Panicum e outras entram em menores
+Como espécies forrageiras, a grande maioria é do gênero <em> Brachiaria</em>. Espécies de <em>Panicum</em> e outras entram em menores
 proporções. Como principais espécies florestais têm-se o
 eucalipto, a teca, o cedro australiano e o mogno.
 
@@ -214,39 +213,55 @@ guatambu-do-cerrado e sumaúma-preta).
 
 [Produtores enfrentam o desafio de dobrar a produção sem desmatar](https://bit.ly/36veqis)
 
-### Publicação
+### Publicações
 
 [Sistemas silvipastoris](https://bit.ly/36xQN8X)
 
 ### Instituição
 
-**Embrapa Agropecuária Oeste**
+<div className="container-instituicoes">
 
-https://www.embrapa.br/agropecuaria-oeste
+### Instituições
 
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![linhas de eucaliptos com gados pastando envolta](/img/docs/01_Integracao/FOTO_01.jpg)
-Foto: Eny Duboc
-
-<div className="center-textImage">
-Sistema silvipastoril (ILPF) em faixas com linhas triplas de eucalipto e pastagem com Brachiaria brizantha cv. BRS Piatã.Fazenda Minerva, Ivinhema, MS, maio de 2013.
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![Cultivo de soja em plantio direto na palhada do capim entre fileiras simples de eucalipto](/img/docs/01_Integracao/FOTO_02.jpg)
-Foto: Eny Duboc
+### Fotos 
 
-<div className="center-textImage">
-Cultivo de soja em plantio direto na palhada do capim entre fileiras
-simples de eucalipto (ILPF). Fazenda Experimental da
-Embrapa Agropecuária Oeste, Ponta Porã, MS, dezembro de 2011.
+<div class="container-img"> 
+
+  ![linhas de eucaliptos com gados pastando envolta](/img/docs/01_Integracao/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eny Duboc</span>
+  <div className="legenda-foto">Sistema silvipastoril (ILPF) em faixas com linhas triplas de eucalipto e pastagem com Brachiaria brizantha cv. BRS Piatã.Fazenda Minerva, Ivinhema, MS, maio de 2013.</div>
 </div>
 
-![Sistema silvipastoril](/img/docs/01_Integracao/FOTO_03.jpg)
-Foto: Eny Duboc
+<div class="container-img"> 
 
-<div className="center-textImage">
-Sistema silvipastoril (ILPF)
+  ![Cultivo de soja em plantio direto na palhada do capim entre fileiras simples de eucalipto](/img/docs/01_Integracao/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eny Duboc</span>
+  <div className="legenda-foto">Cultivo de soja em plantio direto na palhada do capim entre fileiras simples de eucalipto (ILPF). Fazenda Experimental da Embrapa Agropecuária Oeste, Ponta Porã, MS, dezembro de 2011.</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Sistema silvipastoril](/img/docs/01_Integracao/FOTO_03.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eny Duboc</span>
+  <div className="legenda-foto">Sistema silvipastoril (ILPF).</div>
 </div>

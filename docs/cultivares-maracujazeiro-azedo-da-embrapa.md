@@ -8,7 +8,7 @@ sidebar_label: Cultivares de Maracujazeiro-Azedo da Embrapa
 
 ## **1. O que é**
 
-São cultivares de maracujazeiro-azedo (_Passiflora edulis Sims_),
+São cultivares de maracujazeiro-azedo (_Passiflora edulis_ Sims),
 desenvolvidas pela Embrapa, que possuem alta produtividade,
 maior nível de resistência a doenças e características físicas e
 químicas de frutos para atender ao mercado de frutas frescas e
@@ -17,13 +17,13 @@ seguir.
 
 ### BRS Gigante Amarelo (BRS GA1)
 
-Cultivar de maracujazeiroazedo com alta produtividade e qualidade de frutos para mercado
+Cultivar de maracujazeiro-azedo com alta produtividade e qualidade de frutos para mercado
 in natura. É normal produzir, principalmente no início da
 produção, frutos com mais de 500 g. Sua produtividade, quando
 irrigado e com uso de tecnologia no sistema de produção, no
 espaçamento de 2,5 m x 2,5 m, pode superar 50 t/ha no primeiro
 ano e 30 t/ha no segundo ano. Esta cultivar tem sido utilizada
-para cultivo em ambiente protegido com alta tecnologia com
+para cultivo em ambiente protegido com alta tecnologia, com
 produtividade superior a 100 t/ha no primeiro ano de produção.
 Apresenta flores grandes muito dependentes da polinização
 manual, que é muito importante para obtenção de altas
@@ -38,8 +38,7 @@ são levadas ao campo.
 
 ### BRS Sol do Cerrado (BRS SC1)
 
-Cultivar de maracujazeiroazedo com produtividade e características de frutos semelhantes
-às da cultivar BRS Gigante Amarelo. Apresenta flores grandes,
+Cultivar de maracujazeiro-azedo com produtividade e características de frutos semelhantes às da cultivar BRS Gigante Amarelo. Apresenta flores grandes,
 sendo que algumas delas são achatadas, facilitando a polinização
 por insetos pequenos. Em pomares próximos de matas, com a
 presença de polinizadores, pode-se obter alta produtividade
@@ -52,11 +51,11 @@ são as mesmas da cultivar BRS Gigante Amarelo.
 
 ### BRS Rubi do Cerrado (BRS RC)
 
-Cultivar de maracujazeiroazedo com alta produtividade e certa tolerância a doenças de
+Cultivar de maracujazeiro-azedo com alta produtividade e certa tolerância a doenças de
 parte aérea, principalmente virose e bacteriose. Produz
 aproximadamente 50% de frutos de casca vermelha ou
 arroxeada com peso de 120 g a 300 g (média de 170 g), com teor
-de sólidos solúveis de 13°Brix a 15°Brix (média de 14° Brix) e
+de sólidos solúveis de 13 °Brix a 15 °Brix (média de 14 °Brix) e
 rendimento de suco em torno de 38%. Possui uma polpa com
 coloração alaranjada muito apreciada pelos consumidores e
 indústrias de suco. Devido às características físicas e químicas
@@ -136,38 +135,28 @@ EMBRAPA. Embrapa Cerrados. Lançamento do híbrido de
 maracujazeiro azedo - BRS Rubi do Cerrado.
 http://www.cpac.embrapa.br/lancamentobrsrubidocerrado/
 
-<div className="image-Box">
+### Fotos 
 
-![BRS Gigante Amarelo (BRS GA1)](/img/docs/32_maracujazeiro_azedo/FOTO_01.jpg)
+<div class="container-img"> 
 
-Foto: Fábio Gelape Faleiro
+  ![BRS Gigante Amarelo (BRS GA1)](/img/docs/32_maracujazeiro_azedo/FOTO_01.jpg)
 
+  <span class="legenda-foto-fonte">Foto: Fábio Gelape Faleiro</span>
+  <div className="legenda-foto">BRS Gigante Amarelo (BRS GA1).</div>
 </div>
 
-<div class="center-textImage">
-BRS Gigante Amarelo (BRS GA1)
+<div class="container-img"> 
+
+  ![BRS Sol do Cerrado (BRS SC1)](/img/docs/32_maracujazeiro_azedo/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Fábio Gelape Faleiro</span>
+  <div className="legenda-foto">BRS Sol do Cerrado (BRS SC1).</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![BRS Sol do Cerrado (BRS SC1)](/img/docs/32_maracujazeiro_azedo/FOTO_02.jpg)
+  ![BRS Rubi do Cerrado (BRS RC1)](/img/docs/32_maracujazeiro_azedo/FOTO_03.jpg)
 
-Foto: Fábio Gelape Faleiro
-
-</div>
-
-<div class="center-textImage">
-BRS Sol do Cerrado (BRS SC1)
-</div>
-
-<div className="image-Box">
-
-![BRS Rubi do Cerrado (BRS RC1)](/img/docs/32_maracujazeiro_azedo/FOTO_03.jpg)
-
-Foto: Fábio Gelape Faleiro
-
-</div>
-
-<div class="center-textImage">
-BRS Rubi do Cerrado (BRS RC1)
+  <span class="legenda-foto-fonte">Foto: Fábio Gelape Faleiro</span>
+  <div className="legenda-foto">BRS Rubi do Cerrado (BRS RC1).</div>
 </div>

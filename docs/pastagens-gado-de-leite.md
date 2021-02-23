@@ -8,7 +8,7 @@ sidebar_label: Pastagens para Gado de Leite
 
 ## **1. O que é**
 
-Apastagem é a base da alimentação do gado de corte e de leite. O
+A pastagem é a base da alimentação do gado de corte e de leite. O
 potencial de produção das pastagens tropicais é elevado, porém o
 valor nutritivo não atende à necessidade, principalmente, de vacas
 na fase de produção de leite. Houve evolução na adaptação de
@@ -18,9 +18,9 @@ Uma vez que o agricultor tenha conhecimento sobre a forrageira
 que utiliza, poderá intensificar a produção e reduzir o custo,
 adequando o manejo da pastagem ao seu rebanho. Dessa forma,
 é possível evitar erros elementares, como o cultivo de espécies
-muito exigentes, como Cynodon spp. e capim-elefante, em solo
+muito exigentes, como <em>Cynodon</em> spp. e capim-elefante, em solo
 pobre, sem uso de corretivos e fertilizantes. Ou, ainda, o cultivo de
-Brachiaria humidicola para alimentação de uma categoria
+<em>Brachiaria humidicola</em> para alimentação de uma categoria
 exigente, como vacas leiteiras em produção.
 
 ## **2. Benefícios e/ou vantagens**
@@ -43,7 +43,7 @@ correção e à adubação.
 
 Neste grupo estão as forrageiras mais produtivas e que
 apresentam melhor valor nutritivo, tais como o capim-elefante e
-espécies de Cynodon (Tifton e outras). A porcentagem de área
+espécies de <em>Cynodon</em> (Tifton e outras). A porcentagem de área
 ocupada com esses capins é pequena, já que eles são
 multiplicados por mudas. Eles necessitam de solo corrigido e
 adubações periódicas. São os capins com melhor qualidade para
@@ -67,7 +67,7 @@ Estrela-Africana e Vaqueiro
 
 ### Exigentes
 
-Pertencem a este grupo as cultivares de Panicum maximum
+Pertencem a este grupo as cultivares de <em>Panicum maximum</em> 
 (Colonião), que apresentam boa produtividade e valor nutritivo,
 porém levemente inferior às do grupo anterior. Necessitam de
 correção do solo e, pelo menos, uma adubação anual de
@@ -101,17 +101,17 @@ existe pouca informação a seu respeito.
 
 ### Moderadamente exigentes
 
-Neste grupo estão as cultivares de Brachiaria brizantha, que tem
+Neste grupo estão as cultivares de <em>Brachiaria brizantha</em>, que tem
 moderada exigência em fertilidade, necessitam de correção e
 adubação para a formação, mas não necessitam de adubação de
 manutenção todos os anos. São capins tolerantes a pragas e
 apresentam menor diferença de produção de forragem entre a
 estação das águas e da seca. Esta espécie possui qualidade
-inferior ao P. maximum, sendo limitante para o gado de leite.
+inferior ao <em>P. maximum</em>, sendo limitante para o gado de leite.
 Porém, como continua produzindo forragem no início da seca,
 pode ser utilizada por categorias menos exigentes.
 
-**Marandu (braquiarão)** – É a primeira cultivar de B. brizantha
+**Marandu (braquiarão)** – É a primeira cultivar de <em>B. brizantha</em>
 lançada no Brasil. Uma vez implantada com correção e
 adubação, permanece por vários anos produzindo forragem de
 boa qualidade.
@@ -127,7 +127,7 @@ anteriores.
 **BRS Paiaguás** – É a cultivar com melhor valor nutritivo e uma
 das mais produtivas durante a estação seca, em relação às
 demais cultivares de braquiária. Apresenta porte baixo e cobre
-bem o solo. Dentre as cultivares de B. brizantha, a cultivar BRS
+bem o solo. Dentre as cultivares de <em>B. brizantha</em>, a cultivar BRS
 Paiaguás é a que menos tolera a cigarrinha-das-pastagens.
 
 ### Pouco exigentes
@@ -139,10 +139,10 @@ para sistemas menos produtivos.
 **_Brachiaria humidicola_** – É uma espécie de estabelecimento
 lento, menos produtiva e com valor nutricional limitado.
 
-**_Brachiaria decumbens (braquiarinha)_** – Espécie adaptada a
+**_Brachiaria decumbens_ (braquiarinha)** – Espécie adaptada a
 solos menos férteis, mas responde moderadamente à adubação
 e produz forragem com razoável qualidade. A maior limitação
-desta espécie é a suscetibilidade ao ataque da cigarrinha-daspastagens.
+desta espécie é a suscetibilidade ao ataque da cigarrinha-das-pastagens.
 
 **_Andropogon gayanus_** – É uma forrageira de estabelecimento
 lento, mas produz forragem em quantidade e de boa qualidade
@@ -150,7 +150,7 @@ no período chuvoso. Sua limitação é a reduzida produção de
 forragem durante a estação seca. Tem importância por ser
 tolerante à cigarrinha-das-pastagens e ao percevejo-castanho.
 
-**_Estilosantes cv. Campo Grande_** – É uma leguminosa muito
+**Estilosantes cv. Campo Grande** – É uma leguminosa muito
 adaptada aos solos do Cerrado, produz forragem rica em
 proteína. É pouco apreciada pelos animais durante a estação
 chuvosa, mas bem consumida durante a estação seca.
@@ -228,28 +228,41 @@ menor.
 
 [Gado de Leite – Coleção 500 perguntas, 500 respostas](https://bit.ly/3aZiuJR)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-http://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Capim BRS Zuri sendo pastejado](/img/docs/05_pastagens/FOTO_01.jpg)
-
-Foto: Luís Armando Zago Machado
-
-<div className="center-textImage">
-Capim BRS Zuri sendo pastejado
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![Capins BRS Tamani e BRS Zuri](/img/docs/05_pastagens/FOTO_02.jpg)
+### Fotos 
 
-Foto: Luís Armando Zago Machado
+<div class="container-img"> 
 
-<div className="center-textImage">
-Capins BRS Tamani (esquerda) e BRS Zuri (direita).
+  ![Capim BRS Zuri sendo pastejado](/img/docs/05_pastagens/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Luís Armando Zago Machado</span>
+  <div className="legenda-foto">Capim BRS Zuri sendo pastejado.</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Capins BRS Tamani e BRS Zuri](/img/docs/05_pastagens/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Luís Armando Zago Machado</span>
+  <div className="legenda-foto">Capins BRS Tamani (esquerda) e BRS Zuri (direita).</div>
 </div>

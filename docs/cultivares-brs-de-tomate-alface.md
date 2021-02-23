@@ -59,10 +59,10 @@ planta mais ereta, com folhas de cor verde-oliva.
   grande diferencial deste material. É indicado para estufas e
   tolerante a algumas raças de _Verticilium_ e _Fusarium_.
 
--Em relação às alfaces, a BRS Leila e a BRS Mediterrânea são
+- Em relação às alfaces, a BRS Leila e a BRS Mediterrânea são
 tolerantes à queima das bordas (deficiência de cálcio) e ao
 pendoamento. Os dois materiais são tolerantes a míldio, LMV
-(vírus do mosaico da alface), _Fusarium_ e nematoide-dasgalhas. Não amargam após a passagem do ponto de colheita
+(vírus do mosaico da alface), _Fusarium_ e nematoide-das-galhas. Não amargam após a passagem do ponto de colheita
 e apresentam de 4 dias a 6 dias de precocidade, em média.
 
 ## **3. Como utilizar**
@@ -84,7 +84,7 @@ Laterrot apresenta rápido crescimento (enchimento) de frutos,
 devendo-se, portanto, evitar a aplicação excessiva de nitrogênio.
 
 É importante garantir um bom suprimento de cálcio e boro
-durante todo o ciclo do cultivo. Arelação nitrogênio/potássio deve
+durante todo o ciclo do cultivo. A relação nitrogênio/potássio deve
 ser mantida em 1:2 após o início do florescimento para evitar o
 aparecimento de frutos deformados (“barcas”) ou ocos.
 
@@ -123,7 +123,7 @@ nitrogenada.
 O **BRS Iracema** apresenta potencial de produzir 8 kg/planta a
 10 kg/planta. Manejo inadequado na irrigação ou colheita muito
 tardia dos frutos poderá provocar a rachadura de frutos maduros.
-Acausa mais frequente de rachaduras são as alterações bruscas
+A causa mais frequente de rachaduras são as alterações bruscas
 na umidade do solo. A irrigação por gotejamento, o uso de
 cobertura morta ou “mulch” e a colheita dos frutos não muito
 maduros apresentaram efeitos positivos na redução da
@@ -135,7 +135,7 @@ Quanto ao **BRS Zamir**, os frutos são alongados e pesam entre
 10 g e 15 g. Apresentam boa conservação após serem colhidos –
 até 18 dias em temperatura ambiente. Têm sabor adocicado e
 adequado equilíbrio de ácidos orgânicos, com o teor de sólidos
-solúveis de até 11 °Brix. Acultivar é indicada para todas as regiões
+solúveis de até 11 °Brix. A cultivar é indicada para todas as regiões
 produtoras, seja sob cultivo protegido ou em campo aberto no
 período seco. Em cultivo protegido, o tomate BRS Zamir
 apresenta potencial produtivo de 6 kg a 8 kg de frutos por planta.
@@ -146,10 +146,10 @@ rusticidade e cobertura foliar. O hábito de crescimento é
 indeterminado, indicado para cultivo estaqueado, e o início da
 colheita ocorre 80 dias após o transplantio. Manejo inadequado na
 irrigação ou colheita muito tardia dos frutos poderá rachar os
-frutos maduros. Aredução na incidência das rachaduras pode ser
+frutos maduros. A redução na incidência das rachaduras pode ser
 feita da mesma forma que para o BRS Iracema.
 
-### BRS's Leila e Mediterrânea
+### BRS Leila e BRS Mediterrânea
 
 No que se refere às alfaces, tanto a **BRS Leila** quanto a **BRS
 Mediterrânea** são recomendadas para cultivo nas principais
@@ -186,64 +186,73 @@ espaçamentos mais utilizados.
 
 [Alface BRS Mediterrânea](https://bit.ly/2NpHCAc)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Agrocinco**
+### Instituições
 
-http://www.agrocinco.com.br
-
-Fone: (19) 3879-6307
-
-Monte Mor, SP
-
-![Tomate BRS Laterrot](/img/docs/29_cultivares_tomate/FOTO_01.jpg)
-
-Foto: arquivo Embrapa
-
-<div className="center-textImage">
-Tomate BRS Laterrot.
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agrocinco
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.agrocinco.com.br" target="_blank"> http://www.agrocinco.com.br</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (19) 3879-6307
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Monte Mor, SP
+    </div>    
+  </div>
 </div>
 
-![Tomate BRS Nagai](/img/docs/29_cultivares_tomate/FOTO_02.jpg)
+### Fotos 
 
-Foto: Luís Galhardo
+<div class="container-img"> 
 
-<div className="center-textImage">
-Tomate BRS Nagai.
+  ![Tomate BRS Laterrot](/img/docs/29_cultivares_tomate/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: arquivo Embrapa</span>
+  <div className="legenda-foto">Tomate BRS Laterrot.</div>
 </div>
 
-![Tomate BRS Iracema](/img/docs/29_cultivares_tomate/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Leandro Lobo
+  ![Tomate BRS Nagai](/img/docs/29_cultivares_tomate/FOTO_02.jpg)
 
-<div className="center-textImage">
-Tomate BRS Iracema.
+  <span class="legenda-foto-fonte">Foto: Luís Galhardo</span>
+  <div className="legenda-foto">Tomate BRS Nagai.</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Tomate BRS Zamir](/img/docs/29_cultivares_tomate/FOTO_04.jpg)
+  ![Tomate BRS Iracema](/img/docs/29_cultivares_tomate/FOTO_03.jpg)
 
-Foto: Leandro Lobo
-
+  <span class="legenda-foto-fonte">Foto: Leandro Lobo</span>
+  <div className="legenda-foto">Tomate BRS Iracema.</div>
 </div>
 
-<div className="center-textImage">
-Tomate BRS Zamir.
+<div class="container-img"> 
+
+  ![Tomate BRS Zamir](/img/docs/29_cultivares_tomate/FOTO_04.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Leandro Lobo</span>
+  <div className="legenda-foto">Tomate BRS Zamir.</div>
 </div>
 
-![Alface BRS Mediterrânea](/img/docs/29_cultivares_tomate/FOTO_05.jpg)
+<div class="container-img"> 
 
-Foto: Ítalo Lüdke
+  ![Alface BRS Mediterrânea](/img/docs/29_cultivares_tomate/FOTO_05.jpg)
 
-<div className="center-textImage">
-Alface BRS Mediterrânea
+  <span class="legenda-foto-fonte">Foto: Ítalo Lüdke</span>
+  <div className="legenda-foto">Alface BRS Mediterrânea.</div>
 </div>
 
-![Alface BRS Leila](/img/docs/29_cultivares_tomate/FOTO_06.jpg)
+<div class="container-img"> 
 
-Foto: Ítalo Lüdke
+  ![Alface BRS Leila](/img/docs/29_cultivares_tomate/FOTO_06.jpg)
 
-<div className="center-textImage">
-Alface BRS Leila
+  <span class="legenda-foto-fonte">Foto: Ítalo Lüdke</span>
+  <div className="legenda-foto">Alface BRS Leila.</div>
 </div>

@@ -15,13 +15,13 @@ equilíbrio das quantidades de peixes, ração fornecida e plantas,
 de modo a manter ativas as populações de bactérias do ciclo do
 nitrogênio (naturalmente presentes no ambiente aquático), que
 ficam aderidas em substratos como grãos de argila expandida
-e/ou pedras (= seixos rolados). Aisso se denomina mídia filtrante
+e/ou pedras (= seixos rolados). A isso se denomina mídia filtrante
 que pode estar contida em recipientes como bombonas de 200 L.
-A filtragem biológica propicia então que os resíduos dos
+A filtragem biológica propicia, então, que os resíduos dos
 organismos aquáticos sejam insumos para o crescimento de
 plantas.
 
-Aaquaponia é diferente da hidroponia, que é a produção vegetal
+A aquaponia é diferente da hidroponia, que é a produção vegetal
 por meio da nutrição das plantas em água enriquecida com sais
 (produtos químicos), especificamente manipulados.
 
@@ -41,7 +41,7 @@ por meio da nutrição das plantas em água enriquecida com sais
 ## **3. Como utilizar**
 
 Os sistemas de aquaponia podem ser construídos em diversos
-tamanhos e com materiais oriundos de muitas atividades como
+tamanhos e com materiais oriundos de muitas atividades, como
 restos da construção civil (caixas d'águas, tubos e conexões).
 Bombas submersas de aquários (2.000 L/h) podem ser
 compradas na internet a preços razoáveis.
@@ -65,24 +65,38 @@ sifonagem e esfregar as paredes com esponja ou escova
 
 [Aquaponia MS](https://www.youtube.com/aquaponiams)
 
-### Publicação
+### Publicações
 
 [Montagem e Operação de um Sistema Familiar de Aquaponia para Produção de Peixes e Hortaliças](https://bit.ly/2MT53lj)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-https://www.embrapa.br/agropecuaria-oeste
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
+</div>
 
-Fone: (67) 3416-9700
 
-Dourados, MS
+### Fotos 
 
-![Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas](/img/docs/25_aquaponia/FOTO_01.jpg)
+<div class="container-img"> 
 
-Foto: Luís Antonio Kioshi Aoki Inoue
+  ![Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas](/img/docs/25_aquaponia/FOTO_01.jpg)
 
-<div className="center-textImage">
-Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas.
+  <span class="legenda-foto-fonte">Foto: Luís Antonio Kioshi Aoki Inoue</span>
+  <div className="legenda-foto">Sistema de aquaponia doméstica: caixa de 1.000 L para estocagem de peixes; bomba submersa (2.000 L/h) leva água da caixa ao tambor de 100 L, preenchido com pedras, argila expandida ou mídias de filtro biológico, parte da água retorna diretamente para a caixa dos peixes e parte da água abastece a bancada de plantas.</div>
 </div>

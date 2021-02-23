@@ -24,8 +24,8 @@ retorno do equilíbrio entre os microrganismos. Normalmente,
 isso pode ser feito através de outros microrganismos, que são
 denominados de agentes de controle biológico (ACB). Esse
 controle biológico acontece de forma espontânea no ambiente,
-mas também pode ser induzido através da aplicação de produtos
-que contenham ACB e através de práticas culturais que
+mas também pode ser induzido por meio da aplicação de produtos
+que contenham ACB e de práticas culturais que
 favoreçam a atividade microbiana em geral.
 
 ## **2. Benefícios e/ou vantagens**
@@ -81,13 +81,13 @@ produzido pelo próprio agricultor, associações de agricultores,
 etc.) tem a finalidade de introduzir ou aumentar, no ambiente, a
 densidade de um microrganismo que promova o controle
 biológico de uma ou mais doenças. Frequentemente o ambiente
-(solo ou plantas) já contem aquela espécie de microrganismo, e a
+(solo ou plantas) já contém aquela espécie de microrganismo, e a
 aplicação aumenta sua densidade ou introduz uma população
 mais eficiente em estabelecer-se no ambiente e controlar os
 microrganismos que causam doenças.
 
 Exemplos de produtos para controle biológico de doenças são
-aqueles que contém fungos dos gêneros _Trichoderma_,
+aqueles que contêm fungos dos gêneros _Trichoderma_,
 _Paecilomyces_, _Gliocladium_, _Clonostachys_, _Rhizoctonia
 binucleada_ e _Pochonia_; e bactérias dos gêneros _Bacillus_,
 _Pasteuria_, _Pseudomonas_ _fluorescentes_, _Streptomyces_ e
@@ -119,7 +119,7 @@ espécie de planta possam ser replicados em outras espécies de
 plantas que estejam sob ataque da mesma doença.
 
 Exemplos de sucesso na utilização do controle biológico de
-doenças são o fungo _Gliocladium roseum_ no controle do mofocinzento causado por _Botrytis cinerea_ em morango. O fungo
+doenças são o fungo _Gliocladium roseum_ no controle do mofo-cinzento causado por _Botrytis cinerea_ em morango. O fungo
 _Trichoderma_ spp. pode ser utilizado para o controle de doenças
 em espécies florestais, principalmente em viveiro, para o
 controle de tombamento em fumo e de podridão de raízes em
@@ -138,7 +138,7 @@ caso de emprego de produtos comerciais.
 
 ## **4. Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Produtos biológicos de controle registrados no Brasil desde 2005](https://www.abcbio.org.br/biodefensivos-registrados/)
 
@@ -158,29 +158,34 @@ caso de emprego de produtos comerciais.
 
 [Efeito de preparados caseiros no controle da queimaacinzentada, na cultura da cebola](https://bit.ly/318bir0)
 
-[Isolados nativos e comerciais de Trichoderma são mais eficientes no controle de doenças quando cultivados em grãos](https://bit.ly/2FwZ80Y)
+[Isolados nativos e comerciais de <em>Trichoderma</em> são mais eficientes no controle de doenças quando cultivados em grãos](https://bit.ly/2FwZ80Y)
 
 [Ensaios cooperativos de controle biológico de mofo-branco na cultura da soja](https://bit.ly/3aS5JBE)
 
-![Aplicação de Trichoderma sp. em solo de vaso por meio de grãos de aveia inoculados](/img/docs/14_controle_doencas/FOTO_01.jpg)
+### Fotos 
 
-Foto: Alexandre Dinnys Roese
+<div class="container-img"> 
 
-<div className="center-textImage">
-Aplicação de Trichoderma sp. em solo de vaso
-por meio de grãos de aveia inoculados. 
+  ![Aplicação de <em>Trichoderma sp.</em> em solo de vaso por meio de grãos de aveia inoculados](/img/docs/14_controle_doencas/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Alexandre Dinnys Roese</span>
+  <div className="legenda-foto">Aplicação de <em>Trichoderma sp.</em> em solo de vaso por meio de grãos de aveia inoculados.</div>
 </div>
 
-![Grãos de arroz inteiros colonizados com Trichoderma sp. para aplicação no campo](/img/docs/14_controle_doencas/FOTO_02.jpg)
+<div class="container-img"> 
 
-![Grãos de arroz triturados colonizados com Trichoderma sp. para aplicação no campo](/img/docs/14_controle_doencas/FOTO_02.jpg)
+  ![Grãos de arroz inteiros colonizados com <em>Trichoderma sp.</em> para aplicação no campo](/img/docs/14_controle_doencas/FOTO_02.jpg)
 
-<div className="center-textImage">
-Grãos de arroz inteiros (acima) e triturados (abaixo)
-colonizados com Trichoderma sp.
-para aplicação no campo.
+  <span class="legenda-foto-fonte">Fonte: adaptado de Harman et al. (2010).</span>
 </div>
-<p>Fonte: adaptado de Harman et al. (2010).</p>
+
+<div class="container-img"> 
+
+  ![Grãos de arroz triturados colonizados com <em>Trichoderma sp.</em> para aplicação no campo](/img/docs/14_controle_doencas/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Fonte: adaptado de Harman et al. (2010).</span>
+  <div className="legenda-foto">Grãos de arroz inteiros (acima) e triturados (abaixo) colonizados com <em>Trichoderma sp.</em> para aplicação no campo. </div>
+</div>
 
 ### Referência
 

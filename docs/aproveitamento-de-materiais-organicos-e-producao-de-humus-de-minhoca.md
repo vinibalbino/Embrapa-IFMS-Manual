@@ -73,28 +73,41 @@ recomendação de adubação de um engenheiro-agrônomo.
 
 ### Vídeo
 
-[Húmus líquido](https://youtu.be/76W7ClGThmA)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/76W7ClGThmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicação
+### Publicações
 
 [Preparo e uso de húmus líquido: opção para adubação orgânica em hortaliças](https://bit.ly/38H9yas)
 
 [Húmus líquido: adubação orgânica líquida visando a transição agroecológica](https://bit.ly/3cRApTF)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-https://www.embrapa.br/agropecuaria-oeste
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
+</div>
 
-Fone: (67) 3416-9700
+### Fotos 
 
-Dourados, MS
+<div class="container-img"> 
 
-![Leiras de vermicompostagem com tripa de irrigação](/img/docs/20_aproveitamento_materiais/FOTO_02.jpg)
+  ![Leiras de vermicompostagem com tripa de irrigação](/img/docs/20_aproveitamento_materiais/FOTO_02.jpg)
 
-Foto: Ivo de Sá Motta
-
-<div className="center-textImage">
-Leiras de vermicompostagem com tripa de irrigação
+  <span class="legenda-foto-fonte">Foto: Ivo de Sá Motta</span>  
+  <div className="legenda-foto">Leiras de vermicompostagem com tripa de irrigação.</div>
 </div>

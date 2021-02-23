@@ -1,14 +1,14 @@
 ---
 id: poda-goiabera
-title: Poda da Goiabera
-sidebar_label: Poda da Goiabera
+title: Poda da Goiabeira
+sidebar_label: Poda da Goiabeira
 ---
 
 <div class="center-textArticle">Cássia Regina Yuriko Ide Vieira</div>
 
 ## **1. O que é**
 
-Apoda é uma prática que visa à formação da copa, facilitando as
+A poda é uma prática que visa à formação da copa, facilitando as
 práticas de manejo na planta (raleio e ensacamento de frutos,
 desbaste de ramos e tratos fitossanitários) e regularidade na
 produção, determinando a época da colheita e a melhoria na
@@ -111,55 +111,71 @@ temperaturas, para evitar a perda de plantas.
 
 ## **4. Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Cultura da goiabeira](https://bit.ly/2U3XSe1)
 
-VIEIRA, C. R. Y. I.; OLIVEIRA, I.; REIS, H. F.; MACEDO, G. S.
-Cultura da goiabeira. Dourados: AGRAER, 2015. (AGRAER.
+VIEIRA, C. R. Y. I.; OLIVEIRA, I.; REIS, H. F.; MACEDO, G. S. <span className="negrito">Cultura da goiabeira</span>. Dourados: AGRAER, 2015. (AGRAER.
 Cartilha técnica). 43 p.
 
-### Instituição
+<div className="container-instituicoes">
 
-**Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
+### Instituições
 
-http://www.agraer.ms.gov.br/
-
-Fone: (67) 3318-5100
-
-Campo Grande, MS
-
-![Goiabeira em produção, submetida à poda drástica.](/img/docs/07_poda_goiabeira/FOTO_01.jpg)
-
-Foto: Cássia Regina Yuriko Ide Vieira
-
-<div className="center-textImage">
-Goiabeira em produção, submetida à poda drástica.
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.agraer.ms.gov.br/" target="_blank"> http://www.agraer.ms.gov.br/</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3318-5100
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campo Grande, MS
+    </div>    
+  </div>
 </div>
 
-![Planta da goiabeira antes da seleção das pernadas principais (A)](/img/docs/07_poda_goiabeira/FOTO_02.jpg)
+### Fotos 
 
-Foto: Cássia Regina Yuriko Ide Vieira
+<div class="container-img"> 
 
-![planta da goiabeira após a seleção de quatro pernadas principais (B)](/img/docs/07_poda_goiabeira/FOTO_03.jpg)
+  ![Goiabeira em produção, submetida à poda drástica.](/img/docs/07_poda_goiabeira/FOTO_01.jpg)
 
-Foto: Cássia Regina Yuriko Ide Vieira
-
-<div className="center-textImage">
-Planta da goiabeira antes da seleção das pernadas
-principais (A); planta da goiabeira após a seleção de
-quatro pernadas principais (B).
+  <span class="legenda-foto-fonte">Foto: Cássia Regina Yuriko Ide Vieira</span>
+  <div className="legenda-foto">Goiabeira em produção, submetida à poda drástica.</div>
 </div>
 
-![Goiabeira não podada (A)](/img/docs/07_poda_goiabeira/FOTO_04.jpg)
+<div class="container-img"> 
 
-Foto: Cássia Regina Yuriko Ide Vieira
+  ![Planta da goiabeira antes da seleção das pernadas principais (A)](/img/docs/07_poda_goiabeira/FOTO_02.jpg)
 
-![Goiabeira submetida à poda drástica,com ramos pulmões (B)](/img/docs/07_poda_goiabeira/FOTO_05.jpg)
+  <span class="legenda-foto-fonte">Foto: Cássia Regina Yuriko Ide Vieira</span>
+</div>
 
-Foto: Cássia Regina Yuriko Ide Vieira
+<div class="container-img"> 
 
-<div className="center-textImage">
-Goiabeira não podada (A) e submetida à poda drástica,
-com ramos pulmões (B).
+  ![planta da goiabeira após a seleção de quatro pernadas principais (B)](/img/docs/07_poda_goiabeira/FOTO_03.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Cássia Regina Yuriko Ide Vieira</span>
+  <div className="legenda-foto">Planta da goiabeira antes da seleção das pernadas
+principais (A); planta da goiabeira após a seleção de quatro pernadas principais (B).</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Goiabeira não podada (A)](/img/docs/07_poda_goiabeira/FOTO_04.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Cássia Regina Yuriko Ide Vieira</span>
+</div>
+
+<div class="container-img"> 
+
+  ![Goiabeira submetida à poda drástica,com ramos pulmões (B)](/img/docs/07_poda_goiabeira/FOTO_05.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Cássia Regina Yuriko Ide Vieira</span>
+  <div className="legenda-foto">Goiabeira não podada (A) e submetida à poda drástica, com ramos pulmões (B).</div>
 </div>

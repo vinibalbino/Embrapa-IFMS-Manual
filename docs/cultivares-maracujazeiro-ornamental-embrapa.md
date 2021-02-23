@@ -45,7 +45,7 @@ florescer.
 ### BRS Rubiflora
 
 Cultivar com características e indicações
-semelhantes à BRS Estrela do Cerrado. Aprincipal característica
+semelhantes à BRS Estrela do Cerrado. A principal característica
 desta cultivar é um vermelho intenso das pétalas e sépalas.
 Apresenta florações contínuas durante todo o ano com diferentes
 picos de florescimento. Assim como a cultivar BRS Estrela do
@@ -60,7 +60,7 @@ vasos.
 Cultivar com características e indicações
 semelhantes à BRS Estrela do Cerrado. Apresenta produção de
 grande quantidade de flores com diâmetro de aproximadamente
-14 cm, com pétalas e sépalas com coloração vermelhoalaranjada. Apresenta florações contínuas e resistência às
+14 cm, com pétalas e sépalas com coloração vermelho-alaranjada. Apresenta florações contínuas e resistência às
 principais doenças do maracujazeiro. Assim como a BRS Estrela
 do Cerrado e a BRS Rubiflora, a produção de mudas é feita por
 estacas, não produzindo frutos em condições naturais, mas
@@ -115,9 +115,9 @@ atenção dos produtores.
   várias combinações de cores das flores do maracujá também
   merecem destaque.
 - Em muitos países do Hemisfério Norte, a produção de mudas
-  e cultivo é uma atividade altamente rentável e viável
+  é uma atividade altamente rentável e viável
   economicamente. Uma muda ou planta de maracujazeiro
-  ornamental pode custar mais de US\$ 100 dólares. O
+  ornamental pode custar mais de US$ 100 dólares. O
   consumidor final das plantas ornamentais de maracujazeiro
   são paisagistas e consumidores, e os principais produtos
   concorrentes são outras espécies de plantas trepadeiras.
@@ -133,7 +133,7 @@ lançadas pela Embrapa foram selecionadas com base na
 quantidade e na beleza das flores e também com base na maior
 resistência a pragas e doenças.
 
-Aviabilidade econômica do maracujazeiro ornamental, que ainda
+A viabilidade econômica do maracujazeiro ornamental, que ainda
 não tem uma cadeia produtiva totalmente estruturada, vai
 depender da relação entre oferta e procura, mas, principalmente,
 de trabalhos de divulgação, marketing e desenvolvimento de
@@ -150,7 +150,7 @@ potencialidades do produto tecnológico.
 
 [Maracujá ornamental BRS Roseflora](https://bit.ly/2RluHAA)
 
-[Maracujá Ornamental BRS Rosea Púrpura (BRS RP)](https://bit.ly/2uWYFDp)
+[Maracujá Ornamental BRS Rósea Púrpura (BRS RP)](https://bit.ly/2uWYFDp)
 
 [Maracujá BRS Céu do Cerrado (BRS CC)](https://bit.ly/2RlSctb)
 
@@ -164,29 +164,40 @@ https://www.embrapa.br/cultivar/maracuja
 
 [Memória do Lançamento dos Híbridos de Maracujazeiro Ornamental](https://bit.ly/2TFobaH)
 
-<div className="image-Box">
+### Fotos 
 
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_01.jpg)
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_02.jpg)
+<div class="container-img"> 
 
-Foto: Fábio Gelape Faleiro
+  ![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_01.jpg)
 
+  <span class="legenda-foto-fonte">Foto: Fábio Gelape Faleiro</span>
 </div>
 
-<div class="center-textImage">
-Cultivares de maracujazeiro ornamental.
+<div class="container-img"> 
+
+  ![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Fábio Gelape Faleiro</span>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_03.jpg)
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_04.jpg)
-![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_05.jpg)
+  ![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_03.jpg)
 
-Foto: Fábio Gelape Faleiro
-
+  <span class="legenda-foto-fonte">Foto: Fábio Gelape Faleiro</span>
 </div>
 
-<div class="center-textImage">
-Cultivares de maracujazeiro ornamental.
+<div class="container-img"> 
+
+  ![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_04.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Fábio Gelape Faleiro</span>
+</div>
+
+<div class="container-img"> 
+
+  ![Cultivares de maracujazeiro ornamental](/img/docs/33_maracujazeiro_ornamental/FOTO_05.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Fábio Gelape Faleiro</span>
+  <div className="legenda-foto">Cultivares de maracujazeiro ornamental.</div>
 </div>

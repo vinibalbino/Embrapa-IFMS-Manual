@@ -99,7 +99,7 @@ técnico ou engenheiro-agrônomo.
 
 [Dia de campo na TV - Compostagem manejo e utilização na agricultura orgânica](https://youtu.be/dp8L1yTK2-k)
 
-### Publicação
+### Publicações
 
 [Instruções práticas para produção de composto orgânico em pequenas propriedades](https://bit.ly/33cpgJO)
 
@@ -107,21 +107,42 @@ técnico ou engenheiro-agrônomo.
 
 [Fertilidade do solo e nutrição de plantas](https://bit.ly/2Y9s0XN)
 
-### Instituição
 
-**Embrapa Agropecuária Oeste**
+<div className="container-instituicoes">
 
-https://www.embrapa.br/agropecuaria-oeste
+### Instituições
 
-Fone: (67) 3416-9700
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
+</div>
 
-Dourados, MS
+### Fotos 
 
-![Modelo esquemático de pilha de compostagem com camadas alternadas de diferentes resíduos](/img/docs/21_compostagem/FOTO_01_COM_LEGENDA.jpg)
+<div class="container-img"> 
 
-Ilustração: Ivo de Sá Motta
+  ![Modelo esquemático de pilha de compostagem com camadas alternadas de diferentes resíduos](/img/docs/21_compostagem/FOTO_01_COM_LEGENDA.jpg)
 
-![Tabela Composição aproximada de alguns materiais empregados no preparo do composto (resultados em material seco a 110 °C)](/img/docs/21_compostagem/FOTO_02.jpg)
+  <span class="legenda-foto-fonte">Ilustração: Ivo de Sá Motta</span>
+</div>
+
+<div class="container-img"> 
+
+  ![Tabela Composição aproximada de alguns materiais empregados no preparo do composto (resultados em material seco a 110 °C)](/img/docs/21_compostagem/FOTO_02.jpg)
+
+</div>
 
 ### Referência
 

@@ -58,7 +58,7 @@ neste caso, não existe um espaçamento definido. Antes do plantio
 deve-se roçar a vegetação de pequeno porte e, posteriormente,
 podar as erveiras nativas existentes a 1 metro de altura do solo,
 para conduzir e limitar seu crescimento, facilitando futuras
-colheitas. Após demarcação do local de plantio das mudas, devese abrir covas grandes (30 cm x 30 cm), sendo recomendável a
+colheitas. Após demarcação do local de plantio das mudas, deve-se abrir covas grandes (30 cm x 30 cm), sendo recomendável a
 adubação orgânica.
 
 Para o cultivo em sistemas agroflorestais não existe ainda
@@ -80,15 +80,13 @@ ou mesmo os adubos verdes, sejam cultivados primeiro,
 fornecendo sombra para o desenvolvimento inicial das árvores e
 da erva-mate.
 
-### Características desejáveis das espécies arbóreas
-
-para sombreamento da erva-mate
+### Características desejáveis das espécies arbóreas para sombreamento da erva-mate
 
 Alguns aspectos devem ser levados em consideração, como por
 exemplo: preferir espécies de crescimento rápido, com pequena
 ramificação; copas altas e ralas também são preferidas, pois
 diminuem a necessidade de manejo, como a poda de galhos,
-para regular a luminosidade ou entrada de luz no sistema. Devese preferir espécies arbóreas leguminosas fixadoras de
+para regular a luminosidade ou entrada de luz no sistema. Deve-se preferir espécies arbóreas leguminosas fixadoras de
 nitrogênio, pois favorecem o desenvolvimento das espécies
 consorciadas, além daquelas espécies que forneçam frutos com
 valor alimentício, que podem ser consumidos na propriedade ou
@@ -99,9 +97,7 @@ para a qualidade do fuste da espécie. Espécies com dominância
 apical, com fuste retilíneo ou poucas ramificações, possuem
 melhor qualidade e valor de sua madeira.
 
-### Produção de mudas e cuidados iniciais no plantio da
-
-erva-mate
+### Produção de mudas e cuidados iniciais no plantio da erva-mate
 
 A escolha de mudas de qualidade é fundamental para o sucesso
 do erval. A qualidade está ligada ao vigor da muda e,
@@ -157,7 +153,7 @@ para esta prática, é comum realizar duas podas no período de 2 a
 3 anos após o plantio, cortando galhos finos, entrelaçados ou
 tortos e eliminando ou reconduzindo os galhos internos. Deve-se
 realizar a poda de formação quando o caule alcançar espessura
-maior que 2 cm e a casca estiver madura – com cor marromacinzentada, a cerca de 15 cm a 20 cm do solo. Podas, no
+maior que 2 cm e a casca estiver madura – com cor marrom-acinzentada, a cerca de 15 cm a 20 cm do solo. Podas, no
 primeiro ano de campo, devem ser realizadas somente em
 plantas com bom desenvolvimento, e que apresentem tecido
 maduro na base de sua haste principal. Não é a idade da muda
@@ -196,39 +192,54 @@ ramo com folhas.
 
 [Experiências bem-sucedidas de sistemas agroflorestais (SAF)](https://bit.ly/3bzT0n0)
 
-### Publicação
+### Publicações
 
 GIEHL. A. L.; SILVA, P. R. da; TSURUMAKI, O. L. **Erva-mate**:
 orientações para plantio e condução de ervais. 28p. Campo
 Grande: AGRAER / SEPROTUR. 2007.
 
-### Instituição
+<div className="container-instituicoes">
 
-Embrapa Agropecuária Oeste
+### Instituições
 
-http://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Muda de erva mate com sistema radicular bem formado (A) e com “cachimbamento” (B)](/img/docs/15_cultivo_erva_mate/FOTO_01.jpg)
-
-Foto: Eny Duboc
-
-<div className="center-textImage">
-Muda de erva mate com sistema radicular bem formado (A)
-e com “cachimbamento” (B). 
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![](/img/docs/15_cultivo_erva_mate/FOTO_02.jpg)
+### Fotos 
 
-![Arquitetura de copa desejada em erveira comercial em fase de produção. As setas vermelhas indicam os ramos bandeira e as setas azuis os galhos que devem ser podados na temporada seguinte](/img/docs/15_cultivo_erva_mate/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Eny Duboc
+  ![Muda de erva mate com sistema radicular bem formado (A) e com “cachimbamento” (B)](/img/docs/15_cultivo_erva_mate/FOTO_01.jpg)
 
-<div className="center-textImage">
-Arquitetura de copa desejada em erveira comercial em fase de produção.
-As setas vermelhas indicam os ramos bandeira e as setas azuis
-os galhos que devem ser podados na temporada seguinte.
+  <span class="legenda-foto-fonte">Foto: Eny Duboc</span>
+  <div className="legenda-foto">Muda de erva mate com sistema radicular bem formado (A) e com “cachimbamento” (B). </div>
+</div>
+
+<div class="container-img"> 
+
+  ![](/img/docs/15_cultivo_erva_mate/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eny Duboc</span>
+</div>
+
+<div class="container-img"> 
+
+  ![Arquitetura de copa desejada em erveira comercial em fase de produção. As setas vermelhas indicam os ramos bandeira e as setas azuis os galhos que devem ser podados na temporada seguinte](/img/docs/15_cultivo_erva_mate/FOTO_03.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eny Duboc</span>
+  <div className="legenda-foto">Arquitetura de copa desejada em erveira comercial em fase de produção. As setas vermelhas indicam os ramos bandeira e as setas azuis os galhos que devem ser podados na temporada seguinte. </div>
 </div>

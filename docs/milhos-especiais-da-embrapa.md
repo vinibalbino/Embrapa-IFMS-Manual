@@ -47,7 +47,7 @@ Como cultivares especiais também incluem-se o minimilho, a
 variedade **BRS 4104** – milho biofortificado (rico em pró-vitamina
 A) e os híbridos especiais: **BRS 3046** para milho verde e silagem
 e BR 2121 QPM, com alto teor de lisina e triptofano (hoje sem
-semente disponível no mercado). AEmbrapa tem disponibilizado
+semente disponível no mercado). A Embrapa tem disponibilizado
 pequenas quantidades de semente para testes.
 
 ## **2. Benefícios e/ou vantagens**
@@ -94,50 +94,47 @@ disponíveis na propriedade, como estercos ou compostagens e
 também a tradicional adubação verde com leguminosas.
 
 No plantio dos milhos especiais também se recomenda o uso dos
-inoculantes Azospirillum brasilense e BiomaPhos (solubilizador
-de fósforo), a utilização do controle biológico (Baculovirus
-spodoptera), contra a lagarta-do-cartucho, e o uso do capimbraquiária para produção de palhada durante e após a colheita
+inoculantes <em>Azospirillum brasilense</em> e BiomaPhos (solubilizador
+de fósforo), a utilização do controle biológico (<em>Baculovirus
+spodoptera</em>), contra a lagarta-do-cartucho, e o uso do capimbra-quiária para produção de palhada durante e após a colheita
 do milho.
 
 Durante a colheita das variedades "para uso como semente
 própria", recomenda-se:
 
-a) Entre as plantas mais produtivas e sadias, selecionar
+
+<ol type="a">
+  <li>Entre as plantas mais produtivas e sadias, selecionar
 aquelas com melhores espigas, com bom peso, formato
 cilíndrico, maior número de fileiras de grãos, maior
 comprimento e ausência de deformidades e de doenças
-nos grãos
-
-b) Colher as espigas com melhor empalhamento, bem
+nos grãos</li>
+  <li>Colher as espigas com melhor empalhamento, bem
 protegidas pela palha, para menor incidência de insetos,
 principalmente caruncho e traça. Dar preferência às
 espigas viradas para baixo (decumbentes), o que evita
-podridões pela entrada de água das chuvas.
-
-c) Realizar a colheita precocemente, iniciando quando a
+podridões pela entrada de água das chuvas.</li>
+  <li>Realizar a colheita precocemente, iniciando quando a
 palha da espiga estiver branca, as folhas ainda
 esverdeadas e o grão com a camada preta já formada.
 Neste ponto, a semente apresenta alto vigor e germinação
-e a incidência de doenças e pragas é baixa.
-
-d) Secar as espigas selecionadas ao sol durante cerca de
-2 semanas, até que a semente esteja bem seca.
-
-e) Para manter a variedade, coletar sementes de 50 espigas
+e a incidência de doenças e pragas é baixa.</li>
+  <li>Secar as espigas selecionadas ao sol durante cerca de
+2 semanas, até que a semente esteja bem seca.</li>
+  <li>Para manter a variedade, coletar sementes de 50 espigas
 selecionadas, no mínimo, para evitar endogamia (indivíduos
-aparentados) e a consequente perda de vigor e produtividade nas próximas gerações.
-
-f) Para inibir e diminuir o risco de proliferação de insetos, a
+aparentados) e a consequente perda de vigor e produtividade nas próximas gerações.</li>
+  <li>Para inibir e diminuir o risco de proliferação de insetos, a
 semente pode ser tratada com o pó inerte chamado terra de
 diatomácea, produto natural à base de sílica que provoca
-dessecação e morte dos insetos por desidratação.
-
-g) Armazenar as sementes em local fresco, arejado e seco, e
-livre do contato com insetos e roedores.
+dessecação e morte dos insetos por desidratação.</li>
+  <li>Armazenar as sementes em local fresco, arejado e seco, e
+livre do contato com insetos e roedores.</li>
+</ol>
 
 ## **4. Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Milho doce BRS Vivi](http://agrocinco.com.br/categorias/milho)
 
@@ -155,50 +152,73 @@ livre do contato com insetos e roedores.
 
 [Inoculante inédito no mercado brasileiro será apresentado hoje na Embrapa](https://bit.ly/2DpJqDV)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Milho e Sorgo**
+### Instituições
 
-http://www.embrapa.br/milho-e-sorgo
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Milho e Sorgo
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.embrapa.br/milho-e-sorgo" target="_blank"> http://www.embrapa.br/milho-e-sorgo</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (31) 3027-1100
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Sete Lagoas, MG
+    </div>    
+  </div>
 
-Fone: (31) 3027-1100
-
-Sete Lagoas, MG
-
-**Embrapa Hortaliças**
-
-https://www.embrapa.br/hortalicas
-
-Fone: (61) 3385-9000
-
-Brasília, DF
-
-![Milho QPM BR 473 amarelo](/img/docs/10_milhos_especiais/FOTO_01.jpg)
-
-Foto: Embrapa Milho e Sorgo
-
-<div className="center-textImage">
-Milho QPM BR 473 amarelo
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Hortaliças
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/hortalicas" target="_blank"> https://www.embrapa.br/hortalicas</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (61) 3385-9000
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Brasília, DF
+    </div>    
+  </div>
 </div>
 
-<div className="image-Box">
+### Fotos 
 
-![Espigas de milho-doce](/img/docs/10_milhos_especiais/FOTO_02.jpg)
+<div class="container-img"> 
 
-Foto: Embrapa Milho e Sorgo
+  ![Milho QPM BR 473 amarelo](/img/docs/10_milhos_especiais/FOTO_01.jpg)
 
+  <span class="legenda-foto-fonte">Foto: Embrapa Milho e Sorgo</span>
+  <div className="legenda-foto">Milho QPM BR 473 amarelo.</div>
 </div>
 
-<div className="center-textImage">
-Espigas de milho-doce
+<div class="container-img"> 
+
+  ![Espigas de milho-doce](/img/docs/10_milhos_especiais/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Embrapa Milho e Sorgo</span>
+  <div className="legenda-foto">Espigas de milho-doce.</div>
 </div>
 
-![Milho QPM BR 451 branco](/img/docs/10_milhos_especiais/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Embrapa Milho e Sorgo
+  ![Milho QPM BR 451 branco](/img/docs/10_milhos_especiais/FOTO_03.jpg)
 
-<div className="center-textImage">
-Milho QPM BR 451 branco
+  <span class="legenda-foto-fonte">Foto: Embrapa Milho e Sorgo</span>
+  <div className="legenda-foto">Milho QPM BR 451 branco.</div>
 </div>
 
-![Sementes do milho-pipoca BRS Ângela](/img/docs/10_milhos_especiais/FOTO_04.jpg)
+<div class="container-img"> 
+
+  ![Sementes do milho-pipoca BRS Ângela](/img/docs/10_milhos_especiais/FOTO_04.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Carlos Solano</span>
+  <div className="legenda-foto">Sementes do milho-pipoca BRS Ângela.</div>
+</div>

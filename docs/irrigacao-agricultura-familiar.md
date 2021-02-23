@@ -47,7 +47,7 @@ gotejamento e a microaspersão.
 ### Quando e quanto irrigar?
 
 Estas duas perguntas não podem ser desvinculadas uma da
-outra. Elas sempre “caminham” juntas. Aresposta a elas trata do
+outra. Elas sempre “caminham” juntas. A resposta a elas trata do
 que é chamado de manejo da irrigação, e isso envolve
 planejamento prévio e tomada de decisão com frequência.
 “Quando irrigar” refere-se à definição do momento de iniciar e
@@ -75,52 +75,73 @@ irrigação que está sendo utilizado.
 
 [Manejo de irrigação em hortaliças com Sistema Irrigas](https://bit.ly/2rS5xRk)
 
+<div className="container-instituicoes">
+
 ### Instituições
 
-**Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.agraer.ms.gov.br/" target="_blank"> http://www.agraer.ms.gov.br/</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3318-5100
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campo Grande, MS
+    </div>    
+  </div>
 
-http://www.agraer.ms.gov.br/
-
-Fone: (67) 3318-5100
-
-Campo Grande, MS
-
-**Embrapa Agropecuária Oeste**
-
-https://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Irrigação por gotejamento em alface](/img/docs/30_irrigacao/FOTO_01.jpg)
-
-Foto: Luciano Oliveira Geisenhof
-
-<div className="center-textImage">
-Irrigação por gotejamento em alface
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![Bulbo molhado na irrigação por gotejamento](/img/docs/30_irrigacao/FOTO_02.jpg)
+### Fotos 
 
-Foto: Luciano Oliveira Geisenhof
+<div class="container-img"> 
 
-<div className="center-textImage">
-Bulbo molhado na irrigação por gotejamento
+  ![Irrigação por gotejamento em alface](/img/docs/30_irrigacao/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhof</span>
+  <div className="legenda-foto">Irrigação por gotejamento em alface.</div>
 </div>
 
-![Irrigação por aspersão em hortaliças](/img/docs/30_irrigacao/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Luciano Oliveira Geisenhof
+  ![Bulbo molhado na irrigação por gotejamento](/img/docs/30_irrigacao/FOTO_02.jpg)
 
-<div className="center-textImage">
-Irrigação por aspersão em hortaliças
+  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhof</span>
+  <div className="legenda-foto">Bulbo molhado na irrigação por gotejamento.</div>
 </div>
 
-![Irrigação por microaspersão em bananeiras](/img/docs/30_irrigacao/FOTO_04.jpg)
+<div class="container-img"> 
 
-Foto: Luciano Oliveira Geisenhof
+  ![Irrigação por aspersão em hortaliças](/img/docs/30_irrigacao/FOTO_03.jpg)
 
-<div className="center-textImage">
-Irrigação por microaspersão em bananeiras
+  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhof</span>
+  <div className="legenda-foto">Irrigação por aspersão em hortaliças.</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Irrigação por microaspersão em bananeiras](/img/docs/30_irrigacao/FOTO_04.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhof</span>
+  <div className="legenda-foto">Irrigação por microaspersão em bananeiras.</div>
 </div>

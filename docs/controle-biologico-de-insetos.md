@@ -55,8 +55,8 @@ quantidade em laboratórios. Normalmente, são de empresas
 especializadas na criação e comercialização, sendo então
 liberados para o controle da praga alvo (ex.: o parasitoide _Cotesia
 flavipes_ para o controle da broca-da-cana; _Trichogramma
-pretiosum_ para a traça do tomateiro e a falsa-medideira). Podese, ainda, realizar pulverizações com fungos, vírus, etc. (ex.:
-_Metarhizium anisopliae_ para controle de cigarrinha na cana-deaçúcar; _Baculovirus anticarsia_ para a lagarta da soja, _Anticarsia
+pretiosum_ para a traça do tomateiro e a falsa-medideira). Pode-se, ainda, realizar pulverizações com fungos, vírus, etc. (ex.:
+_Metarhizium anisopliae_ para controle de cigarrinha na cana-de-açúcar; _Baculovirus anticarsia_ para a lagarta da soja, _Anticarsia
 gemmatalis_, etc.).
 
 É importante destacar que, para se ter essas vantagens quando
@@ -71,7 +71,7 @@ e épocas de liberação.
 
 [Aplicativo Guia InNat](https://bit.ly/2DqGVBi)
 
-### Publicação
+### Publicações
 
 [Amigo oculto do agricultor](https://bit.ly/2XZbWFN)
 
@@ -83,42 +83,49 @@ e épocas de liberação.
 
 [Prosa Rural: Benefícios do controle biológico de pragas](https://bit.ly/2sitZei)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-https://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Trichogramma galloi parasitando ovos da broca-da-cana](/img/docs/18_controle_insetos/FOTO_01.jpg)
-
-Foto: Harley Nonato de Oliveira
-
-<div className="center-textImage">
-
-_Trichogramma galloi_ parasitando ovos da broca-da-cana
-
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![Cotesia flavipes parasitando lagarta da broca-da-cana](/img/docs/18_controle_insetos/FOTO_02.jpg)
+### Fotos 
 
-Foto: Harley Nonato de Oliveira
+<div class="container-img"> 
 
-<div className="center-textImage">
+  ![Trichogramma galloi parasitando ovos da broca-da-cana](/img/docs/18_controle_insetos/FOTO_01.jpg)
 
-_Cotesia flavipes_ parasitando lagarta da broca-da-cana
-
+  <span class="legenda-foto-fonte">Foto: Harley Nonato de Oliveira</span>
+  <div className="legenda-foto"><em>Trichogramma galloi</em> parasitando ovos da broca-da-cana.</div>
 </div>
 
-![Percevejo Podisus nigrispinus predando lagarta falsa-medideira](/img/docs/18_controle_insetos/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Harley Nonato de Oliveira
+  ![Cotesia flavipes parasitando lagarta da broca-da-cana](/img/docs/18_controle_insetos/FOTO_02.jpg)
 
-<div className="center-textImage">
+  <span class="legenda-foto-fonte">Foto: Harley Nonato de Oliveira</span>
+  <div className="legenda-foto"><em>Cotesia flavipes</em> parasitando lagarta da broca-da-cana.</div>
+</div>
 
-Percevejo _Podisus nigrispinus_ predando lagarta falsa-medideira
+<div class="container-img"> 
 
+  ![Percevejo Podisus nigrispinus predando lagarta falsa-medideira](/img/docs/18_controle_insetos/FOTO_03.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Harley Nonato de Oliveira</span>
+  <div className="legenda-foto">Percevejo <em>Podisus nigrispinus</em> predando lagarta falsa-medideira.</div>
 </div>

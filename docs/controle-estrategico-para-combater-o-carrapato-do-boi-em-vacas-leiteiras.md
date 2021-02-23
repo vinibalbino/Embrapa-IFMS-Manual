@@ -145,28 +145,41 @@ https://bit.ly/2Hn69CB
 
 [Carrapatos (Acari: Ixodidae) associados ao ambiente em Campo Grande, Mato Grosso do Sul](https://bit.ly/31Sza2c)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Gado de Corte**
+### Instituições
 
-http://www.embrapa.br/gado-de-corte
-
-Fone: (67) 3368-2000
-
-Campo Grande, MS
-
-![Capim com aglomerados de larvas à espera dos bovinos](/img/docs/37_controle_carrapato/FOTO_01.jpg)
-
-Foto: Marcos Valério Garcia
-
-<div class="center-textImage">
-Capim com aglomerados de larvas à espera dos bovinos
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Gado de Corte
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.embrapa.br/gado-de-corte" target="_blank"> http://www.embrapa.br/gado-de-corte</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3368-2000
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campo Grande, MS
+    </div>    
+  </div>
 </div>
 
-![Ciclo de vida do carrapato-do-boi](/img/docs/37_controle_carrapato/FOTO_02.jpg)
+### Fotos 
 
-Foto: Renato Andreotti
+<div class="container-img"> 
 
-<div class="center-textImage">
-Ciclo de vida do carrapato-do-boi
+  ![Capim com aglomerados de larvas à espera dos bovinos](/img/docs/37_controle_carrapato/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Marcos Valério Garcia</span>
+  <div className="legenda-foto">Capim com aglomerados de larvas à espera dos bovinos.</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Ciclo de vida do carrapato-do-boi](/img/docs/37_controle_carrapato/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Renato Andreotti</span>
+  <div className="legenda-foto">Ciclo de vida do carrapato-do-boi.</div>
 </div>

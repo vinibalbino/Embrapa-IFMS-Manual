@@ -133,7 +133,7 @@ germinar. Por exemplo: germinaram 60 sementes das 100
 semeadas, então 60% é a porcentagem de germinação obtida.
 Este cálculo deverá ser feito para cada espécie. Algumas espécies
 possuem dormência, ou seja, demoram muito para germinar,
-mesmo em condições adequadas; como é o caso do amendoimbravo, da canafístula, da farinha seca, do guapuruvu e do jatobá.
+mesmo em condições adequadas; como é o caso do amendoim-bravo, da canafístula, da farinha seca, do guapuruvu e do jatobá.
 Para quebrar a dormência, as sementes grandes podem ser
 lixadas ou, como as demais, podem ser imersas em água no início
 do ponto de fervura (água para chimarrão), e permanecer no
@@ -152,7 +152,7 @@ germinação? Neste caso deve-se multiplicar o número de
 árvores desejado por 100; o resultado alcançado deverá ser
 dividido pelo percentual de germinação das sementes e, por
 último, multiplicado pelo fator de correção (15 x 100 = 1.500;
-1.500 ÷ 60 = 25 e, finalmente 25 x 20 = 500). Desse modo, devese semear 500 sementes de jatobá para obter as 15 árvores.
+1.500 ÷ 60 = 25 e, finalmente 25 x 20 = 500). Desse modo, deve se semear 500 sementes de jatobá para obter as 15 árvores.
 Depois de separada a quantidade necessária de sementes de
 todas as espécies, elas devem ser agrupadas por semelhança no
 tamanho e formato.
@@ -174,7 +174,7 @@ muito grandes poderão ser semeadas a lanço, ou com nova
 adaptação dos implementos. Também pode ser feito o plantio
 futuro de bananas, mandioca e abacaxi, por exemplo.
 
-Asemeadura também pode ser manual, em linha, em covas ou a
+A semeadura também pode ser manual, em linha, em covas ou a
 lanço em área total. Neste caso, a semeadura das sementes
 menores e mais leves pode ser simultânea à das sementes
 grandes. O sucesso da semeadura direta depende da escolha e
@@ -193,34 +193,47 @@ cortadeiras).
 
 [Plantio Mecanizado de Florestas – Parte 3](https://bit.ly/2rwLTd0)
 
-### Publicação
+### Publicações
 
 [Resolução SEMADE nº 28 de 22/03/2016](https://bit.ly/34zScva)
 
 [Guia do Programa de Regularização Ambiental (PRA) de Mato Grosso do Sul](https://bit.ly/37JiT2h)
 
-### Instituição
+<div className="container-instituicoes">
 
-Embrapa Agropecuária Oeste
+### Instituições
 
-http://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Biomas existentes no estado de Mato Grosso do Sul](/img/docs/16_semeadura-arboreas/FOTO_01.jpg)
-
-Ilustração: Eny Duboc
-
-<div className="center-textImage">
-Biomas existentes no estado de Mato Grosso do Sul
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![Muvuca de sementes](/img/docs/16_semeadura-arboreas/FOTO_02.jpg)
+### Fotos 
 
-Foto: Eny Duboc
+<div class="container-img"> 
 
-<div className="center-textImage">
-Muvuca de sementes
+  ![Biomas existentes no estado de Mato Grosso do Sul](/img/docs/16_semeadura-arboreas/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Ilustração: Eny Duboc</span>
+  <div className="legenda-foto">Biomas existentes no estado de Mato Grosso do Sul.</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Muvuca de sementes](/img/docs/16_semeadura-arboreas/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eny Duboc</span>
+  <div className="legenda-foto">Muvuca de sementes.</div>
 </div>

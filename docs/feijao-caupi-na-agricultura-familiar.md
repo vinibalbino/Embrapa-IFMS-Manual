@@ -8,7 +8,7 @@ sidebar_label: Feijão-Caupi na Agricultura Familiar
 
 ## **1. O que é**
 
-O feijão-caupi (Vigna unguiculata) é uma leguminosa também
+O feijão-caupi (<em>Vigna unguiculata</em>) é uma leguminosa também
 conhecida como feijão-de-corda, feijão-catador, feijão-fradinho,
 dentre outros. É tradicional na agricultura familiar nas regiões
 Norte e Nordeste do Brasil, sendo cultivado também em
@@ -50,13 +50,13 @@ festas juninas.
 
 ### Espaçamento entre linhas
 
-1. 80 cm a 100 cm: espaçamentos maiores devem ser preferidos
+a) 80 cm a 100 cm: espaçamentos maiores devem ser preferidos
    quando o feijão for destinado para colheita de vagem-verde,
    tendo em vista que as vagens são produzidas nas pontas dos
    ramos. Isso proporciona vagens maiores e fácil trânsito entre
    as linhas para colheita e, devido às várias floradas do feijãocaupi.
 
-2. 50 cm a 60 cm: espaçamentos menores são preferidos para
+b) 50 cm a 60 cm: espaçamentos menores são preferidos para
    colheita mecanizada de grãos secos, pois proporcionam
    floração mais uniforme, possibilitando uma só colheita.
 
@@ -65,9 +65,9 @@ festas juninas.
 São indicadas de seis a oito plantas por metro quadrado, sendo
 as menores populações utilizadas para colheita de vagem-verde
 e as maiores populações para colheita de grãos secos. Nos
-espaçamentos de 50 cm a 60 cm entre linhas utilizar 4 a 5 plantas
+espaçamentos de 50 cm a 60 cm entre linhas utilizar quatro a cinco plantas
 por metro, e nos espaçamentos de 80 cm a 100 cm entre linhas
-utilizar 6 a 8 plantas por metro, o que equivale a aproximadamente 40 quilogramas de sementes por hectare.
+utilizar seis a oito plantas por metro, o que equivale a aproximadamente 40 quilogramas de sementes por hectare.
 
 ### Cultivares
 
@@ -94,44 +94,55 @@ qualidade de grãos, respectivamente.
 
 ## **4. Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Feijão-caupi](https://www.embrapa.br/feijao-caupi)
 
 [Produtividade e viabilidade econômica de feijão-caupi em Mato Grosso do Sul](https://bit.ly/2S1JMsd)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-https://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Cultivo de feijão-caupi por agricultor (Daniel da Silva) da região de Dourados, MS](/img/docs/09_feijao_caupi/FOTO_01.jpg)
-Foto: Gessí Ceccon
-
-<div className="center-textImage">
-Cultivo de feijão-caupi por
-agricultor (Daniel da Silva)
-da região de Dourados, MS.
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![Vagens de feijão-caupi em ponto de comercialização para consumo de grãos verdes](/img/docs/09_feijao_caupi/FOTO_02.jpg)
-Foto: Gessí Ceccon
+### Fotos 
 
-<div className="center-textImage">
-Vagens de feijão-caupi em
-ponto de comercialização para
-consumo de grãos verdes.
+<div class="container-img"> 
+
+  ![Cultivo de feijão-caupi por agricultor (Daniel da Silva) da região de Dourados, MS](/img/docs/09_feijao_caupi/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Gessí Ceccon</span>
+  <div className="legenda-foto">Cultivo de feijão-caupi por agricultor (Daniel da Silva) da região de Dourados, MS.</div>
 </div>
 
-![Grãos de feijão-caupi para comercialização em feira municipal](/img/docs/09_feijao_caupi/FOTO_03.jpg)
-Foto: Gessí Ceccon
+<div class="container-img"> 
 
-<div className="center-textImage">
-Grãos de feijão-caupi para comercialização
-em feira municipal
+  ![Vagens de feijão-caupi em ponto de comercialização para consumo de grãos verdes](/img/docs/09_feijao_caupi/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Gessí Ceccon</span>
+  <div className="legenda-foto">Vagens de feijão-caupi em ponto de comercialização para consumo de grãos verdes.</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Grãos de feijão-caupi para comercialização em feira municipal](/img/docs/09_feijao_caupi/FOTO_03.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Gessí Ceccon</span>
+  <div className="legenda-foto">Grãos de feijão-caupi para comercialização em feira municipal.</div>
 </div>

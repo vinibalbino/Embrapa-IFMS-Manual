@@ -24,7 +24,7 @@ no cocho.
 
 ## **2. Benefícios e/ou vantagens**
 
-- ABRS Kurumi apresenta 18% a 20% de proteína bruta e 68%
+- A BRS Kurumi apresenta 18% a 20% de proteína bruta e 68%
   a 70% de coeficiente de digestibilidade nas folhas, que é a
   parte consumida pelos animais. Em função do elevado teor de
   proteína do capim é imprescindível o fornecimento de
@@ -93,7 +93,7 @@ para ter oferta de alimento o ano todo.
 
 ## **4. Onde obter mais informações**
 
-### Vídeo
+### Vídeos
 
 [Capins para gado leiteiro, BRS Kurumi e BRS Capiaçu – Pastagem](https://bit.ly/2YOFLcz)
 
@@ -101,7 +101,7 @@ para ter oferta de alimento o ano todo.
 
 [BRS Capiaçu: cultivar de capim-elefante voltada para a silagem – Programa Terra Sul](https://bit.ly/38zg9Vv)
 
-### Publicação
+### Publicações
 
 [Informações sobre a cultivar de capim-elefante BRS Kurumi](https://bit.ly/3clkJIU)
 
@@ -115,41 +115,57 @@ para ter oferta de alimento o ano todo.
 
 [Capim-elefante – BRS Kurumi](https://bit.ly/2EgJ4Qh)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Gado de Leite**
+### Instituições
 
-https://www.embrapa.br/gado-de-leite
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Gado de Leite
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/gado-de-leite" target="_blank"> https://www.embrapa.br/gado-de-leite</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (32) 3311-7405
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Juiz de Fora, MG
+    </div>    
+  </div>
 
-Fone: (32) 3311-7405
-
-Juiz de Fora, MG
-
-**Embrapa Agropecuária Oeste**
-
-http://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![BRS Kurumi com 80 cm de altura, ponto ideal para pastejo, com elevada proporção de folhas.](/img/docs/04_capins/FOTO_01.jpg)
-Foto: Marciana Retore
-
-<div className="center-textImage">
-BRS Kurumi com 80 cm de altura,
-ponto ideal para pastejo,
-com elevada proporção de folhas.
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-<div className="image-Box">
+### Fotos 
 
-![BRS Capiaçu, com rebrota de 50 dias](/img/docs/04_capins/FOTO_02.jpg)
+<div class="container-img"> 
 
-Foto: Marciana Retore
+  ![BRS Kurumi com 80 cm de altura, ponto ideal para pastejo, com elevada proporção de folhas.](/img/docs/04_capins/FOTO_01.jpg)
 
+  <span class="legenda-foto-fonte">Foto: Marciana Retore</span>
+  <div className="legenda-foto">BRS Kurumi com 80 cm de altura, ponto ideal para pastejo,com elevada proporção de folhas.</div>
 </div>
 
-<div className="center-textImage">
-BRS Capiaçu, com rebrota de 50 dias
+<div class="container-img"> 
+
+  ![BRS Capiaçu, com rebrota de 50 dias](/img/docs/04_capins/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Marciana Retore</span>
+  <div className="legenda-foto">BRS Capiaçu, com rebrota de 50 dias.</div>
 </div>
