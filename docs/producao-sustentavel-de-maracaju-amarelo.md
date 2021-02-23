@@ -76,7 +76,7 @@ consórcio com gramíneas (milheto, aveia, braquiárias).
 Para o ótimo crescimento, desenvolvimento e produção do
 maracujazeiro, inicialmente é necessário coletar e analisar
 amostras de solo, para recomendação de calagem, gessagem e
-adubação. Para o atendimento das exigências da planta, devese realizar a adubação orgânica-mineral de plantio e de
+adubação. Para o atendimento das exigências da planta, deve-se realizar a adubação orgânica-mineral de plantio e de
 manutenção. Durante o ciclo da cultura poderá ser adotada
 também adubação foliar, por meio de biofertilizantes
 enriquecidos com micronutrientes.
@@ -109,7 +109,7 @@ a semeadura (DAS) e no saco plástico até 150 DAS.
 
 Por questões de segurança fitossanitária, sugere-se a renovação
 anual das plantas de maracujazeiro. O sistema de sustentação,
-constituído pelos palanques de eucalipto tratado e fio de arame liso é mantido. Asemeadura das mudas no viveiro deverá ocorrer
+constituído pelos palanques de eucalipto tratado e fio de arame liso é mantido. A semeadura das mudas no viveiro deverá ocorrer
 de início de março até final de maio (mudas poderão ser
 transplantadas com 60 dias a 150 dias de idade). O transplantio
 das mudas no campo deverá ser realizado de agosto até no

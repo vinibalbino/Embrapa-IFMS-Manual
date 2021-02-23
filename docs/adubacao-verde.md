@@ -79,7 +79,8 @@ Os adubos verdes são agrupados de acordo com a época do ano
 que podem ser semeados. Assim, tem-se a adubação verde de
 primavera/verão e adubação verde de outono/inverno.
 
-**a)** Adubação verde de primavera/verão: a semeadura vai de
+<ol type="a">
+  <li>Adubação verde de primavera/verão: a semeadura vai de
 setembro/outubro até janeiro/fevereiro. As espécies mais
 utilizadas são as crotalárias, mucunas, guandus, feijão-deporco, feijão-caupi, feijão-bravo-do-ceará, lablab, milheto
 e sorgo, dentre outros. O plantio, nesse período, propicia
@@ -91,12 +92,13 @@ ideal (outubro a novembro), pode haver competição com a
 cultura comercial. Nesse caso, a adubação verde é mais
 utilizada em solos degradados, que necessitam de
 recuperação ou em sistema de consórcio com algumas
-culturas, como a crotalária-juncea com milho.
-
-**b)** Adubação verde de outono/inverno: nesse caso, o plantio
+culturas, como a crotalária-juncea com milho.</li>
+  <li>Adubação verde de outono/inverno: nesse caso, o plantio
 ocorre a partir de março, podendo estender-se até junho.
-As espécies mais conhecidas são as aveias, naboforrageiro, tremoço-branco, ervilhaca, ervilhaca-peluda,
-centeio e azevém.
+As espécies mais conhecidas são as aveias, nabo-forrageiro, tremoço-branco, ervilhaca, ervilhaca-peluda,
+centeio e azevém.</li>
+</ol>
+
 
 ### Ciclo das espécies
 
@@ -117,41 +119,37 @@ Há várias maneiras de se cultivar os adubos verdes, que podem
 servir para a cobertura do solo ou, ocasionalmente, para
 alimentação animal ou humana:
 
-a) No cultivo exclusivo, o adubo verde pode ser semeado
+<ol type="a">
+  <li>No cultivo exclusivo, o adubo verde pode ser semeado
 como cultura solteira, em rotação ou sucessão com
-culturas anuais (por ex.: arroz, feijão, soja, trigo).
-
-b) Em rotação com hortaliças e algumas frutíferas rasteiras
-(morango, melancia, melão).
-
-c) Na reforma de pastagens degradadas e em áreas para
-reforma com cana-de-açúcar.
-
-d) No consórcio ou cultivo intercalar com culturas anuais,
+culturas anuais (por ex.: arroz, feijão, soja, trigo).</li>
+  <li>Em rotação com hortaliças e algumas frutíferas rasteiras
+(morango, melancia, melão).</li>
+  <li>Na reforma de pastagens degradadas e em áreas para
+reforma com cana-de-açúcar.</li>
+  <li>No consórcio ou cultivo intercalar com culturas anuais,
 onde, por exemplo, pode-se usar a mucuna com milho no
 verão, sendo a mucuna semeada no estágio de floração
 ou grão leitoso do milho. Para o milho safrinha, a partir da
 sua floração, pode-se semear um adubo verde de
 inverno, como, por exemplo, a aveia-preta, a ervilhaca ou
 o nabo-forrageiro. Outra opção, amplamente utilizada, é o
-consórcio do milho safrinha com braquiária, produzindose grãos e palha de milho e palha ou pasto da braquiária.
-
-e) No consórcio ou cultivo intercalar com culturas perenes,
+consórcio do milho safrinha com braquiária, produzindose grãos e palha de milho e palha ou pasto da braquiária.</li>
+  <li>No consórcio ou cultivo intercalar com culturas perenes,
 como cafeeiro, seringueira, citros e outras frutíferas, que
 pode ser feito em todas as ruas ou em ruas alternadas.
 Pode, também, ser realizada a rotação de espécies de
 adubos verdes ao longo dos anos, com leguminosa em
-um ano e gramínea em outro.
-
-f) No cultivo em faixas ou aleias, como em mandioca e em
-pastagens.
-
-g) Nas misturas ou coquetéis, onde são semeadas duas ou
-mais espécies de adubos verdes em conjunto.
+um ano e gramínea em outro.</li>
+  <li>No cultivo em faixas ou aleias, como em mandioca e em
+pastagens.</li>
+  <li>Nas misturas ou coquetéis, onde são semeadas duas ou
+mais espécies de adubos verdes em conjunto.</li>
+</ol>
 
 ## **4. Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Adubação verde](https://bit.ly/37fYWj3)
 
@@ -159,52 +157,67 @@ mais espécies de adubos verdes em conjunto.
 
 [Bancos comunitários de sementes de adubos verdes – informações técnicas](https://bit.ly/3axCgNl)
 
-### Instituição
+<div className="container-instituicoes">
 
-Embrapa Agropecuária Oeste
+### Instituições
 
-https://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Mucuna-preta](/img/docs/13_adubacao/FOTO_01.jpg)
-
-Foto: José Aparecido Donizeti Carlos
-
-<div className="center-textImage">
-Mucuna-preta
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![Guandu-forrageiro](/img/docs/13_adubacao/FOTO_02.jpg)
+### Fotos 
 
-Foto: José Aparecido Donizeti Carlos
+<div class="container-img"> 
 
-<div className="center-textImage">
-Guandu-forrageiro
+  ![Mucuna-preta](/img/docs/13_adubacao/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: José Aparecido Donizeti Carlos</span>  
+  <div className="legenda-foto">Mucuna-preta.</div>
 </div>
 
-![Milheto](/img/docs/13_adubacao/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: José Aparecido Donizeti Carlos
+  ![Guandu-forrageiro](/img/docs/13_adubacao/FOTO_02.jpg)
 
-<div className="center-textImage">
-Milheto
+  <span class="legenda-foto-fonte">Foto: José Aparecido Donizeti Carlos</span>  
+  <div className="legenda-foto">Guandu-forrageiro.</div>
 </div>
 
-![Crotalária-spectabilis](/img/docs/13_adubacao/FOTO_04.jpg)
+<div class="container-img"> 
 
-Foto: José Aparecido Donizeti Carlos
+  ![Milheto](/img/docs/13_adubacao/FOTO_03.jpg)
 
-<div className="center-textImage">
-Crotalária-spectabilis
+  <span class="legenda-foto-fonte">Foto: José Aparecido Donizeti Carlos</span>  
+  <div className="legenda-foto">Milheto.</div>
 </div>
 
-![Crotalária-júncea](/img/docs/13_adubacao/FOTO_05.jpg)
+<div class="container-img"> 
 
-Foto: José Aparecido Donizeti Carlos
+  ![Crotalária-spectabilis](/img/docs/13_adubacao/FOTO_04.jpg)
 
-<div className="center-textImage">
-Crotalária-júncea
+  <span class="legenda-foto-fonte">Foto: José Aparecido Donizeti Carlos</span>  
+  <div className="legenda-foto">Crotalária-spectabilis.</div>
 </div>
+
+<div class="container-img"> 
+
+  ![Crotalária-júncea](/img/docs/13_adubacao/FOTO_05.jpg)
+
+  <span class="legenda-foto-fonte">Foto: José Aparecido Donizeti Carlos</span>
+  <div className="legenda-foto">Crotalária-júncea.</div>
+</div>
+
+

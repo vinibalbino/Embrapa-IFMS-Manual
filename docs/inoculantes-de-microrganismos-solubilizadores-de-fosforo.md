@@ -69,20 +69,33 @@ para a absorção e assimilação pela planta.
 
 [Embrapa e Bioma lançam primeiro inoculante nacional parafósforo](https://bit.ly/2R0eB0o)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Milho e Sorgo**
+### Instituições
 
-http://www.embrapa.br/milho-e-sorgo
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Milho e Sorgo
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.embrapa.br/milho-e-sorgo" target="_blank"> http://www.embrapa.br/milho-e-sorgo</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (31) 3027-1193
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Sete Lagoas, MG
+    </div>    
+  </div>
+</div>
 
-Fone: (31) 3027-1193
+### Fotos 
 
-Sete Lagoas, MG
+<div class="container-img"> 
 
-![Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho](/img/docs/36_inoculantes/FOTO_01.jpg)
+  ![Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho](/img/docs/36_inoculantes/FOTO_01.jpg)
 
-Ilustração: Christiane Abreu de Oliveira Paiva/Simbiose e Sylvia Morais de Sousa
-
-<div class="center-textImage">
-Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho
+  <span class="legenda-foto-fonte">Ilustração: Christiane Abreu de Oliveira Paiva/Simbiose e Sylvia Morais de Sousa</span>
+  <div className="legenda-foto">Efeito da inoculação ou não de sementes com microrganismos solubilizadores de fósforo no desenvolvimento de raízes de milho.</div>
 </div>

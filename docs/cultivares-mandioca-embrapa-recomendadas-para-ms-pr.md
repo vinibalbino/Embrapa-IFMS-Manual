@@ -86,7 +86,7 @@ de até 60 toneladas por hectare.
 
 [Mandioca BRS CS01](https://youtu.be/uP_QtTeokGw)
 
-### Publicação
+### Publicações
 
 [BRS 396: Nova cultivar de mandioca de mesa, de polpa amarela, para o Paraná e o Mato Grosso do Sul](https://bit.ly/2IJCAMi)
 
@@ -94,44 +94,87 @@ de até 60 toneladas por hectare.
 
 [BRS CS 01 – Nova cultivar de mandioca para os estados do Paraná e Mato Grosso do Sul](https://bit.ly/2wKxM6C)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Mandioca e Fruticultura**
+### Instituições
 
-http://www.embrapa.br/mandioca-e-fruticultura
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Mandioca e Fruticultura
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.embrapa.br/mandioca-e-fruticultura" target="_blank"> http://www.embrapa.br/mandioca-e-fruticultura</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (43) 3371-6241 e 3371-6201
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campo Avançado do Centro-Sul
+    </div>    
+  </div>
 
-Campo Avançado do Centro-Sul
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 
-Tel.: (43) 3371-6241 e 3371-6201
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Cerrados
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.embrapa.br/cerrados" target="_blank"> http://www.embrapa.br/cerrados</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (61) 3388-9898
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Planaltina, DF
+    </div>    
+  </div>
 
-**Embrapa Agropecuária Oeste**
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Associação Técnica das Indústrias de Mandioca do Paraná (Atimop)
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (45) 8405-9678
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Marechal Cândido Rondon, PR
+    </div>    
+  </div>
 
-http://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-**Embrapa Cerrados**
-
-http://www.embrapa.br/cerrados
-
-Fone: (61) 3388-9898
-
-Planaltina, DF
-
-**Associação Técnica das Indústrias de Mandioca do Paraná (Atimop)**
-
-Fone: (45) 8405-9678
-
-Marechal Cândido Rondon, PR
-
-**Universidade Estadual de Maringá (UEM)**
-
-Campus Regional de Diamante do Norte (UEM/CRN)
-
-http://www.crn.uem.br
-
-Fone: (44) 3261-4367
-
-Diamante do Norte, PR
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Universidade Estadual de Maringá (UEM)
+    </div>
+    <div className="campus-instituicao">
+        <span className="negrito">Campus: </span>
+        Campus Regional de Diamante do Norte (UEM/CRN)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.crn.uem.br" target="_blank"> http://www.crn.uem.br</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (44) 3261-4367
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Diamante do Norte, PR
+    </div>    
+  </div>
+</div>

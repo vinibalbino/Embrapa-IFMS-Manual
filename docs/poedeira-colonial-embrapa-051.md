@@ -153,7 +153,7 @@ escolha do melhor local.
 
 ## **4. Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Poedeira Embrapa 051](https://bit.ly/395Jeax)
 
@@ -169,28 +169,58 @@ AVILA, V. S. de; KRABBE, E. L.; CARON, L.; SAATKAMP, M. G.;
 SOARES, J. P. G. **Produção de ovos em sistemas de base
 ecológica**. Concórdia: Embrapa Suínos e Aves, 2017. 32 p.
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Suínos e Aves**
+### Instituições
 
-https://www.embrapa.br/suinos-e-aves
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Algodão
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.embrapa.br/algodao" target="_blank"> http://www.embrapa.br/algodao</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (83) 3182-4300
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campina Grande, PB
+    </div>    
+  </div>
 
-Fone: (49) 3441-0400
-
-Concórdia, SC
-
-![Poedeira Colonial Embrapa 051](/img/docs/23_poedeira/FOTO_01.jpg)
-
-Foto: Levino J. Bassi
-
-<div className="center-textImage">
-Poedeira Colonial Embrapa 051
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Suínos e Aves
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/suinos-e-aves" target="_blank"> https://www.embrapa.br/suinos-e-aves</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (49) 3441-0400
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Concórdia, SC
+    </div>    
+  </div>
 </div>
 
-![Sistema de produção de ovos com rodízio de piquetes](/img/docs/23_poedeira/FOTO_02H.jpg)
+### Fotos 
 
-Ilustração: Amadeu G. Mascelani
+<div class="container-img"> 
 
-<div className="center-textImage">
-Poedeira Colonial Embrapa 051
+  ![Poedeira Colonial Embrapa 051](/img/docs/23_poedeira/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Levino J. Bassi</span>
+  <div className="legenda-foto">Poedeira Colonial Embrapa 051.</div>
 </div>
+
+<div class="container-img"> 
+
+  ![Sistema de produção de ovos com rodízio de piquetes](/img/docs/23_poedeira/FOTO_02H.jpg)
+
+  <span class="legenda-foto-fonte">Ilustração: Amadeu G. Mascelani</span>
+  <div className="legenda-foto">Poedeira Colonial Embrapa 051.</div>
+</div>
+

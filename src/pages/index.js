@@ -32,27 +32,29 @@ function Home() {
           <div className="mensagem">
             <h1>Tecnologias para a Agricultura Familiar</h1>
             <p>
-              4<sup>a</sup> Edição revista e atualizada
+              4<sup>a</sup> edição revista e atualizada
             </p>
           </div>
 
           <a href="docs/integracao-lavoura-pecuaria-floresta" className="btn">
-            Acessar edição completa
+            Acessar a edição completa
           </a>
         </div>
 
         <div className="apresentacao">
           <div className="titulo">
-            <h1>Apresentação</h1>
             <p>
-              Você sabia que boa parte das publicações das Minibibliotecas da
-              Embrapa estão disponíveis em formato digital? Conheça a 4a Edição
-              revista e atualizada do Manual de Bolso Tecnologias para a
+              Você sabia que boa parte das publicações das minibibliotecas da
+              Embrapa estão disponíveis em formato digital? Conheça a quarta edição
+              revista e atualizada da publicação Tecnologias para a
               Agricultura Familiar.
             </p>
           </div>
 
           <div className="texto-container">
+          
+          <h1>Apresentação</h1>
+
             <div className="texto">
               <p>
                 Em 2014, a Embrapa lançou a publicação “Tecnologias para a
@@ -72,7 +74,7 @@ function Home() {
                 qual, depois de instalado, trabalha offline. Assim, informações
                 mais detalhadas poderão ser facilmente acessadas por meio dos
                 links disponibilizados pelos autores no final de cada capítulo.
-                Aideia é conectar o produtor ao cenário de inovação tecnológica,
+                A ideia é conectar o produtor ao cenário de inovação tecnológica,
                 para expandir a disseminação da informação e do acesso ao
                 conhecimento.
               </p>
@@ -92,6 +94,7 @@ function Home() {
               <img src="img/harley.png" alt="Foto do Harley" />
               <p className="nome">Harley Nonato de Oliveira</p>
               <p className="cargo">Chefe Geral</p>
+              <p className="cargo">Embrapa Agropecuária Oeste</p>
             </div>
           </div>
         </div>

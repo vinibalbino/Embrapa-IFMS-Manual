@@ -45,14 +45,14 @@ da maioria da população.
 
 Seguem alguns exemplos de Pancs e sua utilização:
 
-### Açafrão-da-terra (Curcuma longa)
+### Açafrão-da-terra (<em>Curcuma longa</em>)
 
 É um corante (amarelo) condimentar, fonte de curcumina, minerais, vitamina A, ácido
 fólico, riboflavina e vitamina C, essenciais para uma boa saúde.
 Usado em mostardas, curries, queijos, manteigas, molhos e até
 em pipocas.
 
-### Araruta (Maranta arundinacea)
+### Araruta (<em>Maranta arundinacea</em>)
 
 Na culinária, o uso da fécula
 desta planta se destaca por ser alimento de fácil digestão,
@@ -61,29 +61,29 @@ glúten (doença celíaca), idosos, crianças e pessoas com
 debilidade física ou doentes em recuperação. Afécula da araruta
 é usada no preparo de mingaus, bolos e biscoitos.
 
-### Bardana (Arctium lappa)
+### Bardana (<em>Arctium lappa</em>)
 
 As raízes tuberosas (gobô) são
 muito utilizadas pela colônia nipônica, em saladas, refogadas,
 ensopadas ou na confecção de doces e geleias. São ricas em
 potássio, magnésio e inulina, podendo ser usadas por diabéticos.
 
-### Capuchinha (Tropaeolum majus)
+### Capuchinha (<em>Tropaeolum majus</em>)
 
 As folhas e flores podem
 ser preparadas em forma de salada e sanduíche. As sementes
 verdes têm sabor acre e picante, que lembra o do agrião
-(Nasturtium officinale), podendo substituir o uso do rabanete e,
+(<em>Nasturtium officinale</em>), podendo substituir o uso do rabanete e,
 em vinagre, assemelha-se a alcaparras.
 
-### Hibisco (Hibiscus sabdariffa)
+### Hibisco (<em>Hibiscus sabdariffa</em>)
 
 As folhas fazem parte da
 culinária da região Norte do Brasil, onde é conhecida como
 vinagreira. A parte mais utilizada mundialmente são os cálices
 frescos (frutos), em sucos, geleias, conservas, pães e molhos.
 
-### Inhame (Dioscorea sp.)
+### Inhame (<em>Dioscorea sp.</em>)
 
 O inhame é uma hortaliça com
 expressivo consumo mundial e considerada cultura alternativa
@@ -94,7 +94,7 @@ Seu amido é parecido com o do milho, em sabor, textura e cor.
 Afarinha pode ser adicionada à do trigo para a fabricação de pães
 ou ser utilizada em diversos pratos, doces ou salgados.
 
-### Jambu (Acmella oleracea)
+### Jambu (<em>Acmella oleracea</em>)
 
 Muito cultivada nas regiões Norte e
 Nordeste, onde faz parte da culinária como condimento e para
@@ -102,7 +102,7 @@ preparo do tacacá e do pato no tucupi. A presença do espilantol,
 nas folhas e inflorescências, causa certa dormência na língua e
 nos lábios.
 
-### Mandioquinha-salsa (Arracacia xanthorrhiza)
+### Mandioquinha-salsa (<em>Arracacia xanthorrhiza</em>)
 
 Seu produto
 mais valioso são as raízes, com amido de fácil digestibilidade e
@@ -113,7 +113,7 @@ apreciada pelo seu sabor e aroma característicos. Pode ser
 consumida na forma de sopa, cremes e cozidos. É usada,
 também, para a fabricação de pães e bolinhos.
 
-### Mangarito (Xanthosoma mafaffa)
+### Mangarito (<em>Xanthosoma mafaffa</em>)
 
 No Brasil, tem sido cultivado
 principalmente na agricultura de subsistência, em hortas
@@ -123,7 +123,7 @@ iguaria, os rizomas são consumidos cozidos, ensopados com
 carnes e ao molho e seu valor nutricional é comparável ao da
 batata (Solanum tuberosum).
 
-### Ora-pro-nóbis (Pereskia aculeata)
+### Ora-pro-nóbis (<em>Pereskia aculeata</em>)
 
 A planta é uma Cactaceae
 trepadeira, cujas folhas são ricas em proteína, daí o nome de
@@ -135,13 +135,13 @@ folhas secas e trituradas podem ser usadas para enriquecer pães,
 bolos, farofas e, até mesmo, como alternativa para compor a
 merenda escolar.
 
-### Peixinho-da-horta (Stachys byzantina)
+### Peixinho-da-horta (<em>Stachys byzantina</em>)
 
 Muito cultivada no Sul
 do Brasil, para consumo como hortaliça. As folhas podem ser
 consumidas empanadas e fritas, em omelete e molhos.
 
-### Taro (Colocasia esculenta)
+### Taro (<em>Colocasia esculenta</em>)
 
 Tem possibilidade de uso humano
 sob diferentes formas de preparo, podendo substituir, total ou
@@ -152,7 +152,7 @@ pratos, doces ou salgados. Isso, porque o consumo de pão, em
 seus vários tipos, constitui uma fonte alternativa de vitaminas,
 sais minerais e proteínas.
 
-### Taioba (Xanthosoma sagittifolium)
+### Taioba (<em>Xanthosoma sagittifolium</em>)
 
 Hortaliça rica em
 vitamina A, vitaminas do complexo B, vitamina C, potássio,
@@ -164,7 +164,7 @@ mercados.
 
 ## **4. Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Projeto PANCs – Parte 1](https://bit.ly/37DsC9Q)
 
@@ -178,74 +178,89 @@ mercados.
 
 [PANC – Hortaliças não convencionais](https://bit.ly/35F0Icj)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Universidade Federal da Grande Dourados (UFGD)**
+### Instituições
 
-https://www.ufgd.edu.br/
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Universidade Federal da Grande Dourados (UFGD)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.ufgd.edu.br/" target="_blank"> https://www.ufgd.edu.br/</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3410-2426
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 
-Fone: (67) 3410-2426
-
-Dourados, MS
-
-**Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
-
-http://www.agraer.ms.gov.br/
-
-Fone: (67) 3422-1440
-
-Dourados, MS
-
-<div className="image-Box">
-
-![Ora-pro-nóbis](/img/docs/11_plantas_alimenticias/FOTO_01.jpg)
-
-Foto: Maria do Carmo Vieira
-
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.agraer.ms.gov.br/" target="_blank"> http://www.agraer.ms.gov.br/</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3422-1440
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-<div className="center-textImage">
+### Fotos 
 
-Ora-pro-nóbis
+<div class="container-img"> 
 
+  ![Ora-pro-nóbis](/img/docs/11_plantas_alimenticias/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Maria do Carmo Vieira</span>
+  <div className="legenda-foto">Ora-pro-nóbis.</div>
 </div>
 
-![Peixinho](/img/docs/11_plantas_alimenticias/FOTO_02.jpg)
+<div class="container-img"> 
 
-Foto: Orivaldo Benedito da Silva
+  ![Peixinho](/img/docs/11_plantas_alimenticias/FOTO_02.jpg)
 
-<div className="center-textImage">
-Peixinho
+  <span class="legenda-foto-fonte">Foto: Orivaldo Benedito da Silva</span>
+  <div className="legenda-foto">Peixinho.</div>
 </div>
 
-![Hibisco](/img/docs/11_plantas_alimenticias/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Maria do Carmo Vieira
+  ![Hibisco](/img/docs/11_plantas_alimenticias/FOTO_03.jpg)
 
-<div className="center-textImage">
-Hibisco
+  <span class="legenda-foto-fonte">Foto: Maria do Carmo Vieira</span>
+  <div className="legenda-foto">Hibisco.</div>
 </div>
 
-![Taro](/img/docs/11_plantas_alimenticias/FOTO_04.jpg)
+<div class="container-img"> 
 
-Foto: Néstor Antonio Heredia Zárate
+  ![Taro](/img/docs/11_plantas_alimenticias/FOTO_04.jpg)
 
-<div className="center-textImage">
-Taro
+  <span class="legenda-foto-fonte">Foto: Néstor Antonio Heredia Zárate</span>
+  <div className="legenda-foto">Taro.</div>
 </div>
 
-![Salada com tansagem, ora-pró-nobis, jambu e capuchinha](/img/docs/11_plantas_alimenticias/FOTO_05.jpg)
+<div class="container-img"> 
 
-Foto: Maria do Carmo Vieira
+  ![Salada com tansagem, ora-pró-nobis, jambu e capuchinha](/img/docs/11_plantas_alimenticias/FOTO_05.jpg)
 
-<div className="center-textImage">
-Salada com tansagem, ora-pró-nobis, jambu e capuchinha
+  <span class="legenda-foto-fonte">Foto: Maria do Carmo Vieira</span>
+  <div className="legenda-foto">Salada com tansagem, ora-pró-nobis, jambu e capuchinha.</div>
 </div>
 
-![Mandioquinha-salsa](/img/docs/11_plantas_alimenticias/FOTO_06.jpg)
+<div class="container-img"> 
 
-Foto: Néstor Antonio Heredia Zárate
+  ![Mandioquinha-salsa](/img/docs/11_plantas_alimenticias/FOTO_06.jpg)
 
-<div className="center-textImage">
-Mandioquinha-salsa
+  <span class="legenda-foto-fonte">Foto: Néstor Antonio Heredia Zárate</span>
+  <div className="legenda-foto">Mandioquinha-salsa.</div>
 </div>

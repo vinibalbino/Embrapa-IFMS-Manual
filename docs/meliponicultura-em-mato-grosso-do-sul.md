@@ -52,7 +52,7 @@ evidenciou que em MS são criadas mais de 30 espécies,
 perfazendo um total de mais de 800 colmeias. As principais
 espécies criadas estão descritas a seguir.
 
-### Jataí (Tetragonisca fiebrigi e angustula)
+### Jataí (<em>Tetragonisca fiebrigi</em> e <em>angustula</em>)
 
 É uma abelha
 rústica e pode ser encontrada com facilidade tanto no meio rural
@@ -72,7 +72,7 @@ ferrugineum_); fedegoso, amarelinho (_Senna rugosa_); murici,
 murici-miúdo (_Byrsonima intermedia_); pau-paratudo, unhad'anta (_Acosmium dasycarpum_); picão ou picão-de-cipó (_Bidens
 gardneri_); e sucupira (_Bowdichia virgilioides_).
 
-### Manduri-do-Mato-Grosso (Melipona orbignyi)
+### Manduri-do-Mato-Grosso (<em>Melipona orbignyi</em>)
 
 A Manduri é
 considerada uma das mais sensíveis à degradação e
@@ -93,7 +93,7 @@ passando apenas uma abelha de cada vez.
 Considerando a população, é uma grande produtora de mel.
 Produz, em média, 3 litros por safra.
 
-### Canudo/Mandaguari (Scaptotrigona depilis/S. postica)
+### Canudo/Mandaguari (<em>Scaptotrigona depilis/S. postica</em>)
 
 As
 abelhas Mandaguari são abelhas bastante defensivas, com
@@ -107,7 +107,7 @@ São boas produtoras de mel e excelentes produtoras de própolis.
 Podem chegar a produzir 3 litros de mel por temporada,
 dependendo da oferta de alimento na região.
 
-### Marmelada (Frieseomelitta varia)
+### Marmelada (<em>Frieseomelitta varia</em>)
 
 A abelha Marmelada é
 bastante defensiva, quando ameaçada. Uma das formas de
@@ -139,108 +139,121 @@ seco.
 
 [S.O.S Abelhas sem ferrão](http://sosabelhassemferrao.com.br/site/)
 
+<div className="container-instituicoes">
+
 ### Instituições
 
-**Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.agraer.ms.gov.br" target="_blank"> http://www.agraer.ms.gov.br</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3318-5100
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campo Grande, MS
+    </div>    
+  </div>
 
-http://www.agraer.ms.gov.br
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agência Estadual de Defesa Sanitária Animal e Vegetal (Iagro)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.iagro.ms.gov.br/" target="_blank"> http://www.iagro.ms.gov.br/</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3901-2717
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campo Grande, MS
+    </div>    
+  </div>
 
-Fone: (67) 3318-5100
-
-Campo Grande, MS
-
-**Agência Estadual de Defesa Sanitária Animal e Vegetal (Iagro)**
-
-http://www.iagro.ms.gov.br/
-
-Telefone: (67) 3901-2717
-
-Campo Grande, MS
-
-**Embrapa Meio-Norte**
-
-https://www.embrapa.br/meio-norte
-
-Telefone: (86) 3198-0500
-
-Teresina, PI
-
-![Entrada de abelha Jataí (Tetragonisca fiebrigi)](/img/docs/24_meliponicultura/FOTO_01.jpg)
-
-Foto: Eliel Souza Freitas Júnior
-
-<div className="center-textImage">
-Entrada de abelha Jataí (Tetragonisca fiebrigi).
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Meio-Norte
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/meio-norte" target="_blank"> https://www.embrapa.br/meio-norte</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (86) 3198-0500
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Teresina, PI
+    </div>    
+  </div>
 </div>
 
-![Entrada de abelha Mandaguari (Scaptotrigona depilis).](/img/docs/24_meliponicultura/FOTO_02.jpg)
+### Fotos 
 
-Foto: Eliel Souza Freitas Júnior
+<div class="container-img"> 
 
-<div className="center-textImage">
-Entrada de abelha Mandaguari (Scaptotrigona depilis).
+  ![Entrada de abelha Jataí (Tetragonisca fiebrigi)](/img/docs/24_meliponicultura/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
+  <div className="legenda-foto">Entrada de abelha Jataí (<em>Tetragonisca fiebrigi</em>).</div>
 </div>
 
-![Entrada de abelha manduripantaneira (Melipona orbignyi)](/img/docs/24_meliponicultura/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Eliel Souza Freitas Júnior
+  ![Entrada de abelha Mandaguari (Scaptotrigona depilis).](/img/docs/24_meliponicultura/FOTO_02.jpg)
 
-<div className="center-textImage">
-Entrada de abelha manduripantaneira (Melipona orbignyi)
+  <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
+  <div className="legenda-foto">Entrada de abelha Mandaguari (<em>Scaptotrigona depilis</em>).</div>
 </div>
 
-![Entrada de abelha marmelada-amarela (Frieseomelitta varia)](/img/docs/24_meliponicultura/FOTO_04.jpg)
+<div class="container-img"> 
 
-Foto: Eliel Souza Freitas Júnior
+  ![Entrada de abelha manduripantaneira (Melipona orbignyi)](/img/docs/24_meliponicultura/FOTO_03.jpg)
 
-<div className="center-textImage">
-Entrada de abelha marmelada-amarela (Frieseomelitta varia)
+  <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
+  <div className="legenda-foto">Entrada de abelha manduripantaneira (<em>Melipona orbignyi</em>).</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Entrada de abelha Marmelada amarela (Frieseomelitta varia)](/img/docs/24_meliponicultura/FOTO_05.jpg)
+  ![Entrada de abelha marmelada-amarela (Frieseomelitta varia)](/img/docs/24_meliponicultura/FOTO_04.jpg)
 
-Foto: Eliel Souza Freitas Júnior
-
+  <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
+  <div className="legenda-foto">Entrada de abelha marmelada-amarela (<em>Frieseomelitta varia</em>).</div>
 </div>
 
-<div className="center-textImage">
-Entrada de abelha Marmelada amarela (Frieseomelitta varia)
+<div class="container-img"> 
+
+  ![Entrada de abelha Marmelada amarela (Frieseomelitta varia)](/img/docs/24_meliponicultura/FOTO_05.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
+  <div className="legenda-foto">Entrada de abelha Marmelada amarela (<em>Frieseomelitta varia</em>).</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Ninho de abelha Marmelada amarela](/img/docs/24_meliponicultura/FOTO_06.jpg)
+  ![Ninho de abelha Marmelada amarela](/img/docs/24_meliponicultura/FOTO_06.jpg)
 
-Foto: Eliel Souza Freitas Júnior
-
+  <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
+  <div className="legenda-foto">Ninho de abelha Marmelada amarela.</div>
 </div>
 
-<div className="center-textImage">
-Ninho de abelha Marmelada amarela
+<div class="container-img"> 
+
+  ![Entrada de abelha Manduri (Melipona orbignyi)](/img/docs/24_meliponicultura/FOTO_07.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
+  <div className="legenda-foto">Entrada de abelha Manduri (<em>Melipona orbignyi</em>).</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Entrada de abelha Manduri (Melipona orbignyi)](/img/docs/24_meliponicultura/FOTO_07.jpg)
+  ![Ninho de abelha Manduri](/img/docs/24_meliponicultura/FOTO_08.jpg)
 
-Foto: Eliel Souza Freitas Júnior
-
-</div>
-
-<div className="center-textImage">
-Entrada de abelha Manduri (Melipona orbignyi)
-</div>
-
-<div className="image-Box">
-
-![Ninho de abelha Manduri](/img/docs/24_meliponicultura/FOTO_08.jpg)
-
-Foto: Eliel Souza Freitas Júnior
-
-</div>
-
-<div className="center-textImage">
-Ninho de abelha Manduri
+  <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
+  <div className="legenda-foto">Ninho de abelha Manduri.</div>
 </div>

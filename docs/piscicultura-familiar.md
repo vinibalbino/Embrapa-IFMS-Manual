@@ -59,7 +59,7 @@ alevinos, alimentação, saúde e comercialização dos peixes.
 
 [Construção de viveiros escavados](https://bit.ly/384D5eq)
 
-### Publicação
+### Publicações
 
 [Noções para piscicultura familiar – qualidade de água](https://bit.ly/35r9o5u)
 
@@ -69,60 +69,81 @@ alevinos, alimentação, saúde e comercialização dos peixes.
 
 [Licenciamento ambiental](http://www.imasul.ms.gov.br)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-https://www.embrapa.br/agropecuaria-oeste
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-**Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
-
-http://www.agraer.ms.gov.br/
-
-Fone: (67) 3318-5100
-
-Campo Grande, MS
-
-![Tanque escavado](/img/docs/22_piscicultura/FOTO_01.jpg)
-
-Foto: Ricardo Borghesi
-
-<div className="center-textImage">
-Tanque escavado
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.agraer.ms.gov.br/" target="_blank"> http://www.agraer.ms.gov.br/</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3318-5100
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campo Grande, MS
+    </div>    
+  </div>
 </div>
 
-![Canal de abastecimento de água por gravidade](/img/docs/22_piscicultura/FOTO_02.jpg)
+### Fotos 
 
-Foto: Ricardo Borghesi
+<div class="container-img"> 
 
-<div className="center-textImage">
-Canal de abastecimento de água por gravidade
+  ![Tanque escavado](/img/docs/22_piscicultura/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Ricardo Borghesi</span>
+  <div className="legenda-foto">Tanque escavado.</div>
 </div>
 
-![Pacu](/img/docs/22_piscicultura/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Luís Antonio Kioshi Aoki Inoue
+  ![Canal de abastecimento de água por gravidade](/img/docs/22_piscicultura/FOTO_02.jpg)
 
-<div className="center-textImage">
-Pacu
+  <span class="legenda-foto-fonte">Foto: Ricardo Borghesi</span>
+  <div className="legenda-foto">Canal de abastecimento de água por gravidade.</div>
 </div>
 
-![Tilápia](/img/docs/22_piscicultura/FOTO_04.jpg)
+<div class="container-img"> 
 
-Foto: Luís Antonio Kioshi Aoki Inoue
+  ![Pacu](/img/docs/22_piscicultura/FOTO_03.jpg)
 
-<div className="center-textImage">
-Tilápia
+  <span class="legenda-foto-fonte">Foto: Luís Antonio Kioshi Aoki Inoue</span>
+  <div className="legenda-foto">Pacu.</div>
 </div>
 
-![Cachara](/img/docs/22_piscicultura/FOTO_05.jpg)
+<div class="container-img"> 
 
-Foto: Tarcila S. C. Silva
+  ![Tilápia](/img/docs/22_piscicultura/FOTO_04.jpg)
 
-<div className="center-textImage">
-Cachara
+  <span class="legenda-foto-fonte">Foto: Luís Antonio Kioshi Aoki Inoue</span>
+  <div className="legenda-foto">Tilápia.</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Cachara](/img/docs/22_piscicultura/FOTO_05.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Tarcila S. C. Silva</span>
+  <div className="legenda-foto">Cachara.</div>
 </div>

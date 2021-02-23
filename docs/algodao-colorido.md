@@ -48,49 +48,44 @@ uso de insumos e fertilizantes químicos.
 
 ### Informações para implantação da cultura
 
-**a)** Época de semeadura: o algodoeiro colorido deve ser
-semeado entre novembro e dezembro.
-
-**b)** Espaçamento: o espaçamento entre fileiras deve ser de
+<ol type="a">
+  <li>Época de semeadura: o algodoeiro colorido deve ser
+semeado entre novembro e dezembro.</li>
+  <li>Espaçamento: o espaçamento entre fileiras deve ser de
 0,80 m a 0,90 m com 6 a 8 plantas por metro. No caso de
 semente com línter, utilizar de 12 a 15 sementes por metro;
 sementes deslintadas, de 8 a 10 sementes. Se for
 necessário, realizar o desbaste deixando de 6 a 8 plantas
 por metro. Quando necessário, o desbaste deve ser
-realizado entre 20 a 25 dias após a emergência.
-
-**c)** Cultivares: IAC FC1 e IAC FC2 são cultivares que produzem
+realizado entre 20 a 25 dias após a emergência.</li>
+  <li>Cultivares: IAC FC1 e IAC FC2 são cultivares que produzem
 fibra de cor caqui. Pela Embrapa estão disponíves
 cultivares que produzem fibra de diferentes tonalidades,
 que vão do verde-claro aos marrons: claro, escuro e
 avermelhado. Informações sobre sementes de algodão
 colorido das cultivares desenvolvidas pela Embrapa podem
-ser obtidas em quaisquer unidades da Embrapa.
-
-**d)** Adubação: o algodoeiro deve ser cultivado em solo
+ser obtidas em quaisquer unidades da Embrapa.</li>
+  <li>Adubação: o algodoeiro deve ser cultivado em solo
 corrigido, sem impedimento ao crescimento das raízes. A
 adubação com nitrogênio, fósforo e potássio deve ser
 realizada tendo como referência os resultados da análise
 química do solo. O algodoeiro é muito exigente em boro.
 Recomenda-se a aplicação de boro no sulco de
 semeadura, em cobertura e via foliar, a partir do
-florescimento.
-
-**e)** Plantas daninhas: especialmente, durante os primeiros 30
+florescimento.</li>
+  <li>Plantas daninhas: especialmente, durante os primeiros 30
 dias após a emergência, o algodoeiro deve ser mantido
 livre da interferência de plantas daninhas. O controle
 destas pode ser com enxada, cultivador ou químico. Deve
 ser evitado o uso de cultivador após o florescimento. O
 controle químico, quando necessário, deve ser feito
-somente mediante orientação de um técnico.
-
-**f)** Pragas: para o controle de pragas, é fundamental que
+somente mediante orientação de um técnico.</li>
+  <li>Pragas: para o controle de pragas, é fundamental que
 sejam realizadas amostragens, duas vezes por semana,
 para que se tenha conhecimento das pragas existentes e o
 nível populacional das mesmas. O método de controle
-deve ser definido com o apoio de um técnico.
-
-**g)** Colheita: é uma operação importantíssima, pois a
+deve ser definido com o apoio de um técnico.</li>
+  <li>Colheita: é uma operação importantíssima, pois a
 qualidade do algodão pode ser prejudicada durante o
 processo de colheita. Feita manualmente, é extremamente
 onerosa, em razão da elevada necessidade de mão de
@@ -112,7 +107,8 @@ final do produto, reduzindo seu tipo; c) colher no seco; e
 d) caso ocorram plantas daninhas cujas estruturas fiquem
 aderidas à fibra, como carrapicho e picão-preto, deve-se
 proceder a eliminação destas plantas daninhas no campo
-antes da colheita.
+antes da colheita.</li>
+</ol>
 
 ## **4. Onde obter mais informações**
 
@@ -130,76 +126,97 @@ antes da colheita.
 
 [Justa Trama – Fibra Ecológica](https://justatrama.com.br/)
 
+<div className="container-instituicoes">
+
 ### Instituições
 
-**Embrapa Algodão**
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Algodão
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.embrapa.br/algodao" target="_blank"> http://www.embrapa.br/algodao</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (83) 3182-4300
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campina Grande, PB
+    </div>    
+  </div>
 
-http://www.embrapa.br/algodao
-
-Fone: (83) 3182-430
-
-Campina Grande, PB
-
-**Embrapa Agropecuária Oeste**
-
-https://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio](/img/docs/26_algodao/FOTO_01.jpg)
-
-Foto: Luiz Paulo de Carvalho
-
-<div className="center-textImage">
-Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Safira](/img/docs/26_algodao/FOTO_02.jpg)
+### Fotos 
 
-Foto: Luiz Paulo de Carvalho
+<div class="container-img"> 
 
-<div className="center-textImage">
-Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Safira
+  ![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio](/img/docs/26_algodao/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Luiz Paulo de Carvalho</span>
+  <div className="legenda-foto">Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio.</div>
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Rubi](/img/docs/26_algodao/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Luiz Paulo de Carvalho
+  ![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Safira](/img/docs/26_algodao/FOTO_02.jpg)
 
-<div className="center-textImage">
-Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Rubi
+  <span class="legenda-foto-fonte">Foto: Luiz Paulo de Carvalho</span>
+  <div className="legenda-foto">Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Safira.</div>
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS 200 Marrom](/img/docs/26_algodao/FOTO_04.jpg)
+<div class="container-img"> 
 
-Foto: Luiz Paulo de Carvalho
+  ![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Rubi](/img/docs/26_algodao/FOTO_03.jpg)
 
-<div className="center-textImage">
-Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS 200 Marrom
+  <span class="legenda-foto-fonte">Foto: Luiz Paulo de Carvalho</span>
+  <div className="legenda-foto">Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Rubi.</div>
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Jade](/img/docs/26_algodao/FOTO_05.jpg)
+<div class="container-img"> 
 
-Foto: Luiz Paulo de Carvalho
+  ![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS 200 Marrom](/img/docs/26_algodao/FOTO_04.jpg)
 
-<div className="center-textImage">
-Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Jade
+  <span class="legenda-foto-fonte">Foto: Luiz Paulo de Carvalho</span>
+  <div className="legenda-foto">Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS 200 Marrom.</div>
 </div>
 
-![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Verde](/img/docs/26_algodao/FOTO_06.jpg)
+<div class="container-img"> 
 
-Foto: Luiz Paulo de Carvalho
+  ![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Jade](/img/docs/26_algodao/FOTO_05.jpg)
 
-<div className="center-textImage">
-Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Verde
+  <span class="legenda-foto-fonte">Foto: Luiz Paulo de Carvalho</span>
+  <div className="legenda-foto">Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Jade.</div>
 </div>
 
-![Cultivar de algodão colorido IAC FC1, fibra de cor caqui](/img/docs/26_algodao/FOTO_07.jpg)
+<div class="container-img"> 
 
-Foto: Júlio Kondo
+  ![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Verde](/img/docs/26_algodao/FOTO_06.jpg)
 
-<div className="center-textImage">
-Cultivar de algodão colorido IAC FC1, fibra de cor caqui
+  <span class="legenda-foto-fonte">Foto: Luiz Paulo de Carvalho</span>
+  <div className="legenda-foto">Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Verde.</div>
+</div>
+
+<div class="container-img"> 
+
+  ![Cultivar de algodão colorido IAC FC1, fibra de cor caqui](/img/docs/26_algodao/FOTO_07.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Júlio Kondo</span>
+  <div className="legenda-foto">Cultivar de algodão colorido IAC FC1, fibra de cor caqui.</div>
 </div>

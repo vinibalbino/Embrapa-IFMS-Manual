@@ -38,7 +38,7 @@ de frutos e o maior nível de resistência a doenças foliares.
 Sua flor exuberante, vermelho-arroxeada e com longos
 filamentos multibandeados, evidenciam também o seu potencial
 ornamental para paisagismo de grandes áreas, como muros e
-pérgulas. Os frutos, quando maduros, tem coloração de casca
+pérgulas. Os frutos, quando maduros, têm coloração de casca
 amarela. A massa dos frutos varia de 120 g a 300 g (média de
 200 g), os quais apresentam polpa amarelo-alaranjada
 adocicada com teor de sólidos solúveis muito alto (acima de
@@ -77,13 +77,13 @@ doces. Apresenta flores roxas, com diâmetro em torno de 10,6 cm
 e que abrem no período da manhã. Os frutos são arredondados
 e, quando maduros, tem coloração de casca verde-clara e são
 fortemente ácidos. A massa dos frutos varia de 120 g a 160 g,
-com polpa amarelo-esbranquiçada contendo 9,8 a 14,4 °Brix.
+com polpa amarelo-esbranquiçada contendo 9,8 °Brix a 14,4 °Brix.
 
 A cultivar é recomendada para a região do Semiárido e Cerrado,
 onde pode produzir mais de 25 t/ha/ano em polinização aberta. A
 cultivar apresenta como característica de destaque a maior
 tolerância a estresse hídrico. Sua flor exuberante, arroxeada e
-com longos filamentos evidenciam também o seu potencial
+com longos filamentos evidencia também o seu potencial
 ornamental. As flores abrem no período da manhã e são muito
 visitadas por mamangavas (_Xylocopa_ sp.), que são os insetos
 polinizadores do maracujazeiro-azedo comercial.
@@ -105,7 +105,7 @@ polinizadores do maracujazeiro-azedo comercial.
 A princípio, o sistema de produção das cultivares de
 maracujazeiro-doce (BRS Mel do Cerrado) e dos
 maracujazeiros-silvestres (BRS Pérola do Cerrado e BRS Sertão
-Forte) segue as recomendações técnicas do maracujazeiroazedo comercial, com relação às exigências edafoclimáticas,
+Forte) segue as recomendações técnicas do maracujazeiro-azedo comercial, com relação às exigências edafoclimáticas,
 preparo e correção do solo, necessidade de espaldeiramento,
 podas, irrigação e adubações de formação e produção.
 
@@ -134,33 +134,35 @@ de Maracujazeiro Doce BRS Mel do Cerrado (BRS MC):
 https://bit.ly/2Rn4Sjl
 
 EMBRAPA. Embrapa Cerrados. Lançamento da cultivar de
-maracujazeiro s i l ves tre BRS Pérola do Cerrado:
+maracujazeiro silvestre BRS Pérola do Cerrado:
 https://bit.ly/2FWBRpw
 
 EMBRAPA. Embrapa Cerrados. Lançamento Oficial da Cultivar
 de Maracujazeiro Silvestre BRS Sertão Forte (BRS SF):
 https://bit.ly/3ajoD3U
 
-![BRS Mel do Cerrado (BRS MC)](/img/docs/34_maracujazeiro_doce/FOTO_01.jpg)
+### Fotos 
 
-Foto: Fabiano Basto
+<div class="container-img"> 
 
-<div class="center-textImage">
-BRS Mel do Cerrado (BRS MC)
+  ![BRS Mel do Cerrado (BRS MC)](/img/docs/34_maracujazeiro_doce/FOTO_01.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Fabiano Bastos</span>
+  <div className="legenda-foto">BRS Mel do Cerrado (BRS MC).</div>
 </div>
 
-![BRS Pérola do Cerrado (BRS PC)](/img/docs/34_maracujazeiro_doce/FOTO_02.jpg)
+<div class="container-img"> 
 
-Foto: Fabiano Basto
+  ![BRS Pérola do Cerrado (BRS PC)](/img/docs/34_maracujazeiro_doce/FOTO_02.jpg)
 
-<div class="center-textImage">
-BRS Pérola do Cerrado (BRS PC)
+  <span class="legenda-foto-fonte">Foto: Fabiano Bastos</span>
+  <div className="legenda-foto">BRS Pérola do Cerrado (BRS PC).</div>
 </div>
 
-![BRS Sertão Forte (BRS SF)](/img/docs/34_maracujazeiro_doce/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Fabiano Basto
+  ![BRS Sertão Forte (BRS SF)](/img/docs/34_maracujazeiro_doce/FOTO_03.jpg)
 
-<div class="center-textImage">
-BRS Sertão Forte (BRS SF)
+  <span class="legenda-foto-fonte">Foto: Fabiano Bastos</span>
+  <div className="legenda-foto">BRS Sertão Forte (BRS SF).</div>
 </div>

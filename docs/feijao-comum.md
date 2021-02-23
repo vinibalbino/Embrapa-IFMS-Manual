@@ -8,10 +8,10 @@ sidebar_label: Feijão-Comum
 
 ## **1. O que é**
 
-O gênero Phaseolus pertence ao grupo das leguminosas. É
+O gênero <em>Phaseolus</em> pertence ao grupo das leguminosas. É
 originário do continente americano. Compreende cerca de 55
 espécies, mas apenas cinco são cultivadas no mundo,
-destacando-se no Brasil a Phaseolus vulgaris L., ou feijãocomum, com inúmeras cultivares. É considerado alimento básico
+destacando-se no Brasil a <em>Phaseolus vulgaris L.</em>, ou feijão comum, com inúmeras cultivares. É considerado alimento básico
 na mesa do brasileiro e a principal fonte de proteína vegetal.
 Bastante cultivado em pequenas e médias propriedades.
 
@@ -23,9 +23,9 @@ preto e especial.
 
 O ciclo varia de 65 a 110 dias, com dois hábitos de crescimento:
 
-1. determinado – a planta tem um número determinado de nós e o
-   caule principal e os ramos terminam com uma inflorescência;
-2. indeterminado – crescimento contínuo da planta, com uma
+1. Determinado – a planta tem um número determinado de nós e o
+   caule principal e os ramos terminam com uma inflorescência.
+2. Indeterminado – crescimento contínuo da planta, com uma
    sequência de nós e entrenós, com as inflorescências (parte da
    planta onde se localizam as flores) ocorrendo nas axilas (junção
    da folha com o ramo) das folhas.
@@ -68,9 +68,9 @@ ameno e sem geadas. Em Mato Grosso do Sul (MS), a semeadura
 é concentrada na segunda safra, devido às condições ambientais
 mais favoráveis, principalmente com a ocorrência de
 temperaturas mais amenas, de forma estratégica para “escapar”
-da ocorrência do tombamento inicial ou “dumping off” e também
-da doença conhecida como mela, causada pelo fungo Rizoctonia
-solani, que é favorecido por condições de alta temperatura e
+da ocorrência do tombamento inicial ou “<em>dumping off</em>” e também
+da doença conhecida como mela, causada pelo fungo <em>Rizoctonia
+solani</em>, que é favorecido por condições de alta temperatura e
 umidade.
 
 A profundidade das sementes deve ser de 4 cm a 5 cm, sendo
@@ -94,9 +94,8 @@ para a definição do manejo nutricional. Não existe uma receita
 única para se adubar a cultura. É importante realizar a análise do
 solo para que o técnico responsável possa indicar a melhor
 opção, em função da interpretação da análise do solo e das
-condições locais. Na impossibilidade deste procedimento, podese aplicar no sulco de semeadura 20 kg/ha de N, 60 kg/ha de P2O5
-e 60 kg/ha de K O. Após 25 dias a 30 dias da germinação, aplicar 2
-40 kg/ha de N, em cobertura, ao lado das plantas.
+condições locais. Na impossibilidade deste procedimento, pode se aplicar no sulco de semeadura 20 kg/ha de N, 60 kg/ha de P<sub>2</sub>O<sub>5</sub>
+e 60 kg/ha de K<sub>2</sub>O. Após 25 dias a 30 dias da germinação, aplicar 40 kg/ha de N, em cobertura, ao lado das plantas.
 
 ### Plantas daninhas, pragas e doenças
 
@@ -121,7 +120,7 @@ causar danos expressivos no feijoeiro, devendo-se consultar a
 assistência técnica para a recomendação de defensivos.
 Principais doenças fúngicas da parte aérea: antracnose, mancha
 angular e ferrugem. Doenças causadas por fungos que podem
-sobreviver muitos anos no solo: murcha de Fusarium, podridãocinzenta da haste, podridão-radicular, mela do feijoeiro e mofobranco. Doenças bacterianas mais frequentes: crestamentobacteriano-comum e a murcha de Curtobacterium. Vírus mais
+sobreviver muitos anos no solo: murcha de <em>Fusarium</em>, podridão-cinzenta da haste, podridão-radicular, mela do feijoeiro e mofo-branco. Doenças bacterianas mais frequentes: crestamento-bacteriano-comum e a murcha de Curtobacterium. Vírus mais
 comuns: vírus do mosaico-comum, vírus do mosaico-dourado e
 Carlavirus.
 
@@ -162,11 +161,11 @@ reduzindo assim perdas na colheita.
 
 ## **4. Onde obter mais informações**
 
-### Publicação
+### Publicações
 
 [Embrapa Arroz e Feijão](https://www.embrapa.br/arroz-e-feijao)
 
-[Árvore do Conhecimento – Produção do Feijão:](https://tinyurl.com/ro9d9s8)
+[Árvore do Conhecimento – Produção do Feijão](https://tinyurl.com/ro9d9s8)
 
 [Árvore do Conhecimento – Manejo integrado de pragas do feijoeiro](https://tinyurl.com/srkhral)
 
@@ -174,66 +173,74 @@ reduzindo assim perdas na colheita.
 
 [Ministério da Agricultura, Pecuária e Abastecimento – Agrofit](https://tinyurl.com/7zvtv4o)
 
-### Instituição
+<div className="container-instituicoes">
 
-**Embrapa Agropecuária Oeste**
+### Instituições
 
-https://www.embrapa.br/agropecuaria-oeste
-
-Fone: (67) 3416-9700
-
-Dourados, MS
-
-![Feijão-comum em plantio direto na fase vegetativa](/img/docs/08_feijao_comum/FOTO_01.jpg)
-Foto: Sebastião José de Araújo
-
-<div className="center-textImage">
-Feijão-comum em plantio direto na fase vegetativa
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Embrapa Agropecuária Oeste
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="https://www.embrapa.br/agropecuaria-oeste" target="_blank"> https://www.embrapa.br/agropecuaria-oeste</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3416-9700
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Dourados, MS
+    </div>    
+  </div>
 </div>
 
-<div className="image-Box">
+### Fotos 
 
-![Feijão-comum na fase de maturação](/img/docs/08_feijao_comum/FOTO_03.jpg)
+<div class="container-img"> 
 
-Foto: Sebastião José de Araújo
+  ![Feijão-comum em plantio direto na fase vegetativa](/img/docs/08_feijao_comum/FOTO_01.jpg)
 
+  <span class="legenda-foto-fonte">Foto: Sebastião José de Araújo</span>
+  <div className="legenda-foto">Feijão-comum em plantio direto na fase vegetativa.</div>
 </div>
 
-<div className="center-textImage">
-Feijão-comum na fase de
-enchimento dos grãos.
+<div class="container-img"> 
+
+  ![Feijão-comum na fase de maturação](/img/docs/08_feijao_comum/FOTO_03.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Sebastião José de Araújo</span>
+  <div className="legenda-foto">Feijão-comum na fase de enchimento dos grãos.</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Feijão-comum na fase de enchimento dos grãos](/img/docs/08_feijao_comum/FOTO_02.jpg)
+  ![Feijão-comum na fase de enchimento dos grãos](/img/docs/08_feijao_comum/FOTO_02.jpg)
 
-Foto: Sebastião José de Araújo
-
+  <span class="legenda-foto-fonte">Foto: Sebastião José de Araújo</span>
+  <div className="legenda-foto">Feijão-comum na fase de maturação.</div>
 </div>
 
-<div className="center-textImage">
-Feijão-comum na fase de
-maturação.
+<div class="container-img"> 
+
+  ![Feijão Pérola (grupo comercial carioca)](/img/docs/08_feijao_comum/FOTO_04.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Sebastião José de Araújo</span>
+  <div className="legenda-foto">Feijão Pérola (grupo comercial carioca).</div>
 </div>
 
-![Feijão Pérola (grupo comercial carioca)](/img/docs/08_feijao_comum/FOTO_04.jpg)
-Foto: Sebastião José de Araújo
+<div class="container-img"> 
 
-<div className="center-textImage">
-Feijão Pérola (grupo comercial carioca)
+  ![Feijão Preto (grupo comercial preto)](/img/docs/08_feijao_comum/FOTO_05.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Sebastião José de Araújo</span>
+  <div className="legenda-foto">Feijão Preto (grupo comercial preto).</div>
 </div>
 
-![Feijão Preto (grupo comercial preto)](/img/docs/08_feijao_comum/FOTO_05.jpg)
-Foto: Sebastião José de Araújo
+<div class="container-img"> 
 
-<div className="center-textImage">
-Feijão Preto (grupo comercial preto)
-</div>
+  ![Feijão Jalo (grupo comercial especial)](/img/docs/08_feijao_comum/FOTO_06.jpg)
 
-![Feijão Jalo (grupo comercial especial)](/img/docs/08_feijao_comum/FOTO_06.jpg)
-Foto: Sebastião José de Araújo
 
-<div className="center-textImage">
-Feijão Jalo (grupo comercial especial)
+  <span class="legenda-foto-fonte">Foto: Sebastião José de Araújo</span>
+  <div className="legenda-foto">Feijão Jalo (grupo comercial especial).</div>
 </div>

@@ -13,7 +13,7 @@ grande valor ornamental. É comercializado como planta de vaso,
 para decoração de jardins e interiores, e como flor de corte.
 
 A flor do antúrio, na verdade, é bem pequena, alcançando o
-tamanho da cabeça de um alfinete. Aparte colorida e exótica, que
+tamanho da cabeça de um alfinete. A parte colorida e exótica, que
 normalmente achamos que é a flor, na verdade é uma
 inflorescência, ou seja, o conjunto formado pela espádice – espiga
 onde brotam as minúsculas flores - e espata do antúrio – a bráctea
@@ -56,7 +56,7 @@ matéria orgânica. De maneira geral, recomenda-se o uso de
 substratos leves, compostos por mistura de solos e matéria
 orgânica, resíduos ou produtos disponíveis na região como o
 bagaço de cana-de-açúcar, casca de arroz carbonizada e
-esterco de bovino, entre outros. Asaturação de bases deve ser
+esterco de bovino, entre outros. A saturação de bases deve ser
 superior a 60% e o pH entre 5,2 e 6,0.
 
 Tradicionalmente, utiliza-se a propagação vegetativa por
@@ -113,54 +113,57 @@ produção comercial.
 [Estiolamento in vitro – Uma alternativa para a produção de mudas micropropagadas de antúrio](https://bit.ly/3eUlmKQ)
 
 CUQUEL, F. L.; GROSSI, M. L. Produção de antúrio no litoral do
-Estado do Paraná. Revista Brasileira de Horticultura Ornamental,
-v. 10, n. 1/2, p. 35-37, 2004.
+Estado do Paraná. <span className="negrito">Revista Brasileira de Horticultura Ornamental</span>, v. 10, n. 1/2, p. 35-37, 2004.
 
 TOMBOLATO, A. F. C.; RIVAS, E. B.; COUTINHO, L. N.;
 BERGAMAN, E. C.; IMENES, S. L.; FURLANI, P. R.; CASTRO,
 C. E. F.; MATTHES, L. A. F.; SAES, L. A.; COSTA, A. M. M.;
-TAGLIACOZZO, G. M. D.; LEME, J. M. O cultivo de antúrio:
-produção comercial. Campinas: Instituto Agronômico, 2002.
+TAGLIACOZZO, G. M. D.; LEME, J. M. <span className="negrito">O cultivo de antúrio: produção comercial</span>. Campinas: Instituto Agronômico, 2002.
 47 p. (IAC. Boletim técnico, 194).
 
-### Instituição
+<div className="container-instituicoes">
 
-**Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)**
+### Instituições
 
-http://www.agraer.ms.gov.br/
-
-Fone: (67) 3318-5100
-
-Campo Grande, MS
-
-![Detalhamento de uma inflorescência de antúrio](/img/docs/28_cultivo_anturuo/FOTO_01.jpg)
-
-Fonte: Instituto de Biologia – Universidade Federal de Uberlândia.
-
-<div className="center-textImage">
-Detalhamento de uma inflorescência de antúrio.
+  <div className="instituicao">
+    <div className="nome-instituicao">
+      Agência de Desenvolvimento Agrário e Extensão Rural (Agraer)
+    </div>
+    <div className="site-instituicao">
+      <span className="negrito">Site institucional: </span>
+      <a href="http://www.agraer.ms.gov.br/" target="_blank"> http://www.agraer.ms.gov.br/</a>
+    </div>
+    <div className="telefone-instituicao">
+      <span className="negrito">Fone:</span> (67) 3318-5100
+    </div>
+    <div className="cidade-uf-instituicao">
+      <span className="negrito">Local:</span> Campo Grande, MS
+    </div>    
+  </div>
 </div>
 
-<div className="image-Box">
+### Fotos 
 
-![Flor de antúrio](/img/docs/28_cultivo_anturuo/FOTO_02.jpg)
+<div class="container-img"> 
 
-Foto: Flávio de Oliveira Ferreira
+  ![Detalhamento de uma inflorescência de antúrio](/img/docs/28_cultivo_anturuo/FOTO_01.jpg)
 
+  <span class="legenda-foto-fonte">Fonte: Instituto de Biologia – Universidade Federal de Uberlândia.</span>
+  <div className="legenda-foto">Detalhamento de uma inflorescência de antúrio.</div>
 </div>
 
-<div className="center-textImage">
-Flor de antúrio.
+<div class="container-img"> 
+
+  ![Flor de antúrio](/img/docs/28_cultivo_anturuo/FOTO_02.jpg)
+
+  <span class="legenda-foto-fonte">Foto: Flávio de Oliveira Ferreira</span>
+  <div className="legenda-foto">Flor de antúrio.</div>
 </div>
 
-<div className="image-Box">
+<div class="container-img"> 
 
-![Plantas jovens](/img/docs/28_cultivo_anturuo/FOTO_03.jpg)
+  ![Plantas jovens](/img/docs/28_cultivo_anturuo/FOTO_03.jpg)
 
-Foto: Flávio de Oliveira Ferreira
-
-</div>
-
-<div className="center-textImage">
-Plantas jovens.
+  <span class="legenda-foto-fonte">Foto: Flávio de Oliveira Ferreira</span>
+  <div className="legenda-foto">Plantas jovens.</div>
 </div>
