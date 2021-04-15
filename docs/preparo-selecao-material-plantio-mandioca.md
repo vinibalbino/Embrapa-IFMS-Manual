@@ -90,7 +90,8 @@ Ambos apresentam bom rendimento e cortes com qualidade.
 
 ### Vídeo
 
-[Embrapa desenvolve técnicas com variedades mais resistentes às pragas](https://bit.ly/2wsmjIL)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/52HoZMvjbx4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Publicações
 

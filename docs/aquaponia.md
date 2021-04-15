@@ -59,11 +59,13 @@ sifonagem e esfregar as paredes com esponja ou escova
 
 ## **4. Onde obter mais informações**
 
-### Vídeos
+### Vídeo
 
-[Aquaponia – produção integrada de peixes e hortaliças](https://www.youtube.com/watch?v=FW8XRUXhcZI)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FW8XRUXhcZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Aquaponia MS](https://www.youtube.com/aquaponiams)
+#### Canal Aquaponia MS
+
+[Link para o canal no Youtube](https://www.youtube.com/aquaponiams)
 
 ### Publicações
 

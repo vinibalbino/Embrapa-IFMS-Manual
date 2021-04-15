@@ -216,7 +216,8 @@ menor.
 
 ### Vídeo
 
-[Manejo alimentar de gado leiteiro – Agricultura familiar](https://youtu.be/NjD2I34zYj8)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NjD2I34zYj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Publicações
 

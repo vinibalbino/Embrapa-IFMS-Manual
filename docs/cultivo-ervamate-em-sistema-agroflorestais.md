@@ -186,11 +186,11 @@ ramo com folhas.
 
 ### Vídeos
 
-[Produção de erva-mate orgânica gera renda até da indústria cosmética](https://bit.ly/2VSjwRV)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5CSGE8KNvBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Como preparar o solo para o plantio da erva-mate](https://bit.ly/3by5pln)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2g4QEhusBKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Experiências bem-sucedidas de sistemas agroflorestais (SAF)](https://bit.ly/3bzT0n0)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DzgoHBlNbc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Publicações
 

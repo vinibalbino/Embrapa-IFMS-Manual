@@ -123,7 +123,7 @@ alguma cultivar de <em>Panicum</em>, tais como Mombaça, Zuri e Tamani.
 
 ### Vídeo
 
-[Embrapa – Consórcio Milho-Braquiária](https://youtu.be/BNOQ3FzLS30)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/BNOQ3FzLS30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Publicações
 

@@ -67,7 +67,7 @@ e épocas de liberação.
 
 ## **4. Onde obter mais informações**
 
-### Vídeo
+### Aplicativo
 
 [Aplicativo Guia InNat](https://bit.ly/2DqGVBi)
 

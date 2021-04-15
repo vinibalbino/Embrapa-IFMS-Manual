@@ -187,11 +187,12 @@ cortadeiras).
 
 ### Vídeos
 
-[Plantio Mecanizado de Florestas](https://bit.ly/33s2r32)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8lZIcYfUAuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Plantio Mecanizado de Florestas – Parte 2](https://bit.ly/2Dt4068)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Vdfx22vRWuQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Plantio Mecanizado de Florestas – Parte 3](https://bit.ly/2rwLTd0)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2HruQI9A4KU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Publicações
 

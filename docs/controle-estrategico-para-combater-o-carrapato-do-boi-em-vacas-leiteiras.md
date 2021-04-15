@@ -133,9 +133,9 @@ https://bit.ly/2Hn69CB
 
 ### Vídeos
 
-[Museu do carrapato 2015 – Sanidade](https://youtu.be/DAHmkNIV8fg)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DAHmkNIV8fg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Museu do carrapato e curiosidades – Sanidade](https://youtu.be/GBGxvKQRY4Q)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GBGxvKQRY4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Publicações
 
