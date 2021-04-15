@@ -142,7 +142,7 @@ mudas sadias, entre outras.
 
 ### Vídeo
 
-[Biofertilizantes e defensivos naturais para controle de pragas - Dia de Campo na TV](https://youtu.be/WXD-BNDteb8)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WXD-BNDteb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Publicações
 

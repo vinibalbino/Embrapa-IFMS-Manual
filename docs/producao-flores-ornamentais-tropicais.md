@@ -102,7 +102,8 @@ espécies apresentam grande potencial de mercado.
 
 ### Vídeo
 
-[Cúrcuma ornamental #63 Dicas rápidas](https://youtu.be/ygNhGsqMg6o)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ygNhGsqMg6o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Publicações
 

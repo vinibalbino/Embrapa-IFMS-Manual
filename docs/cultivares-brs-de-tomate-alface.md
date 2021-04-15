@@ -168,7 +168,8 @@ espaçamentos mais utilizados.
 
 ### Vídeo
 
-[Tomate híbrido BRS Nagai (Agrocinco/Embrapa)](https://bit.ly/2R9VyiE)
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_jetJROONuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Publicações
 

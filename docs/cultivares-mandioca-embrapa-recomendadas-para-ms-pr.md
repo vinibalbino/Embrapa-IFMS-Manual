@@ -78,13 +78,14 @@ de até 60 toneladas por hectare.
 
 ### Vídeos
 
-[Cultivares de Mandioca BRS 396, BRS 399 e CS 01](https://youtu.be/_spEZhTPpMU)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_spEZhTPpMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Mandioca BRS CS01](https://youtu.be/LlwDdgbzS1E)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LlwDdgbzS1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Nova mandioca](https://youtu.be/GqEHwbArcsY)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GqEHwbArcsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Mandioca BRS CS01](https://youtu.be/uP_QtTeokGw)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uP_QtTeokGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Publicações
 

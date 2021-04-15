@@ -104,7 +104,7 @@ produção comercial.
 
 ### Vídeo
 
-[Planta que era moda nos anos 50 está de volta](https://youtu.be/M_H20J-hZDQ)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/M_H20J-hZDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Publicações
 
