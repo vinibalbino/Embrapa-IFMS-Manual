@@ -9,8 +9,8 @@
     "deploy": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.58",
-    "@docusaurus/plugin-pwa": "^2.0.0-alpha.69",
+    "@docusaurus/core": "^2.0.0-alpha.ffe8b6106",
+    "@docusaurus/plugin-pwa": "^2.0.0-alpha.ffe8b6106",
     "@docusaurus/preset-classic": "^2.0.0-alpha.58",
     "clsx": "^1.1.1",
     "docusaurus-lunr-search": "^2.1.7",

@@ -8,7 +8,7 @@ module.exports = {
   baseUrl: '/cartilha/',
   //Produção
   // baseUrl: '/cartilha',
-  favicon: '/cartilha/img/logo.svg',
+  favicon: '/img/logo.svg',
   organizationName: 'IFMS - campus Dourados / Embrapa', // Usually your GitHub org/user name.
   projectName: 'Tecnologias para a Agricultura Familiar Digital', // Usually your repo name.
   plugins: [
@@ -27,12 +27,12 @@ module.exports = {
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/cartilha/img/logo.svg',
+            href: '/img/logo.svg',
           },
           {
             tagName: 'link',
             rel: 'manifest',
-            href: '/cartilha/manifest.json', // your PWA manifest
+            href: '/manifest.json', // your PWA manifest
           },
           {
             tagName: 'meta',
@@ -54,7 +54,7 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/integracao-lavoura-pecuaria-floresta',
+          to: '/docs/integracao-lavoura-pecuaria-floresta',
           label: 'Revista Completa',
           position: 'right',
         },
