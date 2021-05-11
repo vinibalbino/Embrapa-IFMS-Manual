@@ -36,7 +36,7 @@ function Home() {
             </p>
           </div>
 
-          <a href="/cartilha/docs/integracao-lavoura-pecuaria-floresta" className="btn">
+          <a href="https://www.cpao.embrapa.br/cartilha/" className="btn">
             Acessar a edição completa
           </a>
         </div>
