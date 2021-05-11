@@ -36,7 +36,7 @@ function Home() {
             </p>
           </div>
 
-          <a href="docs/integracao-lavoura-pecuaria-floresta" className="btn">
+          <a href="/cartilha/docs/integracao-lavoura-pecuaria-floresta" className="btn">
             Acessar a edição completa
           </a>
         </div>
