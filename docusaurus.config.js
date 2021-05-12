@@ -8,7 +8,7 @@ module.exports = {
   baseUrl: '/cartilha/',
   //Produção
   // baseUrl: '/cartilha',
-  favicon: '/img/logo.svg',
+  favicon: '/cartilha/logo.svg',
   organizationName: 'IFMS - campus Dourados / Embrapa', // Usually your GitHub org/user name.
   projectName: 'Tecnologias para a Agricultura Familiar Digital', // Usually your repo name.
   plugins: [
@@ -27,7 +27,7 @@ module.exports = {
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/img/logo.svg',
+            href: '/cartilha/img/logo.svg',
           },
           {
             tagName: 'link',
