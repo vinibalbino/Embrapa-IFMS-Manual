@@ -214,13 +214,13 @@ guatambu-do-cerrado e sumaúma-preta).
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/X2bJnKoboao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [Sistemas silvipastoris](https://bit.ly/36xQN8X)
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">
@@ -246,7 +246,7 @@ guatambu-do-cerrado e sumaúma-preta).
   ![linhas de eucaliptos com gados pastando envolta](/img/docs/01_Integracao/FOTO_01.jpg)
 
   <span class="legenda-foto-fonte">Foto: Eny Duboc</span>
-  <div className="legenda-foto">Sistema silvipastoril (ILPF) em faixas com linhas triplas de eucalipto e pastagem com Brachiaria brizantha cv. BRS Piatã.Fazenda Minerva, Ivinhema, MS, maio de 2013.</div>
+  <div className="legenda-foto">Sistema silvipastoril (ILPF) em faixas com linhas triplas de eucalipto e pastagem com <em>Brachiaria brizantha</em> cv. BRS Piatã. Fazenda Minerva, Ivinhema, MS, maio de 2013.</div>
 </div>
 
 <div class="container-img"> 

@@ -1,7 +1,7 @@
 ---
 id: guia-clima-monitoramento-climatico-mato-grosso-sul
-title: Guia Clima Monitoramento Climático de Mato Grosso do Sul
-sidebar_label: Guia Clima Monitoramento Climático de Mato Grosso do Sul
+title: Guia Clima - Monitoramento Climático de Mato Grosso do Sul
+sidebar_label: Guia Clima - Monitoramento Climático de Mato Grosso do Sul
 ---
 
 <div className="center-textArticle">Carlos Ricardo Fietz, Éder Comunello e Danilton Luiz Flumignan</div>
@@ -93,7 +93,7 @@ instalação do aplicativo
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

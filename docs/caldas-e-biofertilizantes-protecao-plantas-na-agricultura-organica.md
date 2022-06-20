@@ -144,7 +144,7 @@ mudas sadias, entre outras.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WXD-BNDteb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicações
+### Publicação
 
 [Calda bordalesa – utilidades e preparo](https://bit.ly/335eFjG)
 
@@ -164,7 +164,7 @@ mudas sadias, entre outras.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

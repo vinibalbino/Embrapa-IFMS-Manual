@@ -111,7 +111,7 @@ podas, irrigação e adubações de formação e produção.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Maracujá doce – BRS Mel do Cerrado (BRS MC)](https://bit.ly/2RoBwRS)
 

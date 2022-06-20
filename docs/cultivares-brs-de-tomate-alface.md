@@ -28,14 +28,11 @@ planta mais ereta, com folhas de cor verde-oliva.
 
 ## **2. Benefícios e/ou vantagens**
 
-- Cada tomate apresenta características próprias. O BRS
-  Laterrot possui frutos pesados (de 220 g a 240 g, em média),
-  com ótima coloração e excelente comportamento sob chuvas
-  (em campo aberto). Tem boa tolerância a bactérias e a diversas
-  raças de _Verticillium_, _Fusarium_, _Cladosporium_, nematoides e
-  ao vírus do mosaico do tabaco e geminivírus. O BRS Imigrante
-  é indicado tanto para estufas quanto para campo aberto.
-  Possui frutos firmes, com coloração bem vermelha e peso
+Cada tomate apresenta características próprias. 
+
+- O BRS Laterrot possui frutos pesados (de 220 g a 240 g, em média), com ótima coloração e excelente comportamento sob chuvas (em campo aberto). Tem boa tolerância a bactérias e a diversas raças de _Verticillium_, _Fusarium_, _Cladosporium_, nematoides e ao vírus do mosaico do tabaco e geminivírus. 
+  
+- O BRS Imigrante é indicado tanto para estufas quanto para campo aberto. Possui frutos firmes, com coloração bem vermelha e peso
   médio de 230 g a 250 g. É tolerante a inúmeras raças de
   _Verticillium_, _Fusarium_, à mancha de estenfílio, ao vírus do
   mosaico do tabaco e a geminivírus, e necessita de pouca
@@ -59,18 +56,20 @@ planta mais ereta, com folhas de cor verde-oliva.
   grande diferencial deste material. É indicado para estufas e
   tolerante a algumas raças de _Verticilium_ e _Fusarium_.
 
-- Em relação às alfaces, a BRS Leila e a BRS Mediterrânea são
+Em relação às alfaces, a BRS Leila e a BRS Mediterrânea são
 tolerantes à queima das bordas (deficiência de cálcio) e ao
 pendoamento. Os dois materiais são tolerantes a míldio, LMV
-(vírus do mosaico da alface), _Fusarium_ e nematoide-das-galhas. Não amargam após a passagem do ponto de colheita
-e apresentam de 4 dias a 6 dias de precocidade, em média.
+(vírus do mosaico da alface), _Fusarium_ e nematoide-das-galhas. Não amargam após a passagem do ponto de colheita e apresentam de 4 dias a 6 dias de precocidade, em média.
 
 ## **3. Como utilizar**
 
+
+No que se refere aos tomates, há inúmeras recomendações.
+
+
 ### BRS Laterrot
 
-No que se refere aos tomates, há inúmeras recomendações. O
-**BRS Laterrot** tem melhor resultado em lavouras conduzidas
+O **BRS Laterrot** tem melhor resultado em lavouras conduzidas
 com o sistema de duas hastes. Nesse formato, o material
 apresenta entre 13 e 15 pencas, com os frutos atingindo 230 g
 por unidade (250 g no início da colheita e 180 g no final),
@@ -171,7 +170,7 @@ espaçamentos mais utilizados.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_jetJROONuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicações
+### Publicação
 
 [Tomate BRS Laterrot](https://bit.ly/35U5P8e)
 
@@ -185,11 +184,11 @@ espaçamentos mais utilizados.
 
 [Alface BRS Leila](https://bit.ly/2TnBbS4)
 
-[Alface BRS Mediterrânea](https://bit.ly/2NpHCAc)
+[Alface BRS Mediterrânea](https://bit.ly/3hVNJvz)
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

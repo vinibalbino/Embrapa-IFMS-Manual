@@ -46,8 +46,7 @@ restos da construção civil (caixas d'águas, tubos e conexões).
 Bombas submersas de aquários (2.000 L/h) podem ser
 compradas na internet a preços razoáveis.
 
-De modo geral, um tanque de 1.000 L comporta de 15-20
-peixes/m<sup>3</sup> . O fornecimento de 50 g de ração por dia aos peixes
+De modo geral, um tanque de 1.000 L comporta de 15-20 peixes. O fornecimento de 50 g de ração por dia aos peixes
 libera na água nutrientes para 20-25 plantas (as proporções
 aumentam ou diminuem, dependendo do caso).
 
@@ -55,25 +54,21 @@ A manutenção do sistema requer alimentação diária dos peixes,
 remoção dos restos de ração e fezes. Também é necessária a
 verificação e controle de vazamentos de água, além de limpeza
 periódica (pelo menos uma vez por semana) do sistema, como
-sifonagem e esfregar as paredes com esponja ou escova
+sifonagem e esfregar as paredes com esponja ou escova.
 
 ## **4. Onde obter mais informações**
-
-### Vídeo
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/FW8XRUXhcZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Canal Aquaponia MS
 
 [Link para o canal no Youtube](https://www.youtube.com/aquaponiams)
 
-### Publicações
+### Publicação
 
 [Montagem e Operação de um Sistema Familiar de Aquaponia para Produção de Peixes e Hortaliças](https://bit.ly/2MT53lj)
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

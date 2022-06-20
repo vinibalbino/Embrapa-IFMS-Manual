@@ -87,7 +87,7 @@ de até 60 toneladas por hectare.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uP_QtTeokGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [BRS 396: Nova cultivar de mandioca de mesa, de polpa amarela, para o Paraná e o Mato Grosso do Sul](https://bit.ly/2IJCAMi)
 
@@ -97,7 +97,7 @@ de até 60 toneladas por hectare.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

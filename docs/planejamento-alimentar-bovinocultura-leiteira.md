@@ -12,7 +12,7 @@ que são realizadas durante um determinado período de tempo
 (por exemplo, durante 1 ano), com o objetivo de não faltar comida
 para os animais.
 
-Sabe-se que o pastejo é a forma mais econômica para a
+Sabe-se que a pastegem é a forma mais econômica para a
 alimentação do rebanho. No entanto, a alimentação exclusiva em
 pastagens é difícil de ser alcançada ao longo do ano, porque as
 condições climáticas nem sempre são favoráveis ao crescimento
@@ -30,7 +30,7 @@ requerem planejamento.
 
 Adotando-se o planejamento alimentar:
 
-- Os animais têm comida o ano todo e mantém estável (ou até
+- Os animais têm comida o ano todo e mantêm estável (ou até
   aumentam) a produção de leite.
 
 - A taxa de lotação das pastagens pode ser mantida devido ao
@@ -52,7 +52,7 @@ ponto”, como é o caso do capim-elefante. No entanto, precisa ser substituída
 <li> 
   <div>
     <p>Para a produção de silagem, as principais forrageiras utilizadas são milho, sorgo e capim-elefante. O ponto de colheita é fundamental para a qualidade da silagem e depende fundamentalmente da maturidade da planta. O milho deve ser colhido com 30% a 35% de matéria seca, ou quando a linha do leite estiver entre ½ e 2/3 do grão; o sorgo quando apresentar 30% a 35% de matéria seca ou quando os grãos estiverem na fase farinácea; para os capins-elefantes, a idade de corte varia em função da espécie: Napier, Cameroon, etc. com 70–90 dias e necessitam de desidratação ou uso de inoculantes ou aditivos; e BRS Capiaçu com 90–110 dias de idade.</p>
-    <p> A compactação é fundamental para a qualidade final da silagem. Por isso, deve-se distribuir a silagem de maneira regular e em camadas finas, e compactadas com trator de rodado simples. Depois de cheio e bem compactado, o silo precisa ser vedado com lona plástica, de alta resistência (200 micras), se possível, no mesmo dia do enchimento. Sobre a lona pode-se colocar terra, pneus, etc., para eliminar o ar existente entre a lona e o material ensilado. Após 30 dias, o silo está pronto para ser aberto. A silagem deve ser retirada em corte transversal, de cima para baixo, e deverá ser utilizada, no mínimo, uma fatia de 20 cm de espessura ao dia para evitar perdas. Por isso, é fundamental que o silo seja bem dimensionado ao número de animais, de tal forma que a quantidade mínima a ser retirada na fatia diária (20 cm x largura x altura) seja consumida no dia. Após a retirada da quantidade necessária, o silo deve ser fechado.
+    <p> A compactação é fundamental para a qualidade final da silagem. Por isso, deve-se distribuir a silagem de maneira regular e em camadas finas, e compactadas com trator de rodado simples. Depois de cheio e bem compactado, o silo precisa ser vedado com lona plástica, de alta resistência (200 micras), se possível, no mesmo dia do enchimento. Sobre a lona pode-se colocar terra, pneus, etc., para eliminar o ar existente entre a lona e o material ensilado. Após 30 dias, o silo estará pronto para ser aberto. A silagem deve ser retirada em corte transversal, de cima para baixo, e deverá ser utilizada, no mínimo, uma fatia de 20 cm de espessura ao dia para evitar perdas. Por isso, é fundamental que o silo seja bem dimensionado ao número de animais, de tal forma que a quantidade mínima a ser retirada na fatia diária (20 cm x largura x altura) seja consumida no dia. Após a retirada da quantidade necessária, o silo deve ser fechado.
       </p>
     </div>
   </li>
@@ -63,7 +63,7 @@ na Cartilha - Consórcio de milho com forrageiras: silagem e
 pasto no período da seca.</li>
   <li> 
     <div>
-      <p> O preparo da suplementação alimentar utilizando cana-de-açúcar + ureia melhora o teor proteico da dieta a ser fornecida aos animais no cocho. Com a adição de 1 kg de ureia para cada 100 kg de cana-de-açúcar (peso fresco), o teor de proteína bruta da dieta é aumentado de 2% a 3% para 10% a 12%, na matéria seca. No entanto, deve-se adicionar uma fonte de enxofre para que a ureia possa sertransformada em proteína no rúmen do animal. É importante que seja fornecido aos animais sal mineral de boa qualidade quando a dieta é baseada em cana-de-açúcar, para não haver deficiência e para não limitar a produção de leite. Além disso, pode ser necessário o fornecimento de um concentrado em função do nível de produção de leite. Mistura da fonte de enxofre com ureia: a proporção é de uma parte de sulfato de amônio (fonte de enxofre) para nove partes de ureia. Pode ser previamente misturada em  quantidade suficiente para alimentar o rebanho por vários dias. Para isso, a mistura deve ser guardada em saco plástico, em local seco e fora do alcance dos animais.
+      <p> O preparo da suplementação alimentar utilizando cana-de-açúcar + ureia melhora o teor proteico da dieta a ser fornecida aos animais no cocho. Com a adição de 1 kg de ureia para cada 100 kg de cana-de-açúcar (peso fresco), o teor de proteína bruta da dieta é aumentado de 2% a 3% para 10% a 12%, na matéria seca. No entanto, deve-se adicionar uma fonte de enxofre para que a ureia possa ser transformada em proteína no rúmen do animal. É importante que seja fornecido aos animais sal mineral de boa qualidade quando a dieta é baseada em cana-de-açúcar, para não haver deficiência e para não limitar a produção de leite. Além disso, pode ser necessário o fornecimento de um concentrado em função do nível de produção de leite. Mistura da fonte de enxofre com ureia: a proporção é de uma parte de sulfato de amônio (fonte de enxofre) para nove partes de ureia. Pode ser previamente misturada em  quantidade suficiente para alimentar o rebanho por vários dias. Para isso, a mistura deve ser guardada em saco plástico, em local seco e fora do alcance dos animais.
       </p>
       <p> O sulfato de cálcio (gesso agrícola) pode substituir o sulfato de amônio, dependendo do preço e da disponibilidade. Neste caso, utilizar a proporção de oito partes de sulfato de cálcio para duas partes de ureia.
       </p>
@@ -107,10 +107,13 @@ ser descartadas.
 para cada 100 kg de cana-de-açúcar triturada adicionar 1 kg
 de ureia + sulfato (900 g + 100 g, respectivamente) da
 mistura preparada.
+
+
 – Toda vez que um novo animal for submetido à alimentação
 com ureia, deve-se fazer sua adaptação. Caso o animal já
 adaptado fique mais de 2 dias sem a mistura, é necessário
 fazer a readaptação.
+
 
 **Muito cuidado!** A utilização inadequada de ureia pode levar à
 intoxicação e à perda de animais. Nesse caso, deve-se
@@ -135,7 +138,7 @@ comida o ano todo.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/F1Betb_JfvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [Cana com ureia na alimentação de bovinos](https://bit.ly/2XWE6Dj)
 
@@ -147,7 +150,7 @@ comida o ano todo.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

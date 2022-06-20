@@ -63,15 +63,15 @@ para a absorção e assimilação pela planta.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1dJhyrE-JJs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicações
+### Publicação
 
-[BiomaPHOS](https://bit.ly/34GaqLa)
+[BiomaPHOS](https://bit.ly/2UB5JTa)
 
 [Embrapa e Bioma lançam primeiro inoculante nacional parafósforo](https://bit.ly/2R0eB0o)
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

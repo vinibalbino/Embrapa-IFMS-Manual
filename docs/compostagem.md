@@ -99,18 +99,18 @@ técnico ou engenheiro-agrônomo.
 
 [Dia de campo na TV - Compostagem manejo e utilização na agricultura orgânica](https://youtu.be/dp8L1yTK2-k)
 
-### Publicações
+### Publicação
 
 [Instruções práticas para produção de composto orgânico em pequenas propriedades](https://bit.ly/33cpgJO)
 
 [Adubação no sistema orgânico de produção de hortaliças](https://bit.ly/339R7tX)
 
-[Fertilidade do solo e nutrição de plantas](https://bit.ly/2Y9s0XN)
+[Fertilidade do solo e nutrição de plantas](https://bit.ly/36VhhDg)
 
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

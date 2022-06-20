@@ -58,7 +58,7 @@ Na culinária, o uso da fécula
 desta planta se destaca por ser alimento de fácil digestão,
 recomendada para pessoas com restrições alimentares ao
 glúten (doença celíaca), idosos, crianças e pessoas com
-debilidade física ou doentes em recuperação. Afécula da araruta
+debilidade física ou doentes em recuperação. A fécula da araruta
 é usada no preparo de mingaus, bolos e biscoitos.
 
 ### Bardana (<em>Arctium lappa</em>)
@@ -91,7 +91,7 @@ em expansão, pois seu consumo ultrapassou o da batata-doce,
 da mandioca e da própria batata. Como alimento, é rico em
 carboidratos, proteínas, fósforo, cálcio, ferro e vitaminas B1 e B2.
 Seu amido é parecido com o do milho, em sabor, textura e cor.
-Afarinha pode ser adicionada à do trigo para a fabricação de pães
+A farinha pode ser adicionada à do trigo para a fabricação de pães
 ou ser utilizada em diversos pratos, doces ou salgados.
 
 ### Jambu (<em>Acmella oleracea</em>)
@@ -121,12 +121,11 @@ domésticas e por pequenos agricultores, assumindo importância
 étnica, cultural e econômica. Considerado por gastrônomos uma
 iguaria, os rizomas são consumidos cozidos, ensopados com
 carnes e ao molho e seu valor nutricional é comparável ao da
-batata (Solanum tuberosum).
+batata (<em>Solanum tuberosum </em>).
 
 ### Ora-pro-nóbis (<em>Pereskia aculeata</em>)
 
-A planta é uma Cactaceae
-trepadeira, cujas folhas são ricas em proteína, daí o nome de
+A planta é uma <em>Cactaceae</em> trepadeira, cujas folhas são ricas em proteína, daí o nome de
 carne de pobre. Também é fonte de aminoácidos essenciais,
 ferro e vários outros minerais. As folhas, cruas ou refogadas, com
 frango ou carne de porco, são utilizadas na culinária de Minas
@@ -164,7 +163,7 @@ mercados.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Projeto PANCs – Parte 1](https://bit.ly/37DsC9Q)
 
@@ -180,7 +179,7 @@ mercados.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

@@ -16,7 +16,7 @@ na mesa do brasileiro e a principal fonte de proteína vegetal.
 Bastante cultivado em pequenas e médias propriedades.
 
 Existe uma ampla diversidade de cultivares desenvolvidas por
-universidades e instituições de pesquisa, levando-se em conta
+universidades e Instituição de pesquisa, levando-se em conta
 as diferentes condições de clima e solo do Brasil. Essas
 cultivares estão divididas basicamente em três grupos: carioca,
 preto e especial.
@@ -78,7 +78,7 @@ que os melhores rendimentos são obtidos com espaçamentos de
 40 cm a 60 cm entre fileiras e com 8 a 10 plantas por metro linear.
 Considerando-se as variações em relação a espaçamento entre
 as linhas, número de plantas por metro, massa das sementes e seu poder germinativo, o gasto de sementes varia entre 45 kg/ha
-e 120 kg/ha. Para um cálculo exato, utilizar a fórmula: Q = (D x Px
+e 120 kg/ha. Para um cálculo exato, utilizar a fórmula: Q = (D x P x
 10)/(PG x E); onde: Q = quantidade de sementes, em kg/ha; D =
 número de plantas por metro; P = massa de 100 sementes, em
 gramas; PG = poder germinativo, em %; E = espaçamento entre
@@ -120,7 +120,7 @@ causar danos expressivos no feijoeiro, devendo-se consultar a
 assistência técnica para a recomendação de defensivos.
 Principais doenças fúngicas da parte aérea: antracnose, mancha
 angular e ferrugem. Doenças causadas por fungos que podem
-sobreviver muitos anos no solo: murcha de <em>Fusarium</em>, podridão-cinzenta da haste, podridão-radicular, mela do feijoeiro e mofo-branco. Doenças bacterianas mais frequentes: crestamento-bacteriano-comum e a murcha de Curtobacterium. Vírus mais
+sobreviver muitos anos no solo: murcha de <em>Fusarium</em>, podridão-cinzenta da haste, podridão-radicular, mela do feijoeiro e mofo-branco. Doenças bacterianas mais frequentes: crestamento-bacteriano-comum e a murcha de <em>Curtobacterium</em>. Vírus mais
 comuns: vírus do mosaico-comum, vírus do mosaico-dourado e
 Carlavirus.
 
@@ -161,7 +161,7 @@ reduzindo assim perdas na colheita.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Embrapa Arroz e Feijão](https://www.embrapa.br/arroz-e-feijao)
 
@@ -171,11 +171,10 @@ reduzindo assim perdas na colheita.
 
 [Época de semeadura da cultura do feijão-comum, com base no risco climático, na região sul de Mato Grosso do Sul](https://bit.ly/3eNkozQ)
 
-[Ministério da Agricultura, Pecuária e Abastecimento – Agrofit](https://tinyurl.com/7zvtv4o)
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

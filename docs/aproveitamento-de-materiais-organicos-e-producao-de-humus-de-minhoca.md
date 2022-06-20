@@ -20,7 +20,7 @@ húmus por minhocas gigante-africana ou vermelha-da-califórnia
   plantas.
 - Melhoria do aproveitamento da água no solo pelas plantas.
 - Melhoria dos atributos físicos, químicos e biológicos do solo.
-- Aprodução pode ser feita a partir de resíduos locais.
+-  ção pode ser feita a partir de resíduos locais.
 
 O produto final, o húmus de minhoca, pode ser utilizado como
 adubo orgânico, substrato para mudas e adubo líquido (húmus
@@ -75,7 +75,7 @@ recomendação de adubação de um engenheiro-agrônomo.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/76W7ClGThmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicações
+### Publicação
 
 [Preparo e uso de húmus líquido: opção para adubação orgânica em hortaliças](https://bit.ly/38H9yas)
 
@@ -83,7 +83,7 @@ recomendação de adubação de um engenheiro-agrônomo.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

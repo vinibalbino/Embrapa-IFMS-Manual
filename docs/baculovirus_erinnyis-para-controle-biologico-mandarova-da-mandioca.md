@@ -100,7 +100,7 @@ molhamento uniforme das folhas.</li>
   <li>Dissolver a dose do vírus a ser utilizada em água e filtrar
 (coar) a mistura antes de colocá-la no pulverizador.</li>
   <li>Verificar o pH da calda, que deve ser ácido.</li>
-  <li>Fazer a aplicação no final da tarde ou a noite, pois o vírus é
+  <li>Fazer a aplicação no final da tarde ou à noite, pois o vírus é
 sensível à luz ultravioleta (sol forte), o que permite que a
 lagarta se alimente durante a noite e até o meio da manhã
 seguinte sem que haja perda da atividade do vírus.</li>
@@ -108,13 +108,13 @@ seguinte sem que haja perda da atividade do vírus.</li>
 
 ## 4. **Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Mais dicas para aplicação do baculovírus como controle do mandarová](https://bit.ly/2QW4nOL)
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

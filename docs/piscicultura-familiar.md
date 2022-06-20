@@ -60,7 +60,7 @@ alevinos, alimentação, saúde e comercialização dos peixes.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/F7yHb8HD2mg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [Noções para piscicultura familiar – qualidade de água](https://bit.ly/35r9o5u)
 
@@ -72,7 +72,7 @@ alevinos, alimentação, saúde e comercialização dos peixes.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

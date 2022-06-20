@@ -105,7 +105,7 @@ espécies apresentam grande potencial de mercado.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ygNhGsqMg6o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [Flores e plantas ornamentais do Brasil – Volume 1](https://bit.ly/2TCK2hk)
 
@@ -115,7 +115,7 @@ espécies apresentam grande potencial de mercado.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">
@@ -173,5 +173,5 @@ espécies apresentam grande potencial de mercado.
   ![Heliconia rostrata](/img/docs/27_producao_flores/FOTO_03.jpg)
 
   <span class="legenda-foto-fonte">Foto: Liliane K. Leonel</span>
-  <div className="legenda-foto">Heliconia rostrata.</div>
+  <div className="legenda-foto"><em>Heliconia rostrata.</em></div>
 </div>

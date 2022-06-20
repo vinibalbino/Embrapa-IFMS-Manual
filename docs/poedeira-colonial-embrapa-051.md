@@ -78,7 +78,7 @@ importante, como:
 nas instalações.
 
 **c)** Não permitir o acesso de pessoas estranhas dentro dos
-aviários e piquetes
+aviários e piquetes.
 
 **d)** Utilizar água e alimento isento de contaminação.
 
@@ -153,7 +153,7 @@ escolha do melhor local.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Poedeira Embrapa 051](https://bit.ly/395Jeax)
 
@@ -171,23 +171,8 @@ ecológica**. Concórdia: Embrapa Suínos e Aves, 2017. 32 p.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
-  <div className="instituicao">
-    <div className="nome-instituicao">
-      Embrapa Algodão
-    </div>
-    <div className="site-instituicao">
-      <span className="negrito">Site institucional: </span>
-      <a href="http://www.embrapa.br/algodao" target="_blank"> http://www.embrapa.br/algodao</a>
-    </div>
-    <div className="telefone-instituicao">
-      <span className="negrito">Fone:</span> (83) 3182-4300
-    </div>
-    <div className="cidade-uf-instituicao">
-      <span className="negrito">Local:</span> Campina Grande, PB
-    </div>    
-  </div>
 
   <div className="instituicao">
     <div className="nome-instituicao">

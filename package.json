@@ -9,13 +9,15 @@
     "deploy": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.ffe8b6106",
-    "@docusaurus/plugin-pwa": "^2.0.0-alpha.ffe8b6106",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.58",
+    "@docusaurus/core": "^2.0.0-beta.ff31de0ff",
+    "@docusaurus/plugin-pwa": "^2.0.0-beta.ff31de0ff",
+    "@docusaurus/preset-classic": "^2.0.0-beta.ff31de0ff",
+    "algolia": "^0.0.0",
     "clsx": "^1.1.1",
-    "docusaurus-lunr-search": "^2.1.7",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "docusaurus-lunr-search": "^2.1.14",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "zepto": "^1.2.0"
   },
   "browserslist": {
     "production": [

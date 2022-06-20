@@ -142,7 +142,7 @@ potencialidades do produto tecnológico.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Maracujá ornamental BRS Estrela do Cerrado](https://bit.ly/2RiAFlC)
 

@@ -16,7 +16,7 @@ nos bovinos, evitando assim contínuas perdas, seja na aquisição
 de carrapaticidas, seja na diminuição da produção de leite e/ou
 carne.
 
-O _carrapato-do-boi_, cujo nome científico é _Rhipicephalus
+O carrapato-do-boi, cujo nome científico é _Rhipicephalus
 microplus_, tem o ciclo de vida parasitária em torno de 21 dias em
 um único hospedeiro que, preferencialmente, são os bovinos de
 origem europeia (vaca holandesa) e seus cruzamentos, por
@@ -49,14 +49,13 @@ apresentam relatos de populações desses carrapatos resistentes
 
 ## **2. Benefícios e/ou vantagens**
 
-- O benefício principal do controle estratégico é a economia
-  gerada pela redução na quebra na produção do leite e no
-  emprego de acaricidas. Além disso, está alinhado à demanda
-  do mercado, cada dia mais exigente em relação à
-  procedência e qualidade dos produtos de origem animal. Em
-  adição, vai ao encontro do alto interesse em preservar e
-  assumir um comprometimento de reduzir a poluição
-  ambiental.
+
+- O benefício principal do controle estratégico é a economia gerada pela redução na quebra na produção do leite e no emprego de acaricidas. 
+  
+- Além disso, está alinhado à demanda do mercado, cada dia mais exigente em relação à procedência e qualidade dos produtos de origem animal. 
+  
+- Em adição, vai ao encontro do alto interesse em preservar e assumir um comprometimento de reduzir a poluição ambiental.
+
 
 ## **3. Como utilizar**
 
@@ -137,17 +136,17 @@ https://bit.ly/2Hn69CB
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GBGxvKQRY4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicações
+### Publicação
 
 [Museu do carrapato da Embrapa Gado de Corte: espécimes de carrapatos descritos no Brasil e depositados na coleção até o momento](https://bit.ly/2Smxk6I)
 
 [Espécies de carrapatos relatadas no estado de Mato Grosso do Sul](https://bit.ly/2Sdsp7E)
 
-[Carrapatos (Acari: Ixodidae) associados ao ambiente em Campo Grande, Mato Grosso do Sul](https://bit.ly/31Sza2c)
+[Carrapatos (Acari: Ixodidae) associados ao ambiente em Campo Grande, Mato Grosso do Sul](https://bit.ly/3zljfJi)
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

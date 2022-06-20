@@ -4,7 +4,7 @@ title: 'Consórcio de Milho com Forrageiras: Silagem e Pasto no Período da Seca
 sidebar_label: Consórcio de Milho com Forrageiras
 ---
 
-<div class="center-textArticle">Gessi Ceccon</div>
+<div class="center-textArticle">Gessí Ceccon</div>
 
 ## **1. O que é**
 
@@ -71,8 +71,7 @@ semeadura do milho é indicada porque diminui os custos de
 implantação.
 
 A semeadura da braquiária realizada em torno de 5 dias após a
-semeadura do milho é importante para diminuir a competição da braquiária com o milho e ainda produzir grande quantidade de
-pasto após a colheita do milho
+semeadura do milho é importante para diminuir a competição da braquiária com o milho e ainda produzir grande quantidade de pasto após a colheita do milho.
 
 A braquiária semeada antes do milho pode competir
 demasiadamente com o milho e isso torna necessária a
@@ -125,13 +124,13 @@ alguma cultivar de <em>Panicum</em>, tais como Mombaça, Zuri e Tamani.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/BNOQ3FzLS30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicações
+### Publicação
 
 [Implantação e manejo de forrageiras em consórcio com milho safrinha](https://bit.ly/34UX9iS)
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

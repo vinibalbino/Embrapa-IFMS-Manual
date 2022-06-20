@@ -55,7 +55,7 @@ morta. Com o manejo integrado do solo, obtém-se maiores
 produtividades de maracujá.
 
 Entre as principais espécies de adubos verdes destacam-se:
-crotalarias (juncea, ochroleuca e spectabilis), mucunas (cinza,
+crotalárias (juncea, ochroleuca e spectabilis), mucunas (cinza,
 preta e anã), milheto, aveia, *Brachiaria ruziziensis* e nabo
 forrageiro. O manejo dessas plantas de cobertura deve ser
 realizado quando elas se encontram no estádio de florescimento
@@ -155,15 +155,7 @@ cultura.
 
 ### Controle do mato
 
-As capinas devem ser superficiais para evitar o ferimento das
-raízes. Evitar também o ferimento do colo do caule com a
-enxada. Se houver necessidade de gradear nas entrelinhas
-(para semear plantas de cobertura), fazê-lo logo, enquanto o
-sistema radicular do maracujazeiro não estiver muito
-desenvolvido (logo após o transplantio das mudas). Recomendase a manutenção das entrelinhas sempre vegetadas com
-gramíneas, como milheto na primavera-verão e aveia preta no
-outono. Pode-se deixar a vegetação espontânea (gramíneas,
-entre outras), manejadas por roçadas.
+As capinas devem ser superficiais para evitar o ferimento das raízes. Evitar também o ferimento do colo do caule com a enxada. Se houver necessidade de gradear nas entrelinhas (para semear plantas de cobertura), fazê-lo logo, enquanto o sistema radicular do maracujazeiro não estiver muito desenvolvido (logo após o transplantio das mudas). Recomenda-se a manutenção das entrelinhas sempre vegetadas com gramíneas, como milheto na primavera-verão e aveia preta no outono. Pode-se deixar a vegetação espontânea (gramíneas, entre outras), manejadas por roçadas.
 
 ### Controle alternativo de pragas e doenças (protetores de plantas)
 
@@ -220,14 +212,14 @@ sintomas da doença no pomar.
 A fusariose é uma doença que afeta os sistemas radicular e
 vascular das plantas e que pode inviabilizar a produção de
 maracujá. A ocorrência desse fungo (*Fusarium oxysporum* f. sp.
-passiflorae) pode justificar a enxertia da planta em portaenxertos mais resistentes, com a garfagem no topo em fenda
+passiflorae) pode justificar a enxertia da planta em porta-enxertos mais resistentes, com a garfagem no topo em fenda
 cheia de enxerto realizado com material das cultivares
-normalmente cultivadas. Geralmente utilizam-se como portaenxerto as espécies silvestres (*Passiflora nitida*, *P. giberti*,
+normalmente cultivadas. Geralmente utilizam-se como porta-enxerto as espécies silvestres (*Passiflora nitida*, *P. giberti*,
 *P. alata*, *P. foetida*, entre outras). 
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Maracujá: do cultivo à comercialização](https://bit.ly/36B80Oc)
 
@@ -235,6 +227,4 @@ normalmente cultivadas. Geralmente utilizam-se como portaenxerto as espécies si
 
 [Recomendações técnicas para o cultivo do maracujazeiro](https://bit.ly/2u2L7G9)
 
-[Manejo de pragas no Sistema Orgânico de Produção do Maracujazeiro para a Região da Chapada Diamantina, Bahia](https://bit.ly/2U90W90)
-
-[Cultivo do maracujá-amarelo](https://bit.ly/2Oaitd3)
+[Manejo de pragas no Sistema Orgânico de Produção do Maracujazeiro para a Região da Chapada Diamantina, Bahia](https://bit.ly/3rrr0Lj)

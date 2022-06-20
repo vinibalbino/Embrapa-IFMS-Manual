@@ -7,7 +7,7 @@ module.exports = {
       image: "./img/autores/agenor_martinho_correa.png",
       lattes: "http://lattes.cnpq.br/0070274390977184",
       description:
-        "Engenheiro-agrônomo, doutor em Agronomia, professor adjunto da Universidade Estadual de Mato Grosso do Sul (UEMS), Unidade Universitária de Aquidauana, Aquidauana, MS.",
+        "Engenheiro-agrônomo, doutor em Agronomia, professor adjunto da Universidade Estadual de Mato Grosso do Sul (UEMS), Aquidauana, MS.",
     },
     {
       name: "Alexandre Dinnys Roese",
@@ -55,14 +55,14 @@ module.exports = {
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/9488691755547918",
       description:
-        "Engenheira-agrônoma, mestre em Agronomia, analista (gestora de negócios tecnológicos) da Embrapa Agropecuária Oeste,Dourados, MS.",
+        "Engenheira-agrônoma, mestre em Agronomia, analista (gestora de negócios tecnológicos) da Embrapa Agropecuária Oeste, Dourados, MS.",
     },
     {
       name: "Cássia Regina Yurico Ide Vieira",
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/9661977624797082",
       description:
-        "Engenheira-agrônoma, doutora em Agronomia, pesquisadora da Agência de Desenvolvimento Agrário e Extensão Rural (Agraer),Dourados, MS.",
+        "Engenheira-agrônoma, doutora em Agronomia, pesquisadora da Agência de Desenvolvimento Agrário e Extensão Rural (Agraer), Dourados, MS.",
     },
     {
       name: "Christiane Abreu de Oliveira Paiva",
@@ -83,7 +83,7 @@ module.exports = {
       image: "./img/autores/eder_comunello.png",
       lattes: "http://lattes.cnpq.br/3879429538016773",
       description:
-        "Engenheiro-agrônomo, doutor em Engenharia de Sistemas Agrícolas, pesquisador da Embrapa Agropecuária Oeste,Dourados, MS.",
+        "Engenheiro-agrônomo, doutor em Engenharia de Sistemas Agrícolas, pesquisador da Embrapa Agropecuária Oeste, Dourados, MS.",
     },
     {
       name: "Eliane Aparecida Gomes",
@@ -146,14 +146,14 @@ module.exports = {
       image: "./img/autores/flavio_de_oliveira_ferreira.png",
       lattes: "http://lattes.cnpq.br/6120254821450444",
       description:
-        "Engenheiro-agrônomo, mestre em Fitotecnia, coordenador regional da Agência de Desenvolvimento Agrário e Extensão Rural (Agraer), Dourados, MS.",
+        "Engenheiro-agrônomo, mestre em Fitotecnia, coordenador regional da Agraer, Dourados, MS.",
     },
     {
       name: "Francimar Perez Matheus da Silva",
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/1536509006984705",
       description:
-        "Engenheira-agrônoma, doutora em Agronomia, gestora de desenvolvimento rural da Agência de Desenvolvimento Agrário e Extensão Rural (Agraer), Dourados, MS.",
+        "Engenheira-agrônoma, doutora em Agronomia, gestora de desenvolvimento rural da Agraer, Campo Grande, MS.",
     },
     {
       name: "Francisco Pinheiro de Araújo",
@@ -188,7 +188,7 @@ module.exports = {
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/1587528239422123",
       description:
-        "Engenheiro-agrônomo, mestre em Agronomia, pesquisador aposentado da Embrapa Produtos e Mercado – Escritório de Dourados, Dourados, MS.",
+        "Engenheiro-agrônomo, mestre em Agronomia, técnico da Embrapa Hortaliças, Brasília, DF.",
     },
     {
       name: "Ítalo Lüdke",
@@ -237,7 +237,7 @@ module.exports = {
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/8528567019136009",
       description:
-        "Engenheira-agrônoma, mestre em Agronomia, gestora de desenvolvimento rural da Agência de Desenvolvimento Agrário e Extensão Rural (Agraer), Dourados, MS.",
+        "Engenheira-agrônoma, mestre em Agronomia, gestora de desenvolvimento rural da Agraer, Dourados, MS.",
     },
     {
       name: "Luciano Oliveira Geisenhoff",
@@ -342,7 +342,7 @@ module.exports = {
       image: "./img/autores/renato_andreotti_e_silva.png",
       lattes: "http://lattes.cnpq.br/3621407609889650",
       description:
-        "Médica veterinária, doutora em Ciência Animal, pesquisadora da Embrapa Pantanal, Corumbá, MS.",
+        "Médicao veterinário, doutor em Biologia Molecular, pesquisador da Embrapa Gado de Corte, Campo Grande, MS.",
     },
     {
       name: "Ricardo Borghesi",
@@ -356,7 +356,7 @@ module.exports = {
       image: "./img/autores/rita_de_cassia_felix_alvarez.png",
       lattes: "http://lattes.cnpq.br/9969509263734624",
       description:
-        "Engenheira-agrônoma, doutora em Agronomia, professora adjunta da Universidade Federal de Mato Grosso do Sul (UFMS), Campus de Chapadão do Sul, Chapadão do Sul, MS.",
+        "Engenheira-agrônoma, doutora em Agronomia, professora adjunta da Universidade Federal de Mato Grosso do Sul (UFMS), Chapadão do Sul, MS.",
     },
     {
       name: "Rudiney Ringenberg",
@@ -415,7 +415,7 @@ module.exports = {
         "Bióloga, doutoranda em Bioengenharia, Universidade Federal de São João del-Rei (UFSJ), Sete Lagoas, MG.",
     },
     {
-      name: "Walder Antônio Gomes de Albuquerque Nunes",
+      name: "Walder Antônio G. de Albuquerque Nunes",
       image: "./img/autores/n-possui.png",
       lattes: "http://lattes.cnpq.br/4228175761221833",
       description:

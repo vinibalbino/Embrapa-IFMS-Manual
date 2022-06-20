@@ -7,16 +7,15 @@ module.exports = {
   //Desenvolvimento
   baseUrl: '/cartilha/',
   //Produção
-  // baseUrl: '/cartilha',
   favicon: '/cartilha/logo.svg',
   organizationName: 'IFMS - campus Dourados / Embrapa', // Usually your GitHub org/user name.
   projectName: 'Tecnologias para a Agricultura Familiar Digital', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'pt-br',
+    locales: ['pt'],
+  },
   plugins: [
-    [ 
-      require.resolve('docusaurus-lunr-search'), {
-        languages: ['en', 'de'] // language codes
-      }
-    ],
+    require.resolve('docusaurus-lunr-search'),
     [
       '@docusaurus/plugin-pwa',
       {
@@ -44,6 +43,10 @@ module.exports = {
     ]
   ],
   themeConfig: {
+    colorMode:{
+      disableSwitch: true,
+      defaultMode: 'light'
+    },
     navbar: {
       title: '',
       hideOnScroll: false,
@@ -54,8 +57,8 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/integracao-lavoura-pecuaria-floresta',
-          label: 'Revista Completa',
+          to: '/docs/intro',
+          label: 'Edição Completa',
           position: 'right',
         },
         { to: '/autores', label: 'Autores', position: 'right' },

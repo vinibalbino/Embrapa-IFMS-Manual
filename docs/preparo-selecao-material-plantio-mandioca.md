@@ -50,7 +50,7 @@ do material que vai utilizar. A escolha da gleba que fornecerá as
 ramas deverá ser feita através de inspeções periódicas do
 mandiocal, especialmente entre os meses de dezembro e
 fevereiro, que são mais indicados para a avaliação da sanidade.
-Aqueda natural das folhas, da parte mais alta da planta (ápice), é
+A queda natural das folhas, da parte mais alta da planta (ápice), é
 indicador seguro da maturação normal das ramas. Por sua vez, a
 morte das folhas do ápice (mais novas), para a base (mais
 velhas), indica problemas de sanidade. Não utilizar ramas que
@@ -93,7 +93,7 @@ Ambos apresentam bom rendimento e cortes com qualidade.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/52HoZMvjbx4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [Mandioca: Coleção 500 perguntas, 500 respostas](https://bit.ly/2xdjdZs)
 
@@ -103,7 +103,7 @@ Ambos apresentam bom rendimento e cortes com qualidade.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

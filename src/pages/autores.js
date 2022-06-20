@@ -37,7 +37,7 @@ function Autores() {
       <div className="mainContainer">
         <div className="showcaseSection">
           <div className="headerTitle">
-            <h1>Autores da edição de 2020</h1>
+            <h1>Autores</h1>
           </div>
           <div className="main-container-cards container-cards">{showcase}</div>
         </div>

@@ -112,7 +112,7 @@ antes da colheita.</li>
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Algodão colorido – um produto desenvolvido pela Embrapa para preservar o meio ambiente e gerar renda para o agricultor familiar](https://bit.ly/2Y2IGzX)
 
@@ -128,7 +128,7 @@ antes da colheita.</li>
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">
@@ -170,7 +170,7 @@ antes da colheita.</li>
   ![Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio](/img/docs/26_algodao/FOTO_01.jpg)
 
   <span class="legenda-foto-fonte">Foto: Luiz Paulo de Carvalho</span>
-  <div className="legenda-foto">Aspecto visual da fibra da cultivar de algodão colorido da Embrapa, BRS Topázio.</div>
+  <div className="legenda-foto">Helicônicas.</div>
 </div>
 
 <div class="container-img"> 

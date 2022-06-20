@@ -111,7 +111,7 @@ temperaturas, para evitar a perda de plantas.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Cultura da goiabeira](https://bit.ly/2U3XSe1)
 
@@ -120,7 +120,7 @@ Cartilha técnica). 43 p.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

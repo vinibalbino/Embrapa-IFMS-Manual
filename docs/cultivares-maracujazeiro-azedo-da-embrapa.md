@@ -109,7 +109,7 @@ produzidos.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Maracujá azedo BRS Gigante Amarelo (BRS GA1)](https://bit.ly/2Ts8umZ)
 

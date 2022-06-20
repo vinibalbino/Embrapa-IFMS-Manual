@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;1,300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;700&display=swap');
 
 :root{
   --verde-embrapa: #037836;
@@ -141,11 +141,15 @@ article p img {
 html,
 body {
   height: 100vh;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .main-wrapper {
   background: #f9f9f9;
+}
+
+#logo-cartilha{
+  height: 8rem;
 }
 
 .hero {
@@ -154,7 +158,8 @@ body {
   flex-direction: column;
   height: 600px;
   justify-content: center;
-  background-image: url("/cartilha/img/fundo-1-100.jpg");
+  background-image: url("/img/fundo-1-100.jpg");
+  /* background-image: url("/cartilha/img/fundo-1-100.jpg"); */
   background-position: center;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -178,14 +183,19 @@ body {
 }
 
 .hero .mensagem {
-  margin-bottom: 8rem;
+  margin-bottom: 2rem;
   text-align: center;
   width: 60%;
+}
+
+.navbar__logo{
+  height: 1.6rem;
 }
 
 .hero h1 {
   color: rgba(255, 255, 255, 1);
   font-size: 2.25rem;
+  font-style: italic;
   text-align: center;
 }
 
@@ -204,6 +214,11 @@ body {
   text-decoration: none;
 }
 
+.menu--responsive .menu__button {
+  color: white;
+  background-color: #007c2d;
+}
+
 .apresentacao .titulo {
   padding: 6rem 2rem;
   text-align: center;
@@ -219,11 +234,15 @@ body {
 }
 
 .texto-container {
-  background: linear-gradient(rgba(0, 20, 20, 0.5), rgba(0, 40, 50, 0.5)),
-    url(/cartilha/img/fundo-apresentacao.jpg) no-repeat no-repeat center center, #f4f4f4;
+  background: url(/img/fundo-apresentacao.jpg) no-repeat no-repeat center center, rgba(0, 40, 50, 0.5);
+  /* background: url(/img/fundo-apresentacao.jpg) no-repeat no-repeat center center, #f4f4f4; */
   padding: 3rem;
   background-size: 250%;
 }
+
+
+    
+
 
 .texto-container h1{
   color: white;
@@ -311,7 +330,7 @@ footer .container {
 
 .container-cards .card {
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
-  height: 320px;
+  height: 400px;
   margin: 1rem;
   padding: 1rem;
   position: relative;
@@ -375,9 +394,9 @@ footer .container {
   }
 
   .texto-container {
-    background-size: 40%;
+    background-size: 55%;
     padding: 4rem;
-    background-position-x: right;
+    background-position-x: 110vh;
   }
 
   .texto-container .texto {

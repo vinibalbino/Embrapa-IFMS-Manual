@@ -70,7 +70,7 @@ regional com espécies exóticas lenhosas, perenes ou de ciclo
 longo, em até 50% da área a ser recuperada. Para recuperação
 de APP, o método de plantio intercalado de espécies exóticas
 com nativas, se aplica apenas às propriedades com até quatro
-módulos fiscais, e na recuperação de RL o plantio deve ser feito
+módulos fiscais, e na recuperação de ARL o plantio deve ser feito
 na forma de sistemas agroflorestais, em qualquer tamanho de
 propriedade rural.
 
@@ -114,7 +114,7 @@ cedro, garapa, ipê, jatobá e jacarandá. O produtor também deve
 dar especial atenção para as espécies cujos frutos e sementes
 são apreciados pela fauna: araçás, araticum, cagaita, embaúba,
 ingás, jenipapo, lobeira, marmeleiros, morcegueira, murici,
-pessegueiro bravo e pimenta-de-macaco, entre outras. De cada
+pessegueiro-bravo e pimenta-de-macaco, entre outras. De cada
 espécie devem ser coletadas e misturadas, em proporções
 iguais, sementes de pelo menos 10 árvores, distantes entre si em
 50 metros ou mais.
@@ -133,7 +133,7 @@ germinar. Por exemplo: germinaram 60 sementes das 100
 semeadas, então 60% é a porcentagem de germinação obtida.
 Este cálculo deverá ser feito para cada espécie. Algumas espécies
 possuem dormência, ou seja, demoram muito para germinar,
-mesmo em condições adequadas; como é o caso do amendoim-bravo, da canafístula, da farinha seca, do guapuruvu e do jatobá.
+mesmo em condições adequadas; como é o caso do amendoim-bravo, da canafístula, da farinha-seca, do guapuruvu e do jatobá.
 Para quebrar a dormência, as sementes grandes podem ser
 lixadas ou, como as demais, podem ser imersas em água no início
 do ponto de fervura (água para chimarrão), e permanecer no
@@ -194,7 +194,7 @@ cortadeiras).
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2HruQI9A4KU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [Resolução SEMADE nº 28 de 22/03/2016](https://bit.ly/34zScva)
 
@@ -202,7 +202,7 @@ cortadeiras).
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

@@ -93,11 +93,7 @@ cobertura. Na ausência destes adubos, usar alternativas
 disponíveis na propriedade, como estercos ou compostagens e
 também a tradicional adubação verde com leguminosas.
 
-No plantio dos milhos especiais também se recomenda o uso dos
-inoculantes <em>Azospirillum brasilense</em> e BiomaPhos (solubilizador
-de fósforo), a utilização do controle biológico (<em>Baculovirus
-spodoptera</em>), contra a lagarta-do-cartucho, e o uso do capimbra-quiária para produção de palhada durante e após a colheita
-do milho.
+No plantio dos milhos especiais também se recomenda o uso dos inoculantes <em>Azospirillum brasilense</em> e BiomaPhos (solubilizador de fósforo), a utilização do controle biológico (<em>Baculovirus spodoptera</em>), contra a lagarta-do-cartucho, e o uso do capim braquiária para produção de palhada durante e após a colheita do milho.
 
 Durante a colheita das variedades "para uso como semente
 própria", recomenda-se:
@@ -108,7 +104,7 @@ própria", recomenda-se:
 aquelas com melhores espigas, com bom peso, formato
 cilíndrico, maior número de fileiras de grãos, maior
 comprimento e ausência de deformidades e de doenças
-nos grãos</li>
+nos grãos.</li>
   <li>Colher as espigas com melhor empalhamento, bem
 protegidas pela palha, para menor incidência de insetos,
 principalmente caruncho e traça. Dar preferência às
@@ -134,7 +130,7 @@ livre do contato com insetos e roedores.</li>
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Milho doce BRS Vivi](http://agrocinco.com.br/categorias/milho)
 
@@ -154,7 +150,7 @@ livre do contato com insetos e roedores.</li>
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

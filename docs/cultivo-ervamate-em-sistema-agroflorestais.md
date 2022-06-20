@@ -74,7 +74,7 @@ mecanizado, o espaçamento entre as linhas da erva-mate deve
 ser, no mínimo, de 3,5 m a 4,0 m, ou com um espaçamento que
 permita a entrada dos implementos agrícolas da propriedade,
 sem causar danos às plantas na linha. As demais árvores para
-sombreamento podem ser plantadas na mesma linha da ervamate. As mudas de erva-mate devem ser espaçadas entre si, na
+sombreamento podem ser plantadas na mesma linha da erva-mate. As mudas de erva-mate devem ser espaçadas entre si, na
 linha, em pelo menos 1,5 m. O ideal é que as culturas agrícolas,
 ou mesmo os adubos verdes, sejam cultivados primeiro,
 fornecendo sombra para o desenvolvimento inicial das árvores e
@@ -192,7 +192,7 @@ ramo com folhas.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/DzgoHBlNbc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicações
+### Publicação
 
 GIEHL. A. L.; SILVA, P. R. da; TSURUMAKI, O. L. **Erva-mate**:
 orientações para plantio e condução de ervais. 28p. Campo
@@ -200,7 +200,7 @@ Grande: AGRAER / SEPROTUR. 2007.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

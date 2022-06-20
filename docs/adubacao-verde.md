@@ -40,9 +40,7 @@ Os principais benefícios são:
   permitindo uma melhor estruturação. Com isso, há aumento
   na capacidade de armazenar água e nutrientes.
 
-- Como algumas leguminosas (por exemplo, crotaláriaspectabilis) são eficientes em controlar alguns tipos de
-  nematoides, o seu uso na adubação verde acaba diminuindo
-  sensivelmente a presença desses fitoparasitas.
+- Como algumas leguminosas (por exemplo, crotalária-spectabilis) são eficientes em controlar alguns tipos de nematoides. O seu uso na adubação verde acaba diminuindo sensivelmente a presença desses fitoparasitas.
 
 - Leguminosas enriquecem o solo com o nitrogênio que foi
   fixado diretamente da atmosfera, por bactérias associadas às
@@ -82,8 +80,7 @@ primavera/verão e adubação verde de outono/inverno.
 <ol type="a">
   <li>Adubação verde de primavera/verão: a semeadura vai de
 setembro/outubro até janeiro/fevereiro. As espécies mais
-utilizadas são as crotalárias, mucunas, guandus, feijão-deporco, feijão-caupi, feijão-bravo-do-ceará, lablab, milheto
-e sorgo, dentre outros. O plantio, nesse período, propicia
+utilizadas são as crotalárias, mucunas, guandus, feijão-de-porco, feijão-caupi, feijão-bravo-do-ceará, lab-lab, milheto e sorgo, dentre outros. O plantio, nesse período, propicia
 alta produção de massa vegetal e significativa contribuição
 de entrada de nitrogênio no sistema solo-planta, pela
 fixação biológica de nitrogênio, se o adubo verde for uma
@@ -134,7 +131,7 @@ ou grão leitoso do milho. Para o milho safrinha, a partir da
 sua floração, pode-se semear um adubo verde de
 inverno, como, por exemplo, a aveia-preta, a ervilhaca ou
 o nabo-forrageiro. Outra opção, amplamente utilizada, é o
-consórcio do milho safrinha com braquiária, produzindose grãos e palha de milho e palha ou pasto da braquiária.</li>
+consórcio do milho safrinha com braquiária, produzindo-se grãos e palha de milho e palha ou pasto da braquiária.</li>
   <li>No consórcio ou cultivo intercalar com culturas perenes,
 como cafeeiro, seringueira, citros e outras frutíferas, que
 pode ser feito em todas as ruas ou em ruas alternadas.
@@ -149,7 +146,7 @@ mais espécies de adubos verdes em conjunto.</li>
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Adubação verde](https://bit.ly/37fYWj3)
 
@@ -159,7 +156,7 @@ mais espécies de adubos verdes em conjunto.</li>
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: {
     Sumário: [
+      'intro',
       'integracao-lavoura-pecuaria-floresta',
       'planejamento-alimentar-bovinocultura-leiteira',
       'consorcio-milho-forrageiras-silagem-pasto-periodo-seca',

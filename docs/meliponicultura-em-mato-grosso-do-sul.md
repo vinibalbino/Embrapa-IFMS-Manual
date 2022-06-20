@@ -52,7 +52,7 @@ evidenciou que em MS são criadas mais de 30 espécies,
 perfazendo um total de mais de 800 colmeias. As principais
 espécies criadas estão descritas a seguir.
 
-### Jataí (<em>Tetragonisca fiebrigi</em> e <em>angustula</em>)
+### Jataí (<em>Tetragonisca fiebrigi</em> e <em>T. angustula</em>)
 
 É uma abelha
 rústica e pode ser encontrada com facilidade tanto no meio rural
@@ -74,8 +74,7 @@ gardneri_); e sucupira (_Bowdichia virgilioides_).
 
 ### Manduri-do-Mato-Grosso (<em>Melipona orbignyi</em>)
 
-A Manduri é
-considerada uma das mais sensíveis à degradação e
+A Manduri é considerada uma das mais sensíveis à degradação e
 descontinuação dos habitats, uma vez que a área de ação de voo
 é de aproximadamente 800 metros, além de outros fatores como
 a necessidade de locais amplos para a área do ninho.
@@ -115,7 +114,7 @@ defesa é o depósito de própolis pegajoso sobre quem a
 importuna, e sua colmeia é coberta com própolis depositado pela
 própria abelha.
 
-Acria é produzida em células que encostam levemente umas nas
+A cria é produzida em células que encostam levemente umas nas
 outras ou são ligadas por cerume, formando grupos parecidos
 com cachos de uva.
 
@@ -134,7 +133,7 @@ seco.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/A5xRo5HEsVI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [Abelhas e sua importância para a agricultura e manutenção da vida](https://www.embrapa.br/meio-norte/abelhas)
 
@@ -142,7 +141,7 @@ seco.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">
@@ -216,7 +215,7 @@ seco.
   ![Entrada de abelha manduripantaneira (Melipona orbignyi)](/img/docs/24_meliponicultura/FOTO_03.jpg)
 
   <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
-  <div className="legenda-foto">Entrada de abelha manduripantaneira (<em>Melipona orbignyi</em>).</div>
+  <div className="legenda-foto">Entrada de abelha Manduri pantaneira (<em>Melipona orbignyi</em>).</div>
 </div>
 
 <div class="container-img"> 
@@ -224,7 +223,7 @@ seco.
   ![Entrada de abelha marmelada-amarela (Frieseomelitta varia)](/img/docs/24_meliponicultura/FOTO_04.jpg)
 
   <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
-  <div className="legenda-foto">Entrada de abelha marmelada-amarela (<em>Frieseomelitta varia</em>).</div>
+  <div className="legenda-foto">Entrada de abelha Marmelada-amarela (<em>Frieseomelitta varia</em>).</div>
 </div>
 
 <div class="container-img"> 
@@ -232,7 +231,7 @@ seco.
   ![Entrada de abelha Marmelada amarela (Frieseomelitta varia)](/img/docs/24_meliponicultura/FOTO_05.jpg)
 
   <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
-  <div className="legenda-foto">Entrada de abelha Marmelada amarela (<em>Frieseomelitta varia</em>).</div>
+  <div className="legenda-foto">Entrada de abelha Marmelada-amarela (<em>Frieseomelitta varia</em>).</div>
 </div>
 
 <div class="container-img"> 
@@ -240,7 +239,7 @@ seco.
   ![Ninho de abelha Marmelada amarela](/img/docs/24_meliponicultura/FOTO_06.jpg)
 
   <span class="legenda-foto-fonte">Foto: Eliel Souza Freitas Júnior</span>
-  <div className="legenda-foto">Ninho de abelha Marmelada amarela.</div>
+  <div className="legenda-foto">Ninho de abelha Marmelada-amarela.</div>
 </div>
 
 <div class="container-img"> 

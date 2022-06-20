@@ -71,7 +71,7 @@ e épocas de liberação.
 
 [Aplicativo Guia InNat](https://bit.ly/2DqGVBi)
 
-### Publicações
+### Publicação
 
 [Amigo oculto do agricultor](https://bit.ly/2XZbWFN)
 
@@ -85,7 +85,7 @@ e épocas de liberação.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

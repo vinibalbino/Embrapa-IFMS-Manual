@@ -39,7 +39,7 @@ no cocho.
 - A BRS Capiaçu é indicada para a produção de silagem,
   apresentando, em média, 5,5% de proteína bruta, e também
   para ser fornecida picada verde no cocho, com 8% a 9% de
-  proteína bruta. Aprodução de massa seca é 30% superior aos
+  proteína bruta. A produção de massa seca é 30% superior aos
   demais capins da espécie, alcançando 50 toneladas de
   matéria seca por hectare. Além do elevado potencial
   produtivo, apresenta resistência ao tombamento, ausência de
@@ -99,11 +99,10 @@ para ter oferta de alimento o ano todo.
 
 [Produção de mudas de capim-elefante anão BRS Kurumi](https://bit.ly/2YJUMMM)
 
-[BRS Capiaçu: cultivar de capim-elefante voltada para a silagem – Programa Terra Sul](https://bit.ly/38zg9Vv)
 
-### Publicações
+### Publicação
 
-[Informações sobre a cultivar de capim-elefante BRS Kurumi](https://bit.ly/3clkJIU)
+[BRS Capiaçu e BRS Kurumi – Cultivo e uso](bit.ly/livro-brs-capiacu-brs-kurumi-PDF)
 
 [Características do pasto e desempenho de novilhas leiteiras em pastagem de capim-elefante cv. BRS Kurumi](https://bit.ly/2VsGoIM)
 
@@ -117,7 +116,7 @@ para ter oferta de alimento o ano todo.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

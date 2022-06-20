@@ -37,7 +37,7 @@ estados.
 
 O agricultor familiar precisa ficar atento a cinco fatores: épocas
 de plantio, espaçamento entre linhas, população de plantas por
-metro quadrado, cultivares e controle de pragas
+metro quadrado, cultivares e controle de pragas.
 
 ### Épocas de semeadura
 
@@ -54,7 +54,7 @@ a) 80 cm a 100 cm: espaçamentos maiores devem ser preferidos
    quando o feijão for destinado para colheita de vagem-verde,
    tendo em vista que as vagens são produzidas nas pontas dos
    ramos. Isso proporciona vagens maiores e fácil trânsito entre
-   as linhas para colheita e, devido às várias floradas do feijãocaupi.
+   as linhas para colheita e devido às várias floradas do feijão-caupi.
 
 b) 50 cm a 60 cm: espaçamentos menores são preferidos para
    colheita mecanizada de grãos secos, pois proporcionam
@@ -78,7 +78,7 @@ Universidade Estadual de Mato Grosso do Sul e Universidade
 Federal de Mato Grosso do Sul, desde 2009, visando à
 produtividade de grãos, destacam-se as cultivares BRS
 Tumucumaque, BRS Cauamé, BRS Tapaihum, BRS Potengi e
-BRS Guariba
+BRS Guariba.
 
 ### Fragilidades
 
@@ -88,13 +88,13 @@ necessário realizar o controle desses insetos. Cuidados também
 devem ser tomados com percevejos provenientes de lavouras de
 soja.
 
-Não tolera frio nem excesso de chuva, tanto na floração quanto
+Não tolera frio, nem excesso de chuva, tanto na floração quanto
 na colheita, pois podem causar a queda de flores e a perda na
 qualidade de grãos, respectivamente.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Feijão-caupi](https://www.embrapa.br/feijao-caupi)
 
@@ -102,7 +102,7 @@ qualidade de grãos, respectivamente.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

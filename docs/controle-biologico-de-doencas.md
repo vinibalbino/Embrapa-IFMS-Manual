@@ -138,7 +138,7 @@ caso de emprego de produtos comerciais.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Produtos biológicos de controle registrados no Brasil desde 2005](https://www.abcbio.org.br/biodefensivos-registrados/)
 
@@ -154,9 +154,7 @@ caso de emprego de produtos comerciais.
 
 [Controle Biológico de Doenças e Pragas do Tomateiro](https://bit.ly/2RHNnM9)
 
-[Manejo fitossanitário na cultura da cebola](https://bit.ly/36FyqhV)
-
-[Efeito de preparados caseiros no controle da queimaacinzentada, na cultura da cebola](https://bit.ly/318bir0)
+[Efeito de preparados caseiros no controle da queima-acinzentada, na cultura da cebola](https://bit.ly/318bir0)
 
 [Isolados nativos e comerciais de <em>Trichoderma</em> são mais eficientes no controle de doenças quando cultivados em grãos](https://bit.ly/2FwZ80Y)
 

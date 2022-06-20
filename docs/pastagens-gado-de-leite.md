@@ -19,15 +19,13 @@ que utiliza, poderá intensificar a produção e reduzir o custo,
 adequando o manejo da pastagem ao seu rebanho. Dessa forma,
 é possível evitar erros elementares, como o cultivo de espécies
 muito exigentes, como <em>Cynodon</em> spp. e capim-elefante, em solo
-pobre, sem uso de corretivos e fertilizantes. Ou, ainda, o cultivo de
-<em>Brachiaria humidicola</em> para alimentação de uma categoria
-exigente, como vacas leiteiras em produção.
+pobre, sem uso de corretivos e fertilizantes. Ou, ainda, o cultivo de <em>Brachiaria humidicola</em> para alimentação de uma categoria exigente, como vacas leiteiras em produção.
 
 ## **2. Benefícios e/ou vantagens**
 
 - Evitar erros na formação de pastagens.
 
-- Adequar o tipo de pasto à necessidade dos animais
+- Adequar o tipo de pasto à necessidade dos animais.
 
 ## **3. Como utilizar**
 
@@ -63,7 +61,7 @@ grande porte, é necessário maior atenção quanto ao manejo.
 se destacam pela produtividade e qualidade, como também pela
 facilidade de cobertura do solo. São capins menos adaptados às
 condições brasileiras. As cultivares mais comuns são Tifton 85,
-Estrela-Africana e Vaqueiro
+Estrela-Africana e Vaqueiro.
 
 ### Exigentes
 
@@ -101,7 +99,7 @@ existe pouca informação a seu respeito.
 
 ### Moderadamente exigentes
 
-Neste grupo estão as cultivares de <em>Brachiaria brizantha</em>, que tem
+Neste grupo estão as cultivares de <em>Brachiaria brizantha</em>, que têm
 moderada exigência em fertilidade, necessitam de correção e
 adubação para a formação, mas não necessitam de adubação de
 manutenção todos os anos. São capins tolerantes a pragas e
@@ -159,12 +157,7 @@ Apresenta estabelecimento lento e, como as plantas duram
 priorizando a produção de sementes no primeiro ano. Essa
 medida garante a perenidade da pastagem.
 
-**_Feijão-guandu ou andu_** – É uma leguminosa adaptada a solos
-pobres. Apresenta rápido estabelecimento e é muito produtiva.
-
-Seu valor nutritivo é limitado, embora seja rica em proteína,
-apresenta muita fibra, tornando-a pouco digestível. É mais aceita
-pelos animais durante a estação seca.
+**_Feijão-guandu ou andu_** – É uma leguminosa adaptada a solos pobres. Apresenta rápido estabelecimento e é muito produtiva.Seu valor nutritivo é limitado, embora seja rica em proteína, apresenta muita fibra, tornando-a pouco digestível. É mais aceita pelos animais durante a estação seca.
 
 Observação: quando leguminosas (guandu, estilosantes) forem
 utilizadas para pastejo, recomenda-se que sejam consorciadas
@@ -188,18 +181,7 @@ mais sensível ao alagamento prolongado em relação à anterior.
 
 ### Forrageiras anuais
 
-Além das forrageiras perenes tratadas acima, outro grupo é
-formado pelas espécies anuais, como milheto, sorgo e aveia, que
-estão entre os capins mais exigentes em termos de fertilidade do
-solo. Elas podem ser interessantes para alimentação do gado
-leiteiro, por apresentarem bom valor nutritivo e por suprirem a
-falta de forragem em períodos específicos. Por serem plantas
-anuais, o custo de formação é, proporcionalmente, mais elevado.
-Por isso, justifica-se seu cultivo após os cultivos anuais.
-B. ruziziensis também é uma espécie perene, mas como ela é
-suscetível à cigarrinha-das-pastagens e como produz muita
-semente, o seu cultivo tem tido sucesso na entressafra das
-culturas de verão, como uma forrageira anual.
+Além das forrageiras perenes tratadas acima, outro grupo é formado pelas espécies anuais, como milheto, sorgo e aveia, que estão entre os capins mais exigentes em termos de fertilidade do solo. Elas podem ser interessantes para alimentação do gado leiteiro, por apresentarem bom valor nutritivo e por suprirem a falta de forragem em períodos específicos. Por serem plantas anuais, o custo de formação é, proporcionalmente, mais elevado. Por isso, justifica-se seu cultivo após os cultivos anuais. <em>B. ruziziensis </em> também é uma espécie perene, mas como ela é suscetível à cigarrinha-das-pastagens e como produz muita semente, o seu cultivo tem tido sucesso na entressafra das culturas de verão, como uma forrageira anual.
 
 ### Considerações finais
 
@@ -219,7 +201,7 @@ menor.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/NjD2I34zYj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Publicações
+### Publicação
 
 [Características do pasto e desempenho de novilhas leiteiras em pastagem de capim-elefante cv. BRS Kurumi](https://bit.ly/39UkEdz)
 
@@ -231,7 +213,7 @@ menor.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

@@ -106,7 +106,7 @@ produção comercial.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/M_H20J-hZDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Publicações
+### Publicação
 
 [Técnicas de cultivo do antúrio](https://bit.ly/2qojVjo)
 
@@ -123,7 +123,7 @@ TAGLIACOZZO, G. M. D.; LEME, J. M. <span className="negrito">O cultivo de antúr
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">

@@ -11,7 +11,7 @@ sidebar_label: Irrigação na Agricultura Familiar
 Trata-se de uma técnica que tem por objetivo o fornecimento
 controlado de água às plantas, já que a chuva pode não ser
 suficiente para atender às suas necessidades hídricas. Esta
-prática tem custo, mas se adequadamente utilizada a renda
+prática tem custo, mas, se adequadamente utilizada, a renda
 proveniente dela é superior ao custo, tornando o balanço
 financeiro favorável. Para realizar a irrigação é importante
 responder a três perguntas: **Como, quando e quanto irrigar?**
@@ -63,7 +63,7 @@ irrigação que está sendo utilizado.
 
 ## **4. Onde obter mais informações**
 
-### Publicações
+### Publicação
 
 [Sistemas de irrigação para agricultura familiar](https://bit.ly/37r8xmP)
 
@@ -77,7 +77,7 @@ irrigação que está sendo utilizado.
 
 <div className="container-instituicoes">
 
-### Instituições
+### Instituição
 
   <div className="instituicao">
     <div className="nome-instituicao">
@@ -118,7 +118,7 @@ irrigação que está sendo utilizado.
 
   ![Irrigação por gotejamento em alface](/img/docs/30_irrigacao/FOTO_01.jpg)
 
-  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhof</span>
+  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhoff</span>
   <div className="legenda-foto">Irrigação por gotejamento em alface.</div>
 </div>
 
@@ -126,7 +126,7 @@ irrigação que está sendo utilizado.
 
   ![Bulbo molhado na irrigação por gotejamento](/img/docs/30_irrigacao/FOTO_02.jpg)
 
-  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhof</span>
+  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhoff</span>
   <div className="legenda-foto">Bulbo molhado na irrigação por gotejamento.</div>
 </div>
 
@@ -134,7 +134,7 @@ irrigação que está sendo utilizado.
 
   ![Irrigação por aspersão em hortaliças](/img/docs/30_irrigacao/FOTO_03.jpg)
 
-  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhof</span>
+  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhoff</span>
   <div className="legenda-foto">Irrigação por aspersão em hortaliças.</div>
 </div>
 
@@ -142,6 +142,6 @@ irrigação que está sendo utilizado.
 
   ![Irrigação por microaspersão em bananeiras](/img/docs/30_irrigacao/FOTO_04.jpg)
 
-  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhof</span>
+  <span class="legenda-foto-fonte">Foto: Luciano Oliveira Geisenhoff</span>
   <div className="legenda-foto">Irrigação por microaspersão em bananeiras.</div>
 </div>
