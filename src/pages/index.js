@@ -13,7 +13,7 @@ function Home() {
         <meta property="og:description" content="Embrapa" />
         <meta charSet="utf-8" />
         <meta name="theme-color" content="#218c74" />
-        <link rel="canonical" href="https://www.cpao.embrapa.br/cartilha/" />
+        <link rel="canonical" href="https://www.cpao.embrapa.br/tecnofamapp" />
         <title>Embrapa</title>
 
         <meta name="mobile-web-app-capable" content="yes" />

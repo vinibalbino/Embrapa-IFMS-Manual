@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   title: 'Embrapa',
   tagline: 'Agropecuaria Oeste',
-  url: 'https://www.cpao.embrapa.br/cartilha/',
+  url: 'https://www.cpao.embrapa.br/tecnofamapp',
   //Desenvolvimento
   baseUrl: '/cartilha/',
   //Produção
