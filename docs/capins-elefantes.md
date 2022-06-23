@@ -102,7 +102,7 @@ para ter oferta de alimento o ano todo.
 
 ### Publicação
 
-[BRS Capiaçu e BRS Kurumi – Cultivo e uso](bit.ly/livro-brs-capiacu-brs-kurumi-PDF)
+[BRS Capiaçu e BRS Kurumi – Cultivo e uso](http://bit.ly/livro-brs-capiacu-brs-kurumi-PDF)
 
 [Características do pasto e desempenho de novilhas leiteiras em pastagem de capim-elefante cv. BRS Kurumi](https://bit.ly/2VsGoIM)
 
