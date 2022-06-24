@@ -5,9 +5,9 @@ module.exports = {
   tagline: 'Agropecuaria Oeste',
   url: 'https://www.cpao.embrapa.br/tecnofamapp',
   //Desenvolvimento
-  baseUrl: '/cartilha/',
+  baseUrl: '/tecnofamapp/',
   //Produção
-  favicon: '/cartilha/logo.svg',
+  favicon: '/tecnofamapp/logo.svg',
   organizationName: 'IFMS - campus Dourados / Embrapa', // Usually your GitHub org/user name.
   projectName: 'Tecnologias para a Agricultura Familiar Digital', // Usually your repo name.
   i18n: {
@@ -26,12 +26,12 @@ module.exports = {
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/cartilha/img/logo.svg',
+            href: '/tecnofamapp/img/logo.svg',
           },
           {
             tagName: 'link',
             rel: 'manifest',
-            href: '/cartilha/manifest.json', // your PWA manifest
+            href: '/tecnofamapp/manifest.json', // your PWA manifest
           },
           {
             tagName: 'meta',
