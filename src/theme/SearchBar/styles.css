@@ -29,8 +29,8 @@
     transition: none !important;
   }
 
-  .search-bar-expanded {
-    width: 9rem !important;
+  .navbar__search-input {
+    width: 100% !important;
   }
 
   .search-icon {

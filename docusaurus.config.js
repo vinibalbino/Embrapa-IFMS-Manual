@@ -53,7 +53,7 @@ module.exports = {
       logo: {
         alt:
           'logo Embrapa com letras em azul com um simbolo verde, sendo que as letras em cima do simbolo são brancas',
-        src: 'img/logo.svg',
+        src: 'img/logo.svg'       
       },
       items: [
         {

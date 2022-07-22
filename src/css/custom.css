@@ -240,9 +240,41 @@ body {
   background-size: 250%;
 }
 
+/* NAV BAR e LOGOTIPOS*/
 
-    
+.logotipo{
+  padding-left: 1rem;
+}
 
+#logo-ifms{
+  height: 2rem;
+}
+
+#logo-embrapa{
+  height: 3rem;
+}
+
+.navbar__search{
+  display: flex;
+  align-items: center;
+}
+
+.navbar__logo{
+  display: none !important;
+}
+
+.navbar-sidebar--show .navbar__logo{
+  display: initial !important;
+  content:url("/img/logo-if-embrapa.png");
+  height: 3rem;
+}
+
+.navbar-sidebar--show .navbar__logo::after{
+  content: "→";
+  display: block;
+  border: solid 3px red;
+}
+/* -------------------------------------- */
 
 .texto-container h1{
   color: white;
@@ -361,6 +393,10 @@ footer .container {
 }
 
 @media screen and (min-width: 850px) {
+  .navbar__logo{
+    display: initial !important;
+  }
+
   .container-cards .card {
     width: 35vw;
   }
@@ -413,5 +449,15 @@ footer .container {
 
   .container-cards .card {
     width: 28vw;
+  }
+}
+
+@media (max-width: 960px) {
+  .navbar__search-input {
+    width: 100% !important;
+  }
+
+  .logotipo{
+    display: none;
   }
 }

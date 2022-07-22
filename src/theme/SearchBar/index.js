@@ -103,6 +103,8 @@ const Search = props => {
         onBlur={toggleSearchIconClick}
         ref={searchBarRef}
       />
+      <img className="logotipo" id="logo-ifms" src="img/ifms-dr-marca-2015.png" alt="Logotiopo do IFMS Campus Dourados" />
+      <img className="logotipo" id="logo-embrapa" src="img/logo-embrapa-400.png" alt="Logotiopo do IFMS Campus Dourados" />
     </div>
   );
 };
