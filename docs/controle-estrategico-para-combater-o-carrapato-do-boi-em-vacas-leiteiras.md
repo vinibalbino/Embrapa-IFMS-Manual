@@ -126,9 +126,7 @@ aprovado no teste.
 
 ## **4. Onde obter mais informações**
 
-A Embrapa Gado de Corte mantém uma página na internet com
-informações sobre controle de carrapatos, o Museu do carrapato:
-https://bit.ly/2Hn69CB
+A Embrapa Gado de Corte mantém uma página na internet com informações sobre controle de carrapatos, o Museu do carrapato: [https://bit.ly/2Hn69CB](https://bit.ly/2Hn69CB)
 
 ### Vídeos
 

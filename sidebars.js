@@ -38,7 +38,10 @@ module.exports = {
       'cultivares-maracujazeiros-doce-e-silvestres-embrapa',
       'producao-sustentavel-de-maracaju-amarelo',
       'inoculantes-de-microrganismos-solubilizadores-de-fosforo',
-      'controle-estrategico-para-combater-o-carrapato-do-boi-em-vacas-leiteiras'
+      'controle-estrategico-para-combater-o-carrapato-do-boi-em-vacas-leiteiras',
+      'cultivares-de-gergelim',
+      'grao-de-bico',
+      'sisteminha-embrapa'
     ],
   },
 };

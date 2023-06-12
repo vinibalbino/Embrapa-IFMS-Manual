@@ -3,16 +3,19 @@ const path = require('path');
 module.exports = {
   title: 'Embrapa',
   tagline: 'Agropecuaria Oeste',
-  url: 'https://www.cpao.embrapa.br/tecnofamapp',
+  // url: 'https://www.cpao.embrapa.br/tecnofamapp',
+  url: 'https://www.cpao.embrapa.br/',
   //Desenvolvimento
-  baseUrl: '/tecnofamapp/',
+  baseUrl: '/',
+  favicon: '/logo.svg',
   //Produção
-  favicon: '/tecnofamapp/logo.svg',
+  //baseUrl: '/tecnofamapp/',
+  //favicon: '/tecnofamapp/logo.svg',
   organizationName: 'IFMS - campus Dourados / Embrapa', // Usually your GitHub org/user name.
   projectName: 'Tecnologias para a Agricultura Familiar Digital', // Usually your repo name.
   i18n: {
     defaultLocale: 'pt-br',
-    locales: ['pt'],
+    locales: ['pt-br'],
   },
   plugins: [
     require.resolve('docusaurus-lunr-search'),
@@ -20,18 +23,20 @@ module.exports = {
       '@docusaurus/plugin-pwa',
       {
         debug: true,
-        offlineModeActivationStrategies: ['appInstalled', 'queryString'],
-        reloadPopup: '@theme/PwaReloadPopup',
+        offlineModeActivationStrategies: ['appInstalled','standalone','queryString',],
+        //reloadPopup: '@theme/PwaReloadPopup',
         pwaHead: [
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/tecnofamapp/img/logo.svg',
+            //href: '/tecnofamapp/img/logo.svg',
+            href: '/img/logo.svg',
           },
           {
             tagName: 'link',
             rel: 'manifest',
-            href: '/tecnofamapp/manifest.json', // your PWA manifest
+            href: '/manifest.json', // your PWA manifest
+            //href: '/tecnofamapp/manifest.json', // your PWA manifest
           },
           {
             tagName: 'meta',
