@@ -46,8 +46,7 @@ Os principais benefícios são:
   fixado diretamente da atmosfera, por bactérias associadas às
   raízes das plantas.
 
-- Fornece matéria orgânica ao solo e aumenta sua atividade
-  biológica.
+- Fornece matéria orgânica ao solo e aumenta sua atividade biológica.
 
 - Recicla os nutrientes que estão em camadas mais profundas
   do solo.

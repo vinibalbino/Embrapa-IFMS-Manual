@@ -23,7 +23,7 @@ O pacote básico inicial indicado é composto por cinco módulos: tanque de peix
 O tanque de cultivo de peixes com aproximadamente 10 m<sup>3</sup> de água tem capacidade de produção de 30 quilos de peixe por ciclo de 100 dias. Todas as produções integradas aproveitam de alguma forma os resíduos ricos em nutrientes produzidos pela piscicultura. A ração industrializada utilizada para alimentação dos peixes, por meio de sobras e dejetos, deixa disponível na água nitrogênio fósforo, potássio e outros nutrientes que serãoaproveitados para a irrigação e adubação das plantas.
 
 Os interessados na tecnologia podem procurar capacitação por
-meio do Ambiente Virtual de Aprendizado da Embrapa.
+meio do Ambiente Virtual de Aprendizado da Embrapa ou a Unidade da Embrapa Agropecuária Oeste.
 
 ## **4. Onde obter mais informações**
 
